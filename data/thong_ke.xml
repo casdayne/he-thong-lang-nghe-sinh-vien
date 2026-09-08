@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<thong_ke nguon="UIT-VSFC">
+  <so_phan_hoi>16175</so_phan_hoi>
+  <do_dai_trung_binh>12.6</do_dai_trung_binh>
+  <cam_xuc>
+    <muc ten="Tích cực">8038</muc>
+    <muc ten="Tiêu cực">7439</muc>
+    <muc ten="Trung lập">698</muc>
+  </cam_xuc>
+  <chu_de>
+    <muc ten="Giảng viên">11607</muc>
+    <muc ten="Chương trình">3040</muc>
+    <muc ten="Khác">816</muc>
+    <muc ten="Cơ sở vật chất">712</muc>
+  </chu_de>
+</thong_ke>

@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.bak
+
+tai_lieu/
+PHAN_CONG_5_NGUOI.md
+
+.ipynb_checkpoints/
+.vscode/
+.idea/
+venv/
+.env

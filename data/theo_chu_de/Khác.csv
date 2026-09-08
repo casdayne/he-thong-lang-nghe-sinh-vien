@@ -1,0 +1,817 @@
+feedback,sentiment,topic,split,feedback_sach,ten_cam_xuc,ten_chu_de,so_tu
+"em sẽ nợ môn này , nhưng em sẽ học lại ở các học kỳ kế tiếp .",2,3,train,em sẽ nợ môn này nhưng em sẽ học lại ở các học kỳ kế tiếp,Trung lập,Khác,16
+dễ bị áp lực .,0,3,train,dễ bị áp lực,Tiêu cực,Khác,4
+hài lòng về tất cả .,1,3,train,hài lòng về tất cả,Tích cực,Khác,5
+"chúc các thầy cô , anh chị làm việc vui vẻ !",1,3,train,chúc các thầy cô anh chị làm việc vui vẻ,Tích cực,Khác,10
+cần có sự tương tác giữa giảng viên và sinh viên nhiều hơn .,0,3,train,cần có sự tương tác giữa giảng viên và sinh viên nhiều hơn,Tiêu cực,Khác,13
+đề thi môn dài sinh viên làm không đủ thời gian .,0,3,train,đề thi môn dài sinh viên làm không đủ thời gian,Tiêu cực,Khác,11
+nghiên cứu khoa học .,2,3,train,nghiên cứu khoa học,Trung lập,Khác,4
+chỉ thông báo trên lớp sẽ khó tránh sai sót .,0,3,train,chỉ thông báo trên lớp sẽ khó tránh sai sót,Tiêu cực,Khác,10
+bạn nào khá thì có thể áp dụng công thức vào bài tập cả lớp chưa đến 30% còn thực sự hiểu môn học thì rất ít người hiểu .,0,3,train,bạn nào khá thì có thể áp dụng công thức vào bài tập cả lớp chưa đến 30 còn thực sự hiểu môn học thì rất ít người hiểu,Tiêu cực,Khác,29
+không thực hành được buổi nào .,0,3,train,không thực hành được buổi nào,Tiêu cực,Khác,6
+"ví dụ đề tài của em là doubledot các nguyên lý cơ bản , bao gồm 7 nguyên tắc của bohm ( 1983 ) .",2,3,train,ví dụ đề tài của em là doubledot các nguyên lý cơ bản bao gồm 7 nguyên tắc của bohm 1983,Trung lập,Khác,21
+không !,2,3,train,không,Trung lập,Khác,1
+nói chung là nghe không bao giờ nghe rõ được .,0,3,train,nói chung là nghe không bao giờ nghe rõ được,Tiêu cực,Khác,10
+"có kiến thức nền tảng này , sinh viên có thể học thêm bất kỳ công nghệ cụ thể nào đó dễ dàng , cũng như tiếp thu thay đổi công nghệ mới nhanh chóng .",1,3,train,có kiến thức nền tảng này sinh viên có thể học thêm bất kỳ công nghệ cụ thể nào đó dễ dàng cũng như tiếp thu thay đổi công nghệ mới nhanh chóng,Tích cực,Khác,33
+chưa nhận được gì từ môn học này .,0,3,train,chưa nhận được gì từ môn học này,Tiêu cực,Khác,8
+em xin cảm ơn .,1,3,train,em xin cảm ơn,Tích cực,Khác,4
+"chúng em đã gặp khó khắn với khổ giấy nhỏ , mô hình thì lớn và phức tạp .",0,3,train,chúng em đã gặp khó khắn với khổ giấy nhỏ mô hình thì lớn và phức tạp,Tiêu cực,Khác,17
+"nếu em buồn ngủ , dù lên lớp em vẫn sẽ ngủ , mà ngủ ở trên lớp thì đau lưng và tê chân lắm .",0,3,train,nếu em buồn ngủ dù lên lớp em vẫn sẽ ngủ mà ngủ ở trên lớp thì đau lưng và tê chân lắm,Tiêu cực,Khác,23
+cơ mà em học môn này em hiểu colonlove .,1,3,train,cơ mà em học môn này em hiểu colonlove,Tích cực,Khác,9
+không có gì đặc biệt .,2,3,train,không có gì đặc biệt,Trung lập,Khác,5
+"nói chuyện lan man , không liên quan đến môn học quá nhiều .",0,3,train,nói chuyện lan man không liên quan đến môn học quá nhiều,Tiêu cực,Khác,12
+làm bài tập .,2,3,train,làm bài tập,Trung lập,Khác,3
+điểm .,2,3,train,điểm,Trung lập,Khác,1
+sự thân thiện và tận tình đối với học viên .,1,3,train,sự thân thiện và tận tình đối với học viên,Tích cực,Khác,10
+nhằm giảm thời lượng giảng dạy cũng như sự thú vị khi học môn toán .,0,3,train,nhằm giảm thời lượng giảng dạy cũng như sự thú vị khi học môn toán,Tiêu cực,Khác,15
+"chú ý giữ sức khỏe , nhất là cổ họng colonsmile .",0,3,train,chú ý giữ sức khỏe nhất là cổ họng colonsmile,Tiêu cực,Khác,10
+kể chuyện hay .,1,3,train,kể chuyện hay,Tích cực,Khác,3
+em xin lỗi nhưng đó là sự thật !,0,3,train,em xin lỗi nhưng đó là sự thật,Tiêu cực,Khác,8
+"đó là tiền của họ , họ muốn dùng thì tùy họ , người khác nghèo không phải lỗi của họ , chưa kể tiền thuế họ đóng góp cho nước cũng đủ để gọi là xây dựng rồi .",0,3,train,đó là tiền của họ họ muốn dùng thì tùy họ người khác nghèo không phải lỗi của họ chưa kể tiền thuế họ đóng góp cho nước cũng đủ để gọi là xây dựng rồi,Tiêu cực,Khác,36
+nên tổ chức thêm những buổi hội thảo liên quan đến nội dung môn học .,0,3,train,nên tổ chức thêm những buổi hội thảo liên quan đến nội dung môn học,Tiêu cực,Khác,15
+điện thoại không liên lạc được .,0,3,train,điện thoại không liên lạc được,Tiêu cực,Khác,6
+giúp sinh viên cảm thấy thoải mái trong giờ học .,1,3,train,giúp sinh viên cảm thấy thoải mái trong giờ học,Tích cực,Khác,10
+thì có thể lướt nhanh hơn vì phần này khá dễ .,0,3,train,thì có thể lướt nhanh hơn vì phần này khá dễ,Tiêu cực,Khác,11
+dễ học dễ hiểu .,1,3,train,dễ học dễ hiểu,Tích cực,Khác,4
+nope .,2,3,train,nope,Trung lập,Khác,1
+không thực tế .,0,3,train,không thực tế,Tiêu cực,Khác,3
+đây là điều gây bức xúc với sinh viên .,0,3,train,đây là điều gây bức xúc với sinh viên,Tiêu cực,Khác,9
+khó hiểu ạ .,0,3,train,khó hiểu ạ,Tiêu cực,Khác,3
+chưa ổn .,0,3,train,chưa ổn,Tiêu cực,Khác,2
+thân .,2,3,train,thân,Trung lập,Khác,1
+"khó hiểu , không sinh động .",0,3,train,khó hiểu không sinh động,Tiêu cực,Khác,5
+"thưa , không có ạ .",2,3,train,thưa không có ạ,Trung lập,Khác,4
+giúp em hiểu ra được nhiều cái hay .,1,3,train,giúp em hiểu ra được nhiều cái hay,Tích cực,Khác,8
+có sai nhận sai và sửa đổi khắc phục .,0,3,train,có sai nhận sai và sửa đổi khắc phục,Tiêu cực,Khác,9
+không có ý kiến nhiều .,2,3,train,không có ý kiến nhiều,Trung lập,Khác,5
+không có .,2,3,train,không có,Trung lập,Khác,2
+em không có ý kiến về mục này ạ .,2,3,train,em không có ý kiến về mục này ạ,Trung lập,Khác,9
+giúp chúng em học tập tốt hơn .,1,3,train,giúp chúng em học tập tốt hơn,Tích cực,Khác,7
+có một bạn trong phòng của em học thầy ở học kỳ trước hâm mộ thầy !,1,3,train,có một bạn trong phòng của em học thầy ở học kỳ trước hâm mộ thầy,Tích cực,Khác,16
+thân mến .,2,3,train,thân mến,Trung lập,Khác,2
+ida pro 64-bit hoàn toàn có thể phân tích các file thực thi 32-bit nhưng các thanh ghi phức tạp hơn nhiều thay cho ida pro 64-bit không phân tích được cái file thực thi 32-bit colonsmile .,0,3,train,ida pro 64 bit hoàn toàn có thể phân tích các file thực thi 32 bit nhưng các thanh ghi phức tạp hơn nhiều thay cho ida pro 64 bit không phân tích được cái file thực thi 32 bit colonsmile,Tiêu cực,Khác,41
+không co ý kiến .,1,3,train,không co ý kiến,Tích cực,Khác,4
+dễ thương .,1,3,train,dễ thương,Tích cực,Khác,2
+không hiểu gì khi ngồi nghe trong lớp .,0,3,train,không hiểu gì khi ngồi nghe trong lớp,Tiêu cực,Khác,8
+dễ chịu .,1,3,train,dễ chịu,Tích cực,Khác,2
+xin cảm ơn !,2,3,train,xin cảm ơn,Trung lập,Khác,3
+lòng nhiệt tình .,1,3,train,lòng nhiệt tình,Tích cực,Khác,3
+ok hết .,1,3,train,ok hết,Tích cực,Khác,2
+bằng chứng là kỳ thi cuối kỳ điểm trải dài từ 1 - 5 điểm .,0,3,train,bằng chứng là kỳ thi cuối kỳ điểm trải dài từ 1 5 điểm,Tiêu cực,Khác,14
+chỉ tại em thiếu từ vựng anh văn .,2,3,train,chỉ tại em thiếu từ vựng anh văn,Trung lập,Khác,8
+em ít khi lên lớp .,2,3,train,em ít khi lên lớp,Trung lập,Khác,5
+em không hiểu bài nhiều .,0,3,train,em không hiểu bài nhiều,Tiêu cực,Khác,5
+thật sự rất hài lòng .,1,3,train,thật sự rất hài lòng,Tích cực,Khác,5
+chả có gì hài lòng .,0,3,train,chả có gì hài lòng,Tiêu cực,Khác,5
+đánh giá cao colonsmile .,1,3,train,đánh giá cao colonsmile,Tích cực,Khác,4
+"cô tận tâm , nhiệt tình .",1,3,train,cô tận tâm nhiệt tình,Tích cực,Khác,5
+sinh viên chịu khó sẽ làm được bài .,1,3,train,sinh viên chịu khó sẽ làm được bài,Tích cực,Khác,8
+ảnh hướng tới kết quả chung của em .,0,3,train,ảnh hướng tới kết quả chung của em,Tiêu cực,Khác,8
+"rất tốt , không có ý kiến .",1,3,train,rất tốt không có ý kiến,Tích cực,Khác,6
+đôi từ tiếng anh em chưa hiểu .,0,3,train,đôi từ tiếng anh em chưa hiểu,Tiêu cực,Khác,7
+lớp học quá đông nên rất nóng .,0,3,train,lớp học quá đông nên rất nóng,Tiêu cực,Khác,7
+có nắm được lý thuyết của môn học .,2,3,train,có nắm được lý thuyết của môn học,Trung lập,Khác,8
+rất nản .,0,3,train,rất nản,Tiêu cực,Khác,2
+em thấy học vậy cũng được rồi .,2,3,train,em thấy học vậy cũng được rồi,Trung lập,Khác,7
+nói chung cũng tạm được .,2,3,train,nói chung cũng tạm được,Trung lập,Khác,5
+"rõ ràng , căn bản , thực tế .",1,3,train,rõ ràng căn bản thực tế,Tích cực,Khác,6
+được giảng viên hướng dẫn cụ thể dễ hiểu .,1,3,train,được giảng viên hướng dẫn cụ thể dễ hiểu,Tích cực,Khác,9
+"thật sự bọn em cũng cạn lời , đành ngậm ngùi mò lên mạng tra search các kiểu hơn một tiếng đồng hồ mới làm được một câu .",0,3,train,thật sự bọn em cũng cạn lời đành ngậm ngùi mò lên mạng tra search các kiểu hơn một tiếng đồng hồ mới làm được một câu,Tiêu cực,Khác,27
+hài hước .,1,3,train,hài hước,Tích cực,Khác,2
+nhàm chán .,0,3,train,nhàm chán,Tiêu cực,Khác,2
+không có gì cả ạ .,2,3,train,không có gì cả ạ,Trung lập,Khác,5
+dễ gây nhàm chán .,0,3,train,dễ gây nhàm chán,Tiêu cực,Khác,4
+đa số các giờ đều do sinh viên thuyết trình nhưng thực tế sinh viên đứng thuyết trình còn chưa hiểu bài làm sao trình bày lại cho các bạn hiểu .,0,3,train,đa số các giờ đều do sinh viên thuyết trình nhưng thực tế sinh viên đứng thuyết trình còn chưa hiểu bài làm sao trình bày lại cho các bạn hiểu,Tiêu cực,Khác,31
+tất cả các hoạt động trên lớp .,2,3,train,tất cả các hoạt động trên lớp,Trung lập,Khác,7
+"thích ngủ thì ngủ , ngoài ra chả có gì hài lòng .",0,3,train,thích ngủ thì ngủ ngoài ra chả có gì hài lòng,Tiêu cực,Khác,11
+không biết .,2,3,train,không biết,Trung lập,Khác,2
+thú vị .,1,3,train,thú vị,Tích cực,Khác,2
+vâng không có ý kiến gì thêm .,2,3,train,vâng không có ý kiến gì thêm,Trung lập,Khác,7
+hơi khó tiếp thu .,0,3,train,hơi khó tiếp thu,Tiêu cực,Khác,4
+mấy cái khảo sát trước em tưởng một là tốt nhất nên đánh nhầm rồi ạ .,0,3,train,mấy cái khảo sát trước em tưởng một là tốt nhất nên đánh nhầm rồi ạ,Tiêu cực,Khác,16
+có nhiều tài liệu hay .,1,3,train,có nhiều tài liệu hay,Tích cực,Khác,5
+"cô rất chu đáo , nhiệt tình .",1,3,train,cô rất chu đáo nhiệt tình,Tích cực,Khác,6
+rất hữu ích .,1,3,train,rất hữu ích,Tích cực,Khác,3
+"cô nhiệt tình , dạy hay , nhiều bài tập .",1,3,train,cô nhiệt tình dạy hay nhiều bài tập,Tích cực,Khác,8
+không có ý kiến thêm .,2,3,train,không có ý kiến thêm,Trung lập,Khác,5
+cần hiểu rõ thêm cách kết nối prolog với c .,0,3,train,cần hiểu rõ thêm cách kết nối prolog với c,Tiêu cực,Khác,10
+"không có , do em không có khả năng tiếp thu đối với môn này thôi .",2,3,train,không có do em không có khả năng tiếp thu đối với môn này thôi,Trung lập,Khác,15
+ít thực tế .,0,3,train,ít thực tế,Tiêu cực,Khác,3
+em thấy việc này khá bổ ích .,1,3,train,em thấy việc này khá bổ ích,Tích cực,Khác,7
+rất cần cho việc phát triển sau này .,1,3,train,rất cần cho việc phát triển sau này,Tích cực,Khác,8
+em xin góp ý như thế ạ .,2,3,train,em xin góp ý như thế ạ,Trung lập,Khác,7
+dễ thương coloncontemn .,1,3,train,dễ thương coloncontemn,Tích cực,Khác,3
+cô thoải mái .,1,3,train,cô thoải mái,Tích cực,Khác,3
+em cám ơn !,2,3,train,em cám ơn,Trung lập,Khác,3
+em rất hài lòng .,1,3,train,em rất hài lòng,Tích cực,Khác,4
+"đồng thời , giảng viên rất tích cực , năng nổ trong việc giảng dạy , cung cấp cho sinh viên nhiều kiến thức bổ ích và cũng luôn vui vẻ , hoà đồng nhằm khiến sinh viên cảm thấy thoải mái khi đến lớp .",1,3,train,đồng thời giảng viên rất tích cực năng nổ trong việc giảng dạy cung cấp cho sinh viên nhiều kiến thức bổ ích và cũng luôn vui vẻ hoà đồng nhằm khiến sinh viên cảm thấy thoải mái khi đến lớp,Tích cực,Khác,41
+chúng em không theo kịp !,0,3,train,chúng em không theo kịp,Tiêu cực,Khác,5
+"nếu như một người không xem bài "" kỹ "" trước ở nhà .",2,3,train,nếu như một người không xem bài kỹ trước ở nhà,Trung lập,Khác,11
+đến lớp hơi muộn do giao thông .,0,3,train,đến lớp hơi muộn do giao thông,Tiêu cực,Khác,7
+phù hợp với thực tiễn .,1,3,train,phù hợp với thực tiễn,Tích cực,Khác,5
+khổ lắm .,0,3,train,khổ lắm,Tiêu cực,Khác,2
+hợp tác .,2,3,train,hợp tác,Trung lập,Khác,2
+ảnh hưởng đến việc thực hành .,0,3,train,ảnh hưởng đến việc thực hành,Tiêu cực,Khác,6
+em không có ý kiến gì thêm .,2,3,train,em không có ý kiến gì thêm,Trung lập,Khác,7
+em cảm ơn .,2,3,train,em cảm ơn,Trung lập,Khác,3
+em cám ơn .,2,3,train,em cám ơn,Trung lập,Khác,3
+"chất lượng giảng dạy tốt , em rất hài lòng với cách dạy của cô .",1,3,train,chất lượng giảng dạy tốt em rất hài lòng với cách dạy của cô,Tích cực,Khác,14
+"sản phẩm mình làm ra , đem người khác báo cáo thì không được hợp lý .",0,3,train,sản phẩm mình làm ra đem người khác báo cáo thì không được hợp lý,Tiêu cực,Khác,15
+mà hơn nữa ngủ ở lớp học còn rất dễ bị đau lưng .,0,3,train,mà hơn nữa ngủ ở lớp học còn rất dễ bị đau lưng,Tiêu cực,Khác,13
+"bởi chúng em đang đi học , phải học của nhiều môn khác nhau .",2,3,train,bởi chúng em đang đi học phải học của nhiều môn khác nhau,Trung lập,Khác,13
+chất lượng kiến thức được giáo viên truyền đạt hay .,1,3,train,chất lượng kiến thức được giáo viên truyền đạt hay,Tích cực,Khác,10
+rõ ràng .,1,3,train,rõ ràng,Tích cực,Khác,2
+thiếu nghiêm túc trong học tập .,0,3,train,thiếu nghiêm túc trong học tập,Tiêu cực,Khác,6
+"cô rất vui tính , giảng bài tận tình .",1,3,train,cô rất vui tính giảng bài tận tình,Tích cực,Khác,8
+em rất thích !,1,3,train,em rất thích,Tích cực,Khác,3
+tốt ạ .,1,3,train,tốt ạ,Tích cực,Khác,2
+i love thầy !,1,3,train,i love thầy,Tích cực,Khác,3
+rất hài lòng !,1,3,train,rất hài lòng,Tích cực,Khác,3
+không .,2,3,train,không,Trung lập,Khác,1
+"rồi một nhóm thì phải chấm điểm báo cáo cuối kỳ cho 3 nhóm khác , làm phiếu chấm điểm , soạn câu hỏi mà có yêu cầu ra đáp án đồ án của nhóm code chưa tới đâu thì sao mà ngồi đọc source của nhóm khác để code tiếp cho họ .",0,3,train,rồi một nhóm thì phải chấm điểm báo cáo cuối kỳ cho 3 nhóm khác làm phiếu chấm điểm soạn câu hỏi mà có yêu cầu ra đáp án đồ án của nhóm code chưa tới đâu thì sao mà ngồi đọc source của nhóm khác để code tiếp cho họ,Tiêu cực,Khác,51
+không hiệu quả .,0,3,train,không hiệu quả,Tiêu cực,Khác,3
+"dạy rất dễ hiểu và nhiệt tình , em rất thích cách giảng dạy của cô .",1,3,train,dạy rất dễ hiểu và nhiệt tình em rất thích cách giảng dạy của cô,Tích cực,Khác,15
+hiện giờ em chưa có cách học đúng đắng .,0,3,train,hiện giờ em chưa có cách học đúng đắng,Tiêu cực,Khác,9
+chúc thầy nhiều sức khỏe !,1,3,train,chúc thầy nhiều sức khỏe,Tích cực,Khác,5
+không có điều gì !,2,3,train,không có điều gì,Trung lập,Khác,4
+cần cải thiện nhiều .,0,3,train,cần cải thiện nhiều,Tiêu cực,Khác,4
+tất cả đều phải sử dụng trên phần mềm mô phỏng proteus .,0,3,train,tất cả đều phải sử dụng trên phần mềm mô phỏng proteus,Tiêu cực,Khác,12
+lớp ồn đến nỗi không muốn đi học .,0,3,train,lớp ồn đến nỗi không muốn đi học,Tiêu cực,Khác,8
+"đa phần các bạn đều không thể hoàn thành trên lớp và phải về nhà làm thêm , nhưng hình thức làm bài ở nhà thì phải trình bày trên một file word nên rất bất tiện cho giáo viên chấm bài cũng như gia tăng tỉ lệ copy bài .",0,3,train,đa phần các bạn đều không thể hoàn thành trên lớp và phải về nhà làm thêm nhưng hình thức làm bài ở nhà thì phải trình bày trên một file word nên rất bất tiện cho giáo viên chấm bài cũng như gia tăng tỉ lệ copy bài,Tiêu cực,Khác,49
+không hiểu bài cho lắm .,0,3,train,không hiểu bài cho lắm,Tiêu cực,Khác,5
+cũng ổn .,2,3,train,cũng ổn,Trung lập,Khác,2
+và còn rất nhiều vấn đề khác .,0,3,train,và còn rất nhiều vấn đề khác,Tiêu cực,Khác,7
+"do học kỳ này em không thể đến lớp học môn này , nên em không thể đưa ra ý kiến gì thêm .",2,3,train,do học kỳ này em không thể đến lớp học môn này nên em không thể đưa ra ý kiến gì thêm,Trung lập,Khác,22
+chào thầy fraction cô !,2,3,train,chào thầy fraction cô,Trung lập,Khác,4
+nên đưa ra các vấn đề thường gặp .,0,3,train,nên đưa ra các vấn đề thường gặp,Tiêu cực,Khác,8
+em xin chân thành cảm ơn !,2,3,train,em xin chân thành cảm ơn,Trung lập,Khác,6
+em đã kết thúc một học kỳ ở đó !,2,3,train,em đã kết thúc một học kỳ ở đó,Trung lập,Khác,9
+em không có bất kỳ điều gì hài hòng .,0,3,train,em không có bất kỳ điều gì hài hòng,Tiêu cực,Khác,9
+cảm ơn thầy đã sửa lỗi khi cài vmware giúp em colonsmallsmile .,2,3,train,cảm ơn thầy đã sửa lỗi khi cài vmware giúp em colonsmallsmile,Trung lập,Khác,12
+cũng hài lòng .,2,3,train,cũng hài lòng,Trung lập,Khác,3
+đôi chỗ vẫn khó hiểu .,0,3,train,đôi chỗ vẫn khó hiểu,Tiêu cực,Khác,5
+không hợp với cách giảng dạy .,0,3,train,không hợp với cách giảng dạy,Tiêu cực,Khác,6
+khá tốt .,1,3,train,khá tốt,Tích cực,Khác,2
+chưa hài lòng .,0,3,train,chưa hài lòng,Tiêu cực,Khác,3
+"lý do doubledot vào 2 tuần cuối kỳ , sinh viên phải làm đồ án rất nhiều môn , phải ôn thi .",0,3,train,lý do doubledot vào 2 tuần cuối kỳ sinh viên phải làm đồ án rất nhiều môn phải ôn thi,Tiêu cực,Khác,20
+em không có ý kiến gì cả .,2,3,train,em không có ý kiến gì cả,Trung lập,Khác,7
+cảm thấy rất may mắn khi được học thầy .,1,3,train,cảm thấy rất may mắn khi được học thầy,Tích cực,Khác,9
+không có ý kiến gì !,2,3,train,không có ý kiến gì,Trung lập,Khác,5
+"có những ví dụ sinh động , dễ hiểu .",1,3,train,có những ví dụ sinh động dễ hiểu,Tích cực,Khác,8
+hơi cứng nhắc trong vấn đề này .,0,3,train,hơi cứng nhắc trong vấn đề này,Tiêu cực,Khác,7
+có ứng dụng thực tiễn thích hợp !,1,3,train,có ứng dụng thực tiễn thích hợp,Tích cực,Khác,7
+tệ .,0,3,train,tệ,Tiêu cực,Khác,1
+"không quen với giọng của thầy , có thể vì chưa quen nhanh được , nên đôi lúc hơi khó hiểu .",0,3,train,không quen với giọng của thầy có thể vì chưa quen nhanh được nên đôi lúc hơi khó hiểu,Tiêu cực,Khác,19
+"môn này em học cải thiện nhưng mà nhà trường hủy môn em xong đăng tự ý đổi lớp lại , em không biết em không đi học nên chắc chắn em rớt .",0,3,train,môn này em học cải thiện nhưng mà nhà trường hủy môn em xong đăng tự ý đổi lớp lại em không biết em không đi học nên chắc chắn em rớt,Tiêu cực,Khác,32
+tôi rất hài lòng .,1,3,train,tôi rất hài lòng,Tích cực,Khác,4
+và quá gấp gáp .,0,3,train,và quá gấp gáp,Tiêu cực,Khác,4
+chưa nói đến sinh viên tự tra .,0,3,train,chưa nói đến sinh viên tự tra,Tiêu cực,Khác,7
+theo em nghĩ là quá nhiều cho 2 tín chỉ .,0,3,train,theo em nghĩ là quá nhiều cho 2 tín chỉ,Tiêu cực,Khác,10
+khá khó hiểu .,0,3,train,khá khó hiểu,Tiêu cực,Khác,3
+ôm đồm quá nhiều kỳ vọng .,0,3,train,ôm đồm quá nhiều kỳ vọng,Tiêu cực,Khác,6
+không biết cô wzjwz327 là ai ?,2,3,train,không biết cô wzjwz327 là ai,Trung lập,Khác,6
+đươc biết nhiều cái mới lạ .,1,3,train,đươc biết nhiều cái mới lạ,Tích cực,Khác,6
+tuyệt !,1,3,train,tuyệt,Tích cực,Khác,1
+trên đây là ý kiến về các vấn đề em nhận ra sau khi học .,2,3,train,trên đây là ý kiến về các vấn đề em nhận ra sau khi học,Trung lập,Khác,15
+chép hơi nhiều .,0,3,train,chép hơi nhiều,Tiêu cực,Khác,3
+nắm vững ngữ pháp và nâng cao được kỹ năng viết .,1,3,train,nắm vững ngữ pháp và nâng cao được kỹ năng viết,Tích cực,Khác,11
+"cập nhật , cập nhật !",2,3,train,cập nhật cập nhật,Trung lập,Khác,4
+thắc mắc ngay tại lớp những cái mình không hiểu .,2,3,train,thắc mắc ngay tại lớp những cái mình không hiểu,Trung lập,Khác,10
+"nếu thầy đã không đảm bảo giờ lên lớp , thì khi ra bài thi và đề cương ôn tập nên chú ý đến việc rõ ràng , hướng dẫn rõ sinh viên biết mình phải học gì .",0,3,train,nếu thầy đã không đảm bảo giờ lên lớp thì khi ra bài thi và đề cương ôn tập nên chú ý đến việc rõ ràng hướng dẫn rõ sinh viên biết mình phải học gì,Tiêu cực,Khác,36
+điều này xảy ra ở mọi tiết học .,0,3,train,điều này xảy ra ở mọi tiết học,Tiêu cực,Khác,8
+giúp em biết được một phần thực tế của công việc sau này .,1,3,train,giúp em biết được một phần thực tế của công việc sau này,Tích cực,Khác,13
+phải bỏ tiền học lại .,0,3,train,phải bỏ tiền học lại,Tiêu cực,Khác,5
+chưa gặp lần nào .,2,3,train,chưa gặp lần nào,Trung lập,Khác,4
+biết được một số kỹ năng .,1,3,train,biết được một số kỹ năng,Tích cực,Khác,6
+cần nhiều hoạt động ngoại khóa .,0,3,train,cần nhiều hoạt động ngoại khóa,Tiêu cực,Khác,6
+đảm bảo tốt .,1,3,train,đảm bảo tốt,Tích cực,Khác,3
+mức độ quan tâm học sinh rất cao .,1,3,train,mức độ quan tâm học sinh rất cao,Tích cực,Khác,8
+"mở các câu lạc bộ về lập trình sẽ giúp các sinh viên đầu khoá có cách tiếp cận môn học dễ dàng cũng như cách nghiên cứu về môn học , còn các sinh viên năm 3 năm 4 sẽ có cơ hội hướng dẫn các sinh viên đầu khoá , như vậy các anh chị khoá trên sẽ nắm chặt kiến thức hơn .",0,3,train,mở các câu lạc bộ về lập trình sẽ giúp các sinh viên đầu khoá có cách tiếp cận môn học dễ dàng cũng như cách nghiên cứu về môn học còn các sinh viên năm 3 năm 4 sẽ có cơ hội hướng dẫn các sinh viên đầu khoá như vậy các anh chị khoá trên sẽ nắm chặt kiến thức hơn,Tiêu cực,Khác,63
+tiếc là học kỳ 2 em không đăng ký được lớp lập trình hướng đối tượng của cô !,1,3,train,tiếc là học kỳ 2 em không đăng ký được lớp lập trình hướng đối tượng của cô,Tích cực,Khác,18
+cần trao đổi nhiều hơn với sinh viên qua các kênh của trường như web môn học chẳng hạn .,0,3,train,cần trao đổi nhiều hơn với sinh viên qua các kênh của trường như web môn học chẳng hạn,Tiêu cực,Khác,19
+chỉ làm bài tập dựa trên tài liệu và tìm kiếm trên mạng .,0,3,train,chỉ làm bài tập dựa trên tài liệu và tìm kiếm trên mạng,Tiêu cực,Khác,13
+sinh viên quá đông gây nóng nực .,0,3,train,sinh viên quá đông gây nóng nực,Tiêu cực,Khác,7
+bảo học sinh không chịu học là không đúng .,0,3,train,bảo học sinh không chịu học là không đúng,Tiêu cực,Khác,9
+chỉ có vấn đề là em chưa cố gắng .,0,3,train,chỉ có vấn đề là em chưa cố gắng,Tiêu cực,Khác,9
+em rất cảm ơn cô ạ !,1,3,train,em rất cảm ơn cô ạ,Tích cực,Khác,6
+khó nghe .,0,3,train,khó nghe,Tiêu cực,Khác,2
+em cảm thấy khá bức xúc nhưng nếu truy ra lỗi của ai thì em tự nhận một phần về mình .,0,3,train,em cảm thấy khá bức xúc nhưng nếu truy ra lỗi của ai thì em tự nhận một phần về mình,Tiêu cực,Khác,21
+quá nhanh .,0,3,train,quá nhanh,Tiêu cực,Khác,2
+xinh .,1,3,train,xinh,Tích cực,Khác,1
+không hài lòng gì cả .,0,3,train,không hài lòng gì cả,Tiêu cực,Khác,5
+em không ý kiến .,2,3,train,em không ý kiến,Trung lập,Khác,4
+đừng dư quá nhiều .,0,3,train,đừng dư quá nhiều,Tiêu cực,Khác,4
+thực tế với hiện trạng .,2,3,train,thực tế với hiện trạng,Trung lập,Khác,5
+listening .,2,3,train,listening,Trung lập,Khác,1
+chưa tìm ra .,2,3,train,chưa tìm ra,Trung lập,Khác,3
+hầu như không có vấn đề gì không hài lòng .,2,3,train,hầu như không có vấn đề gì không hài lòng,Trung lập,Khác,10
+nếu kết thúc thực hành sớm .,2,3,train,nếu kết thúc thực hành sớm,Trung lập,Khác,6
+có lịch học bù đã tự sắp .,1,3,train,có lịch học bù đã tự sắp,Tích cực,Khác,7
+khiến sinh viên cảm thấy nản .,0,3,train,khiến sinh viên cảm thấy nản,Tiêu cực,Khác,6
+hình dung chưa ?,2,3,train,hình dung chưa,Trung lập,Khác,3
+"mỗi một vấn đề đều phải dừng lại hỏi xem còn sinh viên nào có cách khác không , hay đơn giản là cách hiểu khác trên cùng một vấn đề .",2,3,train,mỗi một vấn đề đều phải dừng lại hỏi xem còn sinh viên nào có cách khác không hay đơn giản là cách hiểu khác trên cùng một vấn đề,Trung lập,Khác,30
+tất cả điều hài lòng .,1,3,train,tất cả điều hài lòng,Tích cực,Khác,5
+vì đôi khi tụi em theo bài không kịp .,0,3,train,vì đôi khi tụi em theo bài không kịp,Tiêu cực,Khác,9
+tích cực .,1,3,train,tích cực,Tích cực,Khác,2
+sự tận tâm .,1,3,train,sự tận tâm,Tích cực,Khác,3
+đúng như vậy luôn hi hi .,2,3,train,đúng như vậy luôn hi hi,Trung lập,Khác,6
+"nếu em muốn học , em sẽ lên lớp học .",2,3,train,nếu em muốn học em sẽ lên lớp học,Trung lập,Khác,9
+không hiểu bài giảng .,0,3,train,không hiểu bài giảng,Tiêu cực,Khác,4
+mong phòng phòng thanh tra - pháp chế - đbcl có biện pháp xử lý .,0,3,train,mong phòng phòng thanh tra pháp chế đbcl có biện pháp xử lý,Tiêu cực,Khác,13
+tất cả đều tốt .,1,3,train,tất cả đều tốt,Tích cực,Khác,4
+em thi giữa kỳ được 9dot5 điểm .,2,3,train,em thi giữa kỳ được 9dot5 điểm,Trung lập,Khác,7
+"em rất thích , em là một đứa không thích học môn xã hội nhưng học cô em rất thích nghe giảng .",1,3,train,em rất thích em là một đứa không thích học môn xã hội nhưng học cô em rất thích nghe giảng,Tích cực,Khác,21
+học theo đúng thời khóa biểu .,1,3,train,học theo đúng thời khóa biểu,Tích cực,Khác,6
+thành vòng tuần hoàn đến khi thi .,2,3,train,thành vòng tuần hoàn đến khi thi,Trung lập,Khác,7
+không gặp mặt .,0,3,train,không gặp mặt,Tiêu cực,Khác,3
+không ý kiến thêm .,2,3,train,không ý kiến thêm,Trung lập,Khác,4
+"em không thể đi học môn wzjwz75 , nên học kỳ này sẽ nợ môn này .",0,3,train,em không thể đi học môn wzjwz75 nên học kỳ này sẽ nợ môn này,Tiêu cực,Khác,15
+"những thứ đó không đủ để làm bài thực hành như tuần 5 , tuần 6 , tuần 7 .",0,3,train,những thứ đó không đủ để làm bài thực hành như tuần 5 tuần 6 tuần 7,Tiêu cực,Khác,17
+không có hoạt động không hài lòng .,2,3,train,không có hoạt động không hài lòng,Trung lập,Khác,7
+sinh viên trường wzjwz80 chúng ta hoàn toàn không được đánh giá cao so với sinh viên của wzjwz81 và wzjwz82 .,0,3,train,sinh viên trường wzjwz80 chúng ta hoàn toàn không được đánh giá cao so với sinh viên của wzjwz81 và wzjwz82,Tiêu cực,Khác,21
+tên thầy dài quá nhưng em nhớ nó như một món quà dành cho thầy .,2,3,train,tên thầy dài quá nhưng em nhớ nó như một món quà dành cho thầy,Trung lập,Khác,15
+"chép bài trên bảng nhanh , giảng hơi nhanh .",0,3,train,chép bài trên bảng nhanh giảng hơi nhanh,Tiêu cực,Khác,8
+toàn phải đi học ké lớp khác .,0,3,train,toàn phải đi học ké lớp khác,Tiêu cực,Khác,7
+trình bày slide bài giảng rõ ràng hơn .,0,3,train,trình bày slide bài giảng rõ ràng hơn,Tiêu cực,Khác,8
+"chép bài nhiều quá , nhưng không sao .",2,3,train,chép bài nhiều quá nhưng không sao,Trung lập,Khác,7
+"và não của con người không thích sự dễ dàng , nếu chỉ xử lý sự dễ dàng thì não khó có thể phát triển đến khả năng của nó .",2,3,train,và não của con người không thích sự dễ dàng nếu chỉ xử lý sự dễ dàng thì não khó có thể phát triển đến khả năng của nó,Trung lập,Khác,29
+sự thân thiện và tận tình .,1,3,train,sự thân thiện và tận tình,Tích cực,Khác,6
+riêng bản thân em nhận thấy mình có thể học môn này mà không tham gia học đầy đủ trên lớp .,2,3,train,riêng bản thân em nhận thấy mình có thể học môn này mà không tham gia học đầy đủ trên lớp,Trung lập,Khác,21
+tất cả các hoạt động .,2,3,train,tất cả các hoạt động,Trung lập,Khác,5
+bình thường với giáo viên .,2,3,train,bình thường với giáo viên,Trung lập,Khác,5
+dạy rất hài lòng .,1,3,train,dạy rất hài lòng,Tích cực,Khác,4
+cần nhiều tài liệu hơn nữa .,0,3,train,cần nhiều tài liệu hơn nữa,Tiêu cực,Khác,6
+em không có ý kiến về vấn đề này .,2,3,train,em không có ý kiến về vấn đề này,Trung lập,Khác,9
+ngoài ra còn rất rất nhiều mặt tốt mà không thể kể hết .,1,3,train,ngoài ra còn rất rất nhiều mặt tốt mà không thể kể hết,Tích cực,Khác,13
+"sự thân thiện , cởi mở và nhiệt tình .",1,3,train,sự thân thiện cởi mở và nhiệt tình,Tích cực,Khác,8
+"thực sự thì giảng viên này không dạy lớp em , nên những đánh giá em chọn mặc định mức độ 3 .",2,3,train,thực sự thì giảng viên này không dạy lớp em nên những đánh giá em chọn mặc định mức độ 3,Trung lập,Khác,21
+cám ơn thầy fraction cô đã đọc một bài dài thế này .,2,3,train,cám ơn thầy fraction cô đã đọc một bài dài thế này,Trung lập,Khác,12
+bị áp lực .,0,3,train,bị áp lực,Tiêu cực,Khác,3
+hài lòng hoàn toàn .,1,3,train,hài lòng hoàn toàn,Tích cực,Khác,4
+cảm ơn .,2,3,train,cảm ơn,Trung lập,Khác,2
+nếu cho được điểm 11 thì em cũng cho luôn .,1,3,train,nếu cho được điểm 11 thì em cũng cho luôn,Tích cực,Khác,10
+tốn thời gian .,0,3,train,tốn thời gian,Tiêu cực,Khác,3
+bình thường với giảng viên .,2,3,train,bình thường với giảng viên,Trung lập,Khác,5
+dù đã xem trước bài khi lên lớp nhưng nó quá xa lạ đối với em .,0,3,train,dù đã xem trước bài khi lên lớp nhưng nó quá xa lạ đối với em,Tiêu cực,Khác,16
+hết !,2,3,train,hết,Trung lập,Khác,1
+không có gì để hài lòng .,0,3,train,không có gì để hài lòng,Tiêu cực,Khác,6
+điểm quá trình chưa đánh giá đúng .,0,3,train,điểm quá trình chưa đánh giá đúng,Tiêu cực,Khác,7
+kết quả môn thực hành thì rất tốt nhưng ở môn lý thuyết thì ngược lại .,0,3,train,kết quả môn thực hành thì rất tốt nhưng ở môn lý thuyết thì ngược lại,Tiêu cực,Khác,16
+everything .,2,3,train,everything,Trung lập,Khác,1
+like ( y ) .,1,3,train,like y,Tích cực,Khác,2
+hay và sáng tạo .,1,3,train,hay và sáng tạo,Tích cực,Khác,4
+"các tiết học chưa được sinh động , không hấp dẫn được sinh viên , có nhiều sự buồn chán .",0,3,train,các tiết học chưa được sinh động không hấp dẫn được sinh viên có nhiều sự buồn chán,Tiêu cực,Khác,18
+cực hay .,1,3,train,cực hay,Tích cực,Khác,2
+"tuy nhiên , thái độ của sinh viên trường uit với môn học này làm tôi rất rất thất vọng .",0,3,train,tuy nhiên thái độ của sinh viên trường uit với môn học này làm tôi rất rất thất vọng,Tiêu cực,Khác,19
+học hết môn mà chẳng biết cái gì .,0,3,train,học hết môn mà chẳng biết cái gì,Tiêu cực,Khác,8
+không có ý kiến gì thêm .,2,3,train,không có ý kiến gì thêm,Trung lập,Khác,6
+đầy đủ chi tiết .,1,3,train,đầy đủ chi tiết,Tích cực,Khác,4
+"hình thức đánh giá , chấm điểm giữa các nhóm , đánh giá bản thân , nhóm khách hàng .",2,3,train,hình thức đánh giá chấm điểm giữa các nhóm đánh giá bản thân nhóm khách hàng,Trung lập,Khác,16
+không có ạ .,2,3,train,không có ạ,Trung lập,Khác,3
+hi hi đồ ngốc .,1,3,train,hi hi đồ ngốc,Tích cực,Khác,4
+sẽ tạo được nhiều hứng thú hơn trong giờ học đòi hỏi nhiều kiến thức chuyên sâu này !,0,3,train,sẽ tạo được nhiều hứng thú hơn trong giờ học đòi hỏi nhiều kiến thức chuyên sâu này,Tiêu cực,Khác,18
+khó tiếp thu !,0,3,train,khó tiếp thu,Tiêu cực,Khác,3
+ân cần giải đáp thác mắc của sinh viên .,1,3,train,ân cần giải đáp thác mắc của sinh viên,Tích cực,Khác,9
+thảo mai .,1,3,train,thảo mai,Tích cực,Khác,2
+hy vọng ý kiến của em được xem xét !,0,3,train,hy vọng ý kiến của em được xem xét,Tiêu cực,Khác,9
+thay vào đó nên là báo cáo đồ án .,0,3,train,thay vào đó nên là báo cáo đồ án,Tiêu cực,Khác,9
+"cô hỗ trợ tốt , nhiệt tình .",1,3,train,cô hỗ trợ tốt nhiệt tình,Tích cực,Khác,6
+học thầy được điểm cao .,1,3,train,học thầy được điểm cao,Tích cực,Khác,5
+sự thân thiện giúp giảm căng thẳng trong buổi học .,1,3,train,sự thân thiện giúp giảm căng thẳng trong buổi học,Tích cực,Khác,10
+không có colonsmile .,2,3,train,không có colonsmile,Trung lập,Khác,3
+em cảm ơn ?,2,3,train,em cảm ơn,Trung lập,Khác,3
+tập patin rất dễ .,1,3,train,tập patin rất dễ,Tích cực,Khác,4
+chúng em gửi lời cám ơn đến thầy wzjwz213 !,1,3,train,chúng em gửi lời cám ơn đến thầy wzjwz213,Tích cực,Khác,9
+béo quá không tốt cho sức khỏe .,0,3,train,béo quá không tốt cho sức khỏe,Tiêu cực,Khác,7
+chưa thấy được sự cần thiết thực sự của môn học đối với ngành nghề cũng như cuộc sống sau này .,0,3,train,chưa thấy được sự cần thiết thực sự của môn học đối với ngành nghề cũng như cuộc sống sau này,Tiêu cực,Khác,21
+"cuối cùng , em xin cảm ơn vì thầy fraction cô đã đọc đến hết .",2,3,train,cuối cùng em xin cảm ơn vì thầy fraction cô đã đọc đến hết,Trung lập,Khác,14
+không có gì để nói .,2,3,train,không có gì để nói,Trung lập,Khác,5
+"chứ em nghĩ phần thư viện standford dùng để phân loại văn bản theo phương pháp naive bayes mà thầy wzjwz133 sử dụng và áp dụng được chắc cần thời gian để nghiên cứu , tìm hiểu mà không được công bố và cho sinh viên áp dụng thì uổng và tội cho thầy wzjwz133 quá !",0,3,train,chứ em nghĩ phần thư viện standford dùng để phân loại văn bản theo phương pháp naive bayes mà thầy wzjwz133 sử dụng và áp dụng được chắc cần thời gian để nghiên cứu tìm hiểu mà không được công bố và cho sinh viên áp dụng thì uổng và tội cho thầy wzjwz133 quá,Tiêu cực,Khác,55
+không ý kiến gì .,2,3,train,không ý kiến gì,Trung lập,Khác,4
+chứ nói thật là bọn em làm bài tập tại lớp không kịp ạ .,0,3,train,chứ nói thật là bọn em làm bài tập tại lớp không kịp ạ,Tiêu cực,Khác,14
+té patin cũng đau .,0,3,train,té patin cũng đau,Tiêu cực,Khác,4
+nếu không thì coi như lớp đi toi .,0,3,train,nếu không thì coi như lớp đi toi,Tiêu cực,Khác,8
+giúp sinh viên nâng cao được khả năng lập trình .,1,3,train,giúp sinh viên nâng cao được khả năng lập trình,Tích cực,Khác,10
+em xim cám ơn !,2,3,train,em xim cám ơn,Trung lập,Khác,4
+"làm các bài lab trên win server 2012 rất khác so với win server 2003, mà lại toàn cho làm các bài lab trên win server 2003, có vẻ cũ .",0,3,train,làm các bài lab trên win server 2012 rất khác so với win server 2003 mà lại toàn cho làm các bài lab trên win server 2003 có vẻ cũ,Tiêu cực,Khác,30
+sự vui vẻ .,1,3,train,sự vui vẻ,Tích cực,Khác,3
+"không rõ "" thu được gì "" từ môn học này .",0,3,train,không rõ thu được gì từ môn học này,Tiêu cực,Khác,9
+chuẩn bị âm thanh trước môn học ổn định để tránh mất thì giờ vì điều chỉnh âm thanh trong phòng học .,0,3,train,chuẩn bị âm thanh trước môn học ổn định để tránh mất thì giờ vì điều chỉnh âm thanh trong phòng học,Tiêu cực,Khác,22
+sau khi học xong 2 môn học wzjwz168 và wzjwz87 lớp do thầy wzjwz88 làm giảng viên lý thuyết và thầy wzjwz89 làm giảng viên em thấy một điều thế này .,2,3,train,sau khi học xong 2 môn học wzjwz168 và wzjwz87 lớp do thầy wzjwz88 làm giảng viên lý thuyết và thầy wzjwz89 làm giảng viên em thấy một điều thế này,Trung lập,Khác,31
+tiếng anh .,2,3,train,tiếng anh,Trung lập,Khác,2
+nên hơi choáng do tự học quá nhiều .,0,3,train,nên hơi choáng do tự học quá nhiều,Tiêu cực,Khác,8
+hấp dẫn .,1,3,train,hấp dẫn,Tích cực,Khác,2
+hài lòng tất cả .,1,3,train,hài lòng tất cả,Tích cực,Khác,4
+english is good .,1,3,train,english is good,Tích cực,Khác,3
+hình thức điểm danh .,0,3,train,hình thức điểm danh,Tiêu cực,Khác,4
+"vì đôi khi một đề lâp trình nào đó có thể người này đã làm qua rồi , người khác thì chưa hề đọc qua kiến thức ấy trong khi thời gian làm bài chỉ có 60 phút .",0,3,train,vì đôi khi một đề lâp trình nào đó có thể người này đã làm qua rồi người khác thì chưa hề đọc qua kiến thức ấy trong khi thời gian làm bài chỉ có 60 phút,Tiêu cực,Khác,37
+sáng tạo .,1,3,train,sáng tạo,Tích cực,Khác,2
+làm khó sinh viên .,0,3,train,làm khó sinh viên,Tiêu cực,Khác,4
+không hài lòng cho lắm .,0,3,train,không hài lòng cho lắm,Tiêu cực,Khác,5
+"cô vui vẻ , nhiệt tình .",1,3,train,cô vui vẻ nhiệt tình,Tích cực,Khác,5
+"cái gì không biết thì phải tự mày mò tìm kiếm , không thể cứ trông đợi lời giải đáp từ giảng viên .",1,3,train,cái gì không biết thì phải tự mày mò tìm kiếm không thể cứ trông đợi lời giải đáp từ giảng viên,Tích cực,Khác,22
+để dễ dàng vận dụng kiến thức trên lớp .,0,3,train,để dễ dàng vận dụng kiến thức trên lớp,Tiêu cực,Khác,9
+không có ý kiến chất lượng môn học vừa đủ cho mọi sinh viên .,2,3,train,không có ý kiến chất lượng môn học vừa đủ cho mọi sinh viên,Trung lập,Khác,14
+có thông báo về lịch thi nói trên web môn học .,1,3,train,có thông báo về lịch thi nói trên web môn học,Tích cực,Khác,11
+không có ý kiến !,2,3,train,không có ý kiến,Trung lập,Khác,4
+không có gì ạ .,2,3,train,không có gì ạ,Trung lập,Khác,4
+chúc cô thành công !,1,3,train,chúc cô thành công,Tích cực,Khác,4
+nghe kể chuyện hay nhiều trong khi học .,1,3,train,nghe kể chuyện hay nhiều trong khi học,Tích cực,Khác,8
+"cô rất dễ thương , hiền nữa .",1,3,train,cô rất dễ thương hiền nữa,Tích cực,Khác,6
+hỏi cũng không nhận được câu trả lời chính xác để học .,0,3,train,hỏi cũng không nhận được câu trả lời chính xác để học,Tiêu cực,Khác,12
+cần tạo kênh liên lạc giữa sinh viên và giảng viên để sinh viên có thể nhận được thông báo từ giảng viên .,0,3,train,cần tạo kênh liên lạc giữa sinh viên và giảng viên để sinh viên có thể nhận được thông báo từ giảng viên,Tiêu cực,Khác,23
+chưa có .,2,3,train,chưa có,Trung lập,Khác,2
+"vừa giúp cho bọn em nắm chắc kiến thức về môn học , vừa giúp bọn em tự tin hơn về kỹ năng cá nhân của mình .",1,3,train,vừa giúp cho bọn em nắm chắc kiến thức về môn học vừa giúp bọn em tự tin hơn về kỹ năng cá nhân của mình,Tích cực,Khác,26
+"hiểu biết rõ hơn về các ngành học trong trường , được gặp những giáo viên hướng dẫn giỏi từ các khoa khác nhau .",1,3,train,hiểu biết rõ hơn về các ngành học trong trường được gặp những giáo viên hướng dẫn giỏi từ các khoa khác nhau,Tích cực,Khác,23
+không thể hài lòng .,0,3,train,không thể hài lòng,Tiêu cực,Khác,4
+cảm giác như là cấp 2 học nhạc và vẽ vậy .,0,3,train,cảm giác như là cấp 2 học nhạc và vẽ vậy,Tiêu cực,Khác,11
+thân ái !,2,3,train,thân ái,Trung lập,Khác,2
+em tiến bộ rất nhanh .,1,3,train,em tiến bộ rất nhanh,Tích cực,Khác,5
+và từ những sự cố trên tự nhiên năm nay em vừa tốn tiền học lại mà không được học vừa bị rớt môn không được cộng điểm rèn luyện .,0,3,train,và từ những sự cố trên tự nhiên năm nay em vừa tốn tiền học lại mà không được học vừa bị rớt môn không được cộng điểm rèn luyện,Tiêu cực,Khác,30
+giải bài tập dễ hiểu .,1,3,train,giải bài tập dễ hiểu,Tích cực,Khác,5
+ít mục không đi sâu vào .,0,3,train,ít mục không đi sâu vào,Tiêu cực,Khác,6
+tiếng động cơ xây dựng có lúc ồn quá .,0,3,train,tiếng động cơ xây dựng có lúc ồn quá,Tiêu cực,Khác,9
+bỏ bớt những phần không cần thiết .,0,3,train,bỏ bớt những phần không cần thiết,Tiêu cực,Khác,7
+"đi thực tập , đến công ty kaydotvn để làm việc và học .",2,3,train,đi thực tập đến công ty kaydotvn để làm việc và học,Trung lập,Khác,12
+"ngồi nhiều , nhìn slide nhiều .",0,3,train,ngồi nhiều nhìn slide nhiều,Tiêu cực,Khác,5
+sơ sài .,0,3,train,sơ sài,Tiêu cực,Khác,2
+ước tính khoảng 5 - 6 buổi như vậy .,2,3,train,ước tính khoảng 5 6 buổi như vậy,Trung lập,Khác,8
+"ok xem xong cài như youtube kết nối với laptop báo lỗi , cô bảo cài sai dot wtf ?",0,3,train,ok xem xong cài như youtube kết nối với laptop báo lỗi cô bảo cài sai dot wtf,Tiêu cực,Khác,18
+không hiểu gì .,0,3,train,không hiểu gì,Tiêu cực,Khác,3
+kể chuyện .,2,3,train,kể chuyện,Trung lập,Khác,2
+đồ họa máy tính là môn có hình thức thực hành 1 .,2,3,train,đồ họa máy tính là môn có hình thức thực hành 1,Trung lập,Khác,12
+chưa bao giờ học không biết .,0,3,train,chưa bao giờ học không biết,Tiêu cực,Khác,6
+cũng bình thường .,2,3,train,cũng bình thường,Trung lập,Khác,3
+không có ý kiến .,2,3,train,không có ý kiến,Trung lập,Khác,4
+làm một sinh viên như em không thể đủ nhận thức .,0,3,train,làm một sinh viên như em không thể đủ nhận thức,Tiêu cực,Khác,11
+không lan man .,1,3,train,không lan man,Tích cực,Khác,3
+còn mốt số ý thầy truyền đạt vẫn còn chưa tốt .,0,3,train,còn mốt số ý thầy truyền đạt vẫn còn chưa tốt,Tiêu cực,Khác,11
+không rõ .,2,3,train,không rõ,Trung lập,Khác,2
+vì theo em thầy mọi người đi học rất đầy đủ .,2,3,train,vì theo em thầy mọi người đi học rất đầy đủ,Trung lập,Khác,11
+"cô rất tận tình , nghiêm khắc trong giờ học .",1,3,train,cô rất tận tình nghiêm khắc trong giờ học,Tích cực,Khác,9
+đề thi cuối kỳ quá khó và cấu trúc đề quá kỳ lạ .,0,3,train,đề thi cuối kỳ quá khó và cấu trúc đề quá kỳ lạ,Tiêu cực,Khác,13
+cần nhiều tài liệu về môn học này .,0,3,train,cần nhiều tài liệu về môn học này,Tiêu cực,Khác,8
+"chúng em là sinh viên năm nhất , và chúng em vẫn chưa đủ khả năng để làm ra những sản phẩm của riêng mình , chúng em học "" giới thiệu ngành "" vì mục đích định hướng , chúng em tìm hiểu về hệ thống nhúng vì mục đích xem mình có nên theo ngành đó hay không , và chúng em nói theo cách mình hiểu và tiếp cận được từ các nguồn thông tin .",2,3,train,chúng em là sinh viên năm nhất và chúng em vẫn chưa đủ khả năng để làm ra những sản phẩm của riêng mình chúng em học giới thiệu ngành vì mục đích định hướng chúng em tìm hiểu về hệ thống nhúng vì mục đích xem mình có nên theo ngành đó hay không và chúng em nói theo cách mình hiểu và tiếp cận được từ các nguồn thông tin,Trung lập,Khác,72
+em nghĩ sẽ hiệu quả hơn nhiều .,0,3,train,em nghĩ sẽ hiệu quả hơn nhiều,Tiêu cực,Khác,7
+hầu như bữa nào cũng over time .,0,3,train,hầu như bữa nào cũng over time,Tiêu cực,Khác,7
+trách nhiệm .,2,3,train,trách nhiệm,Trung lập,Khác,2
+cô rất có tâm với công việc giảng viên của mình .,1,3,train,cô rất có tâm với công việc giảng viên của mình,Tích cực,Khác,11
+thân !,2,3,train,thân,Trung lập,Khác,1
+không có ý kiến khác .,2,3,train,không có ý kiến khác,Trung lập,Khác,5
+chưa có điểm thi giữa kỳ .,0,3,train,chưa có điểm thi giữa kỳ,Tiêu cực,Khác,6
+em cảm ơn !,2,3,train,em cảm ơn,Trung lập,Khác,3
+"chú tâm , hướng dẫn cho từng học sinh , tương đối dễ hiểu .",1,3,train,chú tâm hướng dẫn cho từng học sinh tương đối dễ hiểu,Tích cực,Khác,12
+cảm giác của em là hơi chán .,0,3,train,cảm giác của em là hơi chán,Tiêu cực,Khác,7
+"sinh viên sẽ được học nhiều kiến thức thực tế , thiết thực và hiệu quả hơn .",2,3,train,sinh viên sẽ được học nhiều kiến thức thực tế thiết thực và hiệu quả hơn,Trung lập,Khác,16
+kỹ năng đọc của em còn chưa thể hiện được .,0,3,train,kỹ năng đọc của em còn chưa thể hiện được,Tiêu cực,Khác,10
+bỏ vấn đề điểm danh .,0,3,train,bỏ vấn đề điểm danh,Tiêu cực,Khác,5
+điều này thật sự kích thích và dễ hiểu bài .,1,3,train,điều này thật sự kích thích và dễ hiểu bài,Tích cực,Khác,10
+em xin cám ơn .,2,3,train,em xin cám ơn,Trung lập,Khác,4
+"khó hiểu , khó vận dụng .",0,3,train,khó hiểu khó vận dụng,Tiêu cực,Khác,5
+sự nhiệt tình vui vẻ .,1,3,train,sự nhiệt tình vui vẻ,Tích cực,Khác,5
+trừ những điều không hài lòng một chút thì trên cả tuyệt vời colonhihi .,1,3,train,trừ những điều không hài lòng một chút thì trên cả tuyệt vời colonhihi,Tích cực,Khác,14
+thật đáng buồn !,0,3,train,thật đáng buồn,Tiêu cực,Khác,3
+style chất ( y ) .,1,3,train,style chất y,Tích cực,Khác,3
+truyền dạt tốt .,1,3,train,truyền dạt tốt,Tích cực,Khác,3
+mọi thứ đều tốt .,1,3,train,mọi thứ đều tốt,Tích cực,Khác,4
+"cuối cùng , báo cáo đồ án , nhóm mình mà không báo cáo đồ án của mình , mà phải đi báo cáo đồ án của nhóm khác .",0,3,train,cuối cùng báo cáo đồ án nhóm mình mà không báo cáo đồ án của mình mà phải đi báo cáo đồ án của nhóm khác,Tiêu cực,Khác,26
+thoải mái .,1,3,train,thoải mái,Tích cực,Khác,2
+cám ơn thầy !,2,3,train,cám ơn thầy,Trung lập,Khác,3
+nhiều bạn vào được anh văn 1 và lên được anh văn 2 cho dù không biết gì về môn anh văn .,0,3,train,nhiều bạn vào được anh văn 1 và lên được anh văn 2 cho dù không biết gì về môn anh văn,Tiêu cực,Khác,22
+chán lắm luôn .,0,3,train,chán lắm luôn,Tiêu cực,Khác,3
+biết làm bài tập của môn học nhưng không hiểu nó liên quan gì đến thực tế .,0,3,train,biết làm bài tập của môn học nhưng không hiểu nó liên quan gì đến thực tế,Tiêu cực,Khác,17
+và rất hiểu sinh viên .,1,3,train,và rất hiểu sinh viên,Tích cực,Khác,5
+rất thú vị .,1,3,train,rất thú vị,Tích cực,Khác,3
+tất cả đều hài lòng .,1,3,train,tất cả đều hài lòng,Tích cực,Khác,5
+quả không sai !,2,3,train,quả không sai,Trung lập,Khác,3
+em không có ý kiến về mục này .,2,3,train,em không có ý kiến về mục này,Trung lập,Khác,8
+không có điểm nào không hài lòng .,2,3,train,không có điểm nào không hài lòng,Trung lập,Khác,7
+cần có tiết chế trong bài thực hành làm sao để đáp ứng đúng những gì sinh viên đang có hoặc trang bị phòng thực hành có cấu hình cao .,0,3,train,cần có tiết chế trong bài thực hành làm sao để đáp ứng đúng những gì sinh viên đang có hoặc trang bị phòng thực hành có cấu hình cao,Tiêu cực,Khác,30
+"tinh thần , kiến thức .",2,3,train,tinh thần kiến thức,Trung lập,Khác,4
+em xin cảm ơn !,2,3,train,em xin cảm ơn,Trung lập,Khác,4
+"đi từ dễ đến khó , có định hướng rõ ràng .",1,3,train,đi từ dễ đến khó có định hướng rõ ràng,Tích cực,Khác,10
+kiểm tra thường xuyên .,2,3,train,kiểm tra thường xuyên,Trung lập,Khác,4
+hay .,1,3,train,hay,Tích cực,Khác,1
+không có ý kiến gì ạ .,2,3,train,không có ý kiến gì ạ,Trung lập,Khác,6
+"và cuối cùng , đây cũng chỉ là tâm sự của riêng tôi , tôi không có ý gì cả , có lẽ đó cũng là chút kỷ niệm mà tôi lưu lại đối với môn học này , có lẽ vì số tôi quá đen , âu thì tôi đành cam chịu vậy hi hi rớt môn rồi , buồn quá .",2,3,train,và cuối cùng đây cũng chỉ là tâm sự của riêng tôi tôi không có ý gì cả có lẽ đó cũng là chút kỷ niệm mà tôi lưu lại đối với môn học này có lẽ vì số tôi quá đen âu thì tôi đành cam chịu vậy hi hi rớt môn rồi buồn quá,Trung lập,Khác,56
+bảo ví dụ về tự kiểm tra .,0,3,train,bảo ví dụ về tự kiểm tra,Tiêu cực,Khác,7
+học những môn tiên quyết trước .,0,3,train,học những môn tiên quyết trước,Tiêu cực,Khác,6
+về muộn .,0,3,train,về muộn,Tiêu cực,Khác,2
+"thoải mái , có hiệu quả .",1,3,train,thoải mái có hiệu quả,Tích cực,Khác,5
+em học thầy được nửa kỳ trước thì tự cúp qua lớp cô wzjwz218 học .,2,3,train,em học thầy được nửa kỳ trước thì tự cúp qua lớp cô wzjwz218 học,Trung lập,Khác,15
+nên có sự so sánh phản hồi về phương pháp lập trình của sinh viên .,0,3,train,nên có sự so sánh phản hồi về phương pháp lập trình của sinh viên,Tiêu cực,Khác,15
+"đối với em , em đã thấy hợp lý .",1,3,train,đối với em em đã thấy hợp lý,Tích cực,Khác,8
+số lượng sinh viên trong một lớp quá lớn .,0,3,train,số lượng sinh viên trong một lớp quá lớn,Tiêu cực,Khác,9
+chất lượng không tốt .,1,3,train,chất lượng không tốt,Tích cực,Khác,4
+giờ học thiếu sinh động .,0,3,train,giờ học thiếu sinh động,Tiêu cực,Khác,5
+cần được rút kinh nghiệm .,0,3,train,cần được rút kinh nghiệm,Tiêu cực,Khác,5
+em học it002dotf23 thực hành 2 chứ không phải thực hành 1 .,0,3,train,em học it002dotf23 thực hành 2 chứ không phải thực hành 1,Tiêu cực,Khác,12
+dẫn chứng thực tế .,1,3,train,dẫn chứng thực tế,Tích cực,Khác,4
+rất thực tiễn .,1,3,train,rất thực tiễn,Tích cực,Khác,3
+cần chia nhóm học tập .,0,3,train,cần chia nhóm học tập,Tiêu cực,Khác,5
+cần có nhiều trò chơi vận động hấp dẫn .,0,3,train,cần có nhiều trò chơi vận động hấp dẫn,Tiêu cực,Khác,9
+"em ở nhà tự học , thi thực hành vừa rồi cũng được 10 điểm .",1,3,train,em ở nhà tự học thi thực hành vừa rồi cũng được 10 điểm,Tích cực,Khác,14
+không có gì để phàn nàn .,2,3,train,không có gì để phàn nàn,Trung lập,Khác,6
+đi học trễ .,0,3,train,đi học trễ,Tiêu cực,Khác,3
+very good .,1,3,train,very good,Tích cực,Khác,2
+đưa ra đề tài seminar như thách đố sinh viên vậy .,0,3,train,đưa ra đề tài seminar như thách đố sinh viên vậy,Tiêu cực,Khác,11
+like .,1,3,train,like,Tích cực,Khác,1
+hy vọng nhà trường xem xét .,2,3,train,hy vọng nhà trường xem xét,Trung lập,Khác,6
+mong nhà trường sẽ khắc phục sớm .,0,3,train,mong nhà trường sẽ khắc phục sớm,Tiêu cực,Khác,7
+rất tốt .,1,3,train,rất tốt,Tích cực,Khác,2
+chưa rõ mục tiêu và các bước thực hiện bài tập truy vấn dbpedia và tạo ontology .,0,3,train,chưa rõ mục tiêu và các bước thực hiện bài tập truy vấn dbpedia và tạo ontology,Tiêu cực,Khác,17
+kỹ càng .,1,3,train,kỹ càng,Tích cực,Khác,2
+mong nhà trường xem xét lại .,0,3,train,mong nhà trường xem xét lại,Tiêu cực,Khác,6
+mong ý kiến của em sẽ được xem xét .,0,3,train,mong ý kiến của em sẽ được xem xét,Tiêu cực,Khác,9
+hội thảo nhiều hơn .,0,3,train,hội thảo nhiều hơn,Tiêu cực,Khác,4
+cảm ơn thầy !,2,3,train,cảm ơn thầy,Trung lập,Khác,3
+phân biệt rõ ràng giữa đúng và sai .,2,3,train,phân biệt rõ ràng giữa đúng và sai,Trung lập,Khác,8
+ngắn gọn .,1,3,train,ngắn gọn,Tích cực,Khác,2
+không có gì làm em không hài lòng cả .,2,3,train,không có gì làm em không hài lòng cả,Trung lập,Khác,9
+"cô nhiệt tình , dễ tính .",1,3,train,cô nhiệt tình dễ tính,Tích cực,Khác,5
+không hay lắm !,0,3,train,không hay lắm,Tiêu cực,Khác,3
+chưa thực sự tốt .,0,3,train,chưa thực sự tốt,Tiêu cực,Khác,4
+còn một điều nữa .,2,3,train,còn một điều nữa,Trung lập,Khác,4
+không có điều gì .,2,3,train,không có điều gì,Trung lập,Khác,4
+hoạt động tổ chức thuyết trình .,2,3,train,hoạt động tổ chức thuyết trình,Trung lập,Khác,6
+tại do tuần thi .,2,3,train,tại do tuần thi,Trung lập,Khác,4
+em xin hết ạ !,2,3,train,em xin hết ạ,Trung lập,Khác,4
+"phóng tầm nhìn đi xa hơn , những khó khăn , những kiến thức cần phải học để thành công trên đường đời .",1,3,train,phóng tầm nhìn đi xa hơn những khó khăn những kiến thức cần phải học để thành công trên đường đời,Tích cực,Khác,21
+"cung cấp đầy đủ tài liệu và giáo trình môn học , nhiệt tình với sinh viên .",1,3,train,cung cấp đầy đủ tài liệu và giáo trình môn học nhiệt tình với sinh viên,Tích cực,Khác,16
+"tuy nhiên , em không thể làm khác được .",2,3,train,tuy nhiên em không thể làm khác được,Trung lập,Khác,8
+hi hi .,1,3,train,hi hi,Tích cực,Khác,2
+"ngồi đợi thật lâu từ 9h sáng đến 2h trưa , cuối cùng cũng đã đến lượt mình .",0,3,train,ngồi đợi thật lâu từ 9h sáng đến 2h trưa cuối cùng cũng đã đến lượt mình,Tiêu cực,Khác,17
+"thấy cái gì cũng ổn , không đáng chê cũng không đáng khen .",2,3,train,thấy cái gì cũng ổn không đáng chê cũng không đáng khen,Trung lập,Khác,12
+học dồn quá sức .,0,3,train,học dồn quá sức,Tiêu cực,Khác,4
+không phải là môn đi học .,0,3,train,không phải là môn đi học,Tiêu cực,Khác,6
+"thưa , không có .",2,3,train,thưa không có,Trung lập,Khác,3
+đó là giáo trình và tài liệu .,2,3,train,đó là giáo trình và tài liệu,Trung lập,Khác,7
+"hòa đồng , vui vẻ .",1,3,train,hòa đồng vui vẻ,Tích cực,Khác,4
+nếu cảm thấy muốn học em sẽ tự lên lớp .,2,3,train,nếu cảm thấy muốn học em sẽ tự lên lớp,Trung lập,Khác,10
+quá thoải mái cho sinh viên .,0,3,train,quá thoải mái cho sinh viên,Tiêu cực,Khác,6
+giỏi .,1,3,train,giỏi,Tích cực,Khác,1
+dễ hiểu .,1,3,train,dễ hiểu,Tích cực,Khác,2
+đến cuối kỳ sẽ đỡ bỡ ngỡ hơn .,2,3,train,đến cuối kỳ sẽ đỡ bỡ ngỡ hơn,Trung lập,Khác,8
+hơi khó hiểu chút xíu .,0,3,train,hơi khó hiểu chút xíu,Tiêu cực,Khác,5
+mọi thứ đều tuyệt vời .,1,3,train,mọi thứ đều tuyệt vời,Tích cực,Khác,5
+lớp học hơi buồn chán .,0,3,train,lớp học hơi buồn chán,Tiêu cực,Khác,5
+lớp học trầm .,0,3,train,lớp học trầm,Tiêu cực,Khác,3
+đa phần sinh viên không tập trung học nhiệt tình nên không theo kịp .,0,3,train,đa phần sinh viên không tập trung học nhiệt tình nên không theo kịp,Tiêu cực,Khác,14
+nhưng em có đi học một buổi thực hành trên trường .,0,3,train,nhưng em có đi học một buổi thực hành trên trường,Tiêu cực,Khác,11
+vậy là được .,1,3,train,vậy là được,Tích cực,Khác,3
+còn nhiều chỗ thiếu sót .,0,3,train,còn nhiều chỗ thiếu sót,Tiêu cực,Khác,5
+rất ok về mọi phần .,1,3,train,rất ok về mọi phần,Tích cực,Khác,5
+cần nhiều tài liệu mới .,0,3,train,cần nhiều tài liệu mới,Tiêu cực,Khác,5
+hy vọng trường xem xét ý kiến này của em !,0,3,train,hy vọng trường xem xét ý kiến này của em,Tiêu cực,Khác,10
+dễ trong việc tiếp xúc với thực tế sau này .,1,3,train,dễ trong việc tiếp xúc với thực tế sau này,Tích cực,Khác,10
+không dám ý kiến .,2,3,train,không dám ý kiến,Trung lập,Khác,4
+rất hài lòng ạ .,1,3,train,rất hài lòng ạ,Tích cực,Khác,4
+bình thường .,2,3,train,bình thường,Trung lập,Khác,2
+sinh viên nào chê thầy thì em nghĩ sinh viên đó nên xem lại cách học của sinh viên đó .,1,3,train,sinh viên nào chê thầy thì em nghĩ sinh viên đó nên xem lại cách học của sinh viên đó,Tích cực,Khác,20
+em không có gì thắc mắc .,2,3,train,em không có gì thắc mắc,Trung lập,Khác,6
+em xin lỗi nhưng đó là sự thật .,0,3,train,em xin lỗi nhưng đó là sự thật,Tiêu cực,Khác,8
+khiến sinh viên bị thụ động .,0,3,train,khiến sinh viên bị thụ động,Tiêu cực,Khác,6
+nắm được các kiến thức quan trọng .,1,3,train,nắm được các kiến thức quan trọng,Tích cực,Khác,7
+thái độ .,2,3,train,thái độ,Trung lập,Khác,2
+không có gì cả .,2,3,train,không có gì cả,Trung lập,Khác,4
+không có điều gì không hài lòng về thầy .,2,3,train,không có điều gì không hài lòng về thầy,Trung lập,Khác,9
+em chỉ có góp ý nho nhỏ đó thôi ạ .,2,3,train,em chỉ có góp ý nho nhỏ đó thôi ạ,Trung lập,Khác,10
+rất ít người học thực hành môn cấu trúc dữ liệu & giải thuật .,0,3,train,rất ít người học thực hành môn cấu trúc dữ liệu giải thuật,Tiêu cực,Khác,13
+"quản lý như vậy dẫn đến tình trạng "" cha chung không ai khóc "" .",0,3,train,quản lý như vậy dẫn đến tình trạng cha chung không ai khóc,Tiêu cực,Khác,13
+"em thấy nó thật sự rất tốt , giải quyết sinh viên với những vấn đề trên .",1,3,train,em thấy nó thật sự rất tốt giải quyết sinh viên với những vấn đề trên,Tích cực,Khác,16
+dễ .,2,3,train,dễ,Trung lập,Khác,1
+em thấy ổn ạ .,2,3,train,em thấy ổn ạ,Trung lập,Khác,4
+dễ nắm bắt kiến thức để đi thi .,1,3,train,dễ nắm bắt kiến thức để đi thi,Tích cực,Khác,8
+cần ôn tập kỹ trước khi thi .,0,3,train,cần ôn tập kỹ trước khi thi,Tiêu cực,Khác,7
+"các tiết thực hạnh hay , thực tế , không khí vui vẻ .",1,3,train,các tiết thực hạnh hay thực tế không khí vui vẻ,Tích cực,Khác,11
+hoàn hảo !,1,3,train,hoàn hảo,Tích cực,Khác,2
+nhưng mà nhìn dáng thầy đi em thấy thương thương thầy .,2,3,train,nhưng mà nhìn dáng thầy đi em thấy thương thương thầy,Trung lập,Khác,11
+"cả 3 , 4 buổi thực hành theo hình thức 2 môn này có thầy cô này tham gia hay hướng dẫn buổi nào đâu mà đánh giá , chỉ có mỗi thầy wzjwz43 thôi .",0,3,train,cả 3 4 buổi thực hành theo hình thức 2 môn này có thầy cô này tham gia hay hướng dẫn buổi nào đâu mà đánh giá chỉ có mỗi thầy wzjwz43 thôi,Tiêu cực,Khác,33
+"hiện tại tốt , không cần điều chỉnh gì thêm .",1,3,train,hiện tại tốt không cần điều chỉnh gì thêm,Tích cực,Khác,9
+không chỉ phần mềm .,0,3,train,không chỉ phần mềm,Tiêu cực,Khác,4
+sáo rỗng .,0,3,train,sáo rỗng,Tiêu cực,Khác,2
+anh văn .,2,3,train,anh văn,Trung lập,Khác,2
+chơi trò chơi .,2,3,train,chơi trò chơi,Trung lập,Khác,3
+"mặc dù , có thể cái này sinh viên đang tự hiểu chỉ dùng cho các sắp xếp theo tính thự tự trong các hệ điều hành như về name , size .",2,3,train,mặc dù có thể cái này sinh viên đang tự hiểu chỉ dùng cho các sắp xếp theo tính thự tự trong các hệ điều hành như về name size,Trung lập,Khác,30
+em thấy vậy được rồi .,1,3,train,em thấy vậy được rồi,Tích cực,Khác,5
+kiểm tra bằng web .,2,3,train,kiểm tra bằng web,Trung lập,Khác,4
+giúp biết thêm nhiều kiến thức mới .,1,3,train,giúp biết thêm nhiều kiến thức mới,Tích cực,Khác,7
+giọng nói .,2,3,train,giọng nói,Trung lập,Khác,2
+thỉnh thoảng đi hơi trễ .,0,3,train,thỉnh thoảng đi hơi trễ,Tiêu cực,Khác,5
+không chi tiết nhiều về phần bài tập .,0,3,train,không chi tiết nhiều về phần bài tập,Tiêu cực,Khác,8
+"em không học lớp này , không hiểu sao trong danh sách khảo sát của em lại có lớp này với giảng viên này .",0,3,train,em không học lớp này không hiểu sao trong danh sách khảo sát của em lại có lớp này với giảng viên này,Tiêu cực,Khác,23
+"hơn nữa , buổi thứ 2 nếu các nhóm làm chung buổi 1 nghỉ dẫn tới tình trạng không có người hợp tác .",0,3,train,hơn nữa buổi thứ 2 nếu các nhóm làm chung buổi 1 nghỉ dẫn tới tình trạng không có người hợp tác,Tiêu cực,Khác,22
+có tính thực tiễn .,1,3,train,có tính thực tiễn,Tích cực,Khác,4
+không nhàm chán .,1,3,train,không nhàm chán,Tích cực,Khác,3
+nhiều lúc em lên phòng và thấy lớp khác đang học khiến em hơi bối rối .,0,3,train,nhiều lúc em lên phòng và thấy lớp khác đang học khiến em hơi bối rối,Tiêu cực,Khác,16
+sinh động .,1,3,train,sinh động,Tích cực,Khác,2
+em thấy đã được .,2,3,train,em thấy đã được,Trung lập,Khác,4
+"vâng , may thay có một bạn đã trả lời được những gì thầy đưa ra , và thế là bạn kia rớt .",0,3,train,vâng may thay có một bạn đã trả lời được những gì thầy đưa ra và thế là bạn kia rớt,Tiêu cực,Khác,21
+assignments given at home are good .,1,3,train,assignments given at home are good,Tích cực,Khác,6
+em thật sự không nắm được nội dung và yêu cầu của môn học .,0,3,train,em thật sự không nắm được nội dung và yêu cầu của môn học,Tiêu cực,Khác,14
+tuy năm 3 - 4 nhưng nhiều bạn vẫn chưa biết cách báo cáo đồ án như thế nào là hợp lý và hiệu quả nhất .,0,3,train,tuy năm 3 4 nhưng nhiều bạn vẫn chưa biết cách báo cáo đồ án như thế nào là hợp lý và hiệu quả nhất,Tiêu cực,Khác,25
+"cuối kỳ , không cần ôn tập vẫn có thể nhớ rất nhiều kiến thức .",1,3,train,cuối kỳ không cần ôn tập vẫn có thể nhớ rất nhiều kiến thức,Tích cực,Khác,14
+sinh viên có thể hiểu bài và áp dụng vào bài tập .,1,3,train,sinh viên có thể hiểu bài và áp dụng vào bài tập,Tích cực,Khác,12
+giảng viên cần bồi bổ thêm sức khỏe colonsmile .,0,3,train,giảng viên cần bồi bổ thêm sức khỏe colonsmile,Tiêu cực,Khác,9
+khả năng nói tiếng anh tốt .,1,3,train,khả năng nói tiếng anh tốt,Tích cực,Khác,6
+biết thêm nhiều thông tin bổ ích .,1,3,train,biết thêm nhiều thông tin bổ ích,Tích cực,Khác,7
+"chất lượng môn học khá tốt , giảng viên truyền đạt cho sinh viên nhiều kỹ năng có ích , phòng máy đảm bảo về số lượng máy cho sinh viên .",1,3,train,chất lượng môn học khá tốt giảng viên truyền đạt cho sinh viên nhiều kỹ năng có ích phòng máy đảm bảo về số lượng máy cho sinh viên,Tích cực,Khác,29
+đã rất tốt .,1,3,train,đã rất tốt,Tích cực,Khác,3
+mọi thứ .,2,3,train,mọi thứ,Trung lập,Khác,2
+tụi em cũng là người đóng học phí mà .,0,3,train,tụi em cũng là người đóng học phí mà,Tiêu cực,Khác,9
+lớp này không phải wzjwz124 hướng dẫn thực hành .,0,3,train,lớp này không phải wzjwz124 hướng dẫn thực hành,Tiêu cực,Khác,9
+môn này là môn em đi học nhiều nhất .,1,3,train,môn này là môn em đi học nhiều nhất,Tích cực,Khác,9
+"tháng học 4 ngày , nghỉ 3 ngày , bù thì trùng lịch 1 lúc 3 môn bắt buộc nghỉ rớt môn .",0,3,train,tháng học 4 ngày nghỉ 3 ngày bù thì trùng lịch 1 lúc 3 môn bắt buộc nghỉ rớt môn,Tiêu cực,Khác,20
+từ đó bọn em khó mà có được nhiều kiến thức về môn học này .,0,3,train,từ đó bọn em khó mà có được nhiều kiến thức về môn học này,Tiêu cực,Khác,15
+đây liệu có phải là chuyên môn nghề nghiệp của ngành công nghệ thông tin chúng ta .,0,3,train,đây liệu có phải là chuyên môn nghề nghiệp của ngành công nghệ thông tin chúng ta,Tiêu cực,Khác,17
+giúp cho sinh viên trao dồi thêm rất nhiều kỹ năng đặc biệt là kỹ năng làm việc nhóm .,1,3,train,giúp cho sinh viên trao dồi thêm rất nhiều kỹ năng đặc biệt là kỹ năng làm việc nhóm,Tích cực,Khác,19
+đã hoàn hảo .,1,3,train,đã hoàn hảo,Tích cực,Khác,3
+không có ạ !,2,3,train,không có ạ,Trung lập,Khác,3
+biết về các công cụ quản lý cấu hình và quản lý dự án theo agile .,2,3,train,biết về các công cụ quản lý cấu hình và quản lý dự án theo agile,Trung lập,Khác,16
+phục vụ ở mảng nào cho công việc sau này !,2,3,train,phục vụ ở mảng nào cho công việc sau này,Trung lập,Khác,10
+tôi không có ý kiến .,2,3,train,tôi không có ý kiến,Trung lập,Khác,5
+cuối cùng chúc cô wzjwz2 có năm mới hạnh phúc !,1,3,train,cuối cùng chúc cô wzjwz2 có năm mới hạnh phúc,Tích cực,Khác,10
+trời nóng quá học không hứng khởi .,0,3,train,trời nóng quá học không hứng khởi,Tiêu cực,Khác,7
+tôi rất thích .,1,3,train,tôi rất thích,Tích cực,Khác,3
+em không có gì không hài lòng .,2,3,train,em không có gì không hài lòng,Trung lập,Khác,7
+đi sâu vào ứng dụng thực tế .,1,3,train,đi sâu vào ứng dụng thực tế,Tích cực,Khác,7
+hoàn toàn không có ý kiến .,2,3,train,hoàn toàn không có ý kiến,Trung lập,Khác,6
+"em nghĩ là "" dục tốc bất đạt "" .",0,3,train,em nghĩ là dục tốc bất đạt,Tiêu cực,Khác,7
+em nhìn nó giống như ma trận chữ hơn .,2,3,train,em nhìn nó giống như ma trận chữ hơn,Trung lập,Khác,9
+"không biết ứng dụng , kể cả trên phương diện lý thuyết .",0,3,train,không biết ứng dụng kể cả trên phương diện lý thuyết,Tiêu cực,Khác,11
+nên học sinh rất khó tiếp thu .,0,3,train,nên học sinh rất khó tiếp thu,Tiêu cực,Khác,7
+cô rất yêu nghề và thương sinh viên .,1,3,train,cô rất yêu nghề và thương sinh viên,Tích cực,Khác,8
+"học thấy rất phí thời gian , kiến thức thu được chẳng bao nhiêu .",0,3,train,học thấy rất phí thời gian kiến thức thu được chẳng bao nhiêu,Tiêu cực,Khác,13
+đó là tại sao .,2,3,train,đó là tại sao,Trung lập,Khác,4
+"tuy nhiên , mọi chuyện như lời nói đã không xảy ra !",0,3,train,tuy nhiên mọi chuyện như lời nói đã không xảy ra,Tiêu cực,Khác,11
+"đúng giờ , tận tâm .",1,3,train,đúng giờ tận tâm,Tích cực,Khác,4
+cám ơn ạ .,1,3,train,cám ơn ạ,Tích cực,Khác,3
+áp dụng vào thực tế nhiều hơn .,0,3,train,áp dụng vào thực tế nhiều hơn,Tiêu cực,Khác,7
+cho em xin ít con chip nfc .,2,3,train,cho em xin ít con chip nfc,Trung lập,Khác,7
+do sinh viên đầu tư thời gian và công sức nhiều vào đồ án .,0,3,train,do sinh viên đầu tư thời gian và công sức nhiều vào đồ án,Tiêu cực,Khác,14
+nghỉ dạy rồi còn ý kiến gì nữa hả .,0,3,train,nghỉ dạy rồi còn ý kiến gì nữa hả,Tiêu cực,Khác,9
+do dạy khác chuẩn coloncontemn .,2,3,train,do dạy khác chuẩn coloncontemn,Trung lập,Khác,5
+kêu sinh viên nếu có thời gian thì đi dự seminar nhưng lại bắt viết bài thu hoạch lấy điểm .,0,3,train,kêu sinh viên nếu có thời gian thì đi dự seminar nhưng lại bắt viết bài thu hoạch lấy điểm,Tiêu cực,Khác,20
+hay rất chu đáo .,1,3,train,hay rất chu đáo,Tích cực,Khác,4
+"còn nhiều thứ còn khó hiểu , khó tiếp cận .",0,3,train,còn nhiều thứ còn khó hiểu khó tiếp cận,Tiêu cực,Khác,9
+em xin chân thành cảm ơn ( xin lỗi vì máy không dùng được unikey ) !,1,3,train,em xin chân thành cảm ơn xin lỗi vì máy không dùng được unikey,Tích cực,Khác,14
+"riêng em , là một sinh viên kỹ thuật máy tính , em thấy môn này là cần thiết đối với em , tuy nhiên chưa thực sự là một môn học em cần phải đi sâu tìm hiểu , mong thầy về sau có thể hạ mức yêu cầu đầu ra với các bạn khoa khác ít liên quan tới môn học .",0,3,train,riêng em là một sinh viên kỹ thuật máy tính em thấy môn này là cần thiết đối với em tuy nhiên chưa thực sự là một môn học em cần phải đi sâu tìm hiểu mong thầy về sau có thể hạ mức yêu cầu đầu ra với các bạn khoa khác ít liên quan tới môn học,Tiêu cực,Khác,59
+"chỉ một câu "" giấc mơ thành đại gia "" .",1,3,train,chỉ một câu giấc mơ thành đại gia,Tích cực,Khác,8
+"sự thân thiện và không gây áp lực , không khí buổi học luôn thoải mái để tiếp thu bài .",1,3,train,sự thân thiện và không gây áp lực không khí buổi học luôn thoải mái để tiếp thu bài,Tích cực,Khác,19
+kiến thức ngữ pháp và viết đạt .,1,3,train,kiến thức ngữ pháp và viết đạt,Tích cực,Khác,7
+"đến cuối kỳ thì thật sự kiến thức để bọn em đi thi chỉ bằng 1 fraction 10 kiến thức thầy dạy , thậm chí là ít hơn cũng có thể .",0,3,train,đến cuối kỳ thì thật sự kiến thức để bọn em đi thi chỉ bằng 1 fraction 10 kiến thức thầy dạy thậm chí là ít hơn cũng có thể,Tiêu cực,Khác,30
+"nói chung là thua , feed môn , ráng qua 5 điểm cho khỏe .",0,3,train,nói chung là thua feed môn ráng qua 5 điểm cho khỏe,Tiêu cực,Khác,12
+em không có bất cứ một lời phê bình nào .,2,3,dev,em không có bất cứ một lời phê bình nào,Trung lập,Khác,10
+tạm được .,2,3,dev,tạm được,Trung lập,Khác,2
+rât tốt .,1,3,dev,rât tốt,Tích cực,Khác,2
+chất lượng tốt .,1,3,dev,chất lượng tốt,Tích cực,Khác,3
+chia sẻ kiến thức thực tế cho sinh viên .,1,3,dev,chia sẻ kiến thức thực tế cho sinh viên,Tích cực,Khác,9
+đừng có một chỗ tiếng anh một chỗ tiếng việt .,0,3,dev,đừng có một chỗ tiếng anh một chỗ tiếng việt,Tiêu cực,Khác,10
+"theo như danh sách phòng đào tạo đưa xuống , lớp học có gần 140 sinh viên đăng kí .",2,3,dev,theo như danh sách phòng đào tạo đưa xuống lớp học có gần 140 sinh viên đăng kí,Trung lập,Khác,18
+"hiện tại tương đối tốt , không cần điều chỉnh gì thêm .",1,3,dev,hiện tại tương đối tốt không cần điều chỉnh gì thêm,Tích cực,Khác,11
+tệ đến mức không tả được .,0,3,dev,tệ đến mức không tả được,Tiêu cực,Khác,6
+cực kỳ nhiệt tình .,1,3,dev,cực kỳ nhiệt tình,Tích cực,Khác,4
+giải bài tập cho sinh viên nhiều .,1,3,dev,giải bài tập cho sinh viên nhiều,Tích cực,Khác,7
+"em thích cách dạy của thầy , làm bài tập sau khi giảng xong lý thuyết cho sinh viên có thể nhớ ngay hôm ấy không cần về nhà coi lại bài .",1,3,dev,em thích cách dạy của thầy làm bài tập sau khi giảng xong lý thuyết cho sinh viên có thể nhớ ngay hôm ấy không cần về nhà coi lại bài,Tích cực,Khác,31
+quá khắt khe colonsad .,0,3,dev,quá khắt khe colonsad,Tiêu cực,Khác,4
+quá tệ .,0,3,dev,quá tệ,Tiêu cực,Khác,2
+"phần đầu môn này nói về những chủ đề đại loại như "" làm thế nào để thành công "" , "" thói quen người thành công "" hay là bàn về tương lai vdotv .",2,3,dev,phần đầu môn này nói về những chủ đề đại loại như làm thế nào để thành công thói quen người thành công hay là bàn về tương lai vdotv,Trung lập,Khác,30
+như vậy là được .,1,3,dev,như vậy là được,Tích cực,Khác,4
+khả năng tiếng anh .,2,3,dev,khả năng tiếng anh,Trung lập,Khác,4
+học còn khá tẻ nhạt .,0,3,dev,học còn khá tẻ nhạt,Tiêu cực,Khác,5
+do đó làm hiệu quả học chưa đạt mức tốt nhất .,0,3,dev,do đó làm hiệu quả học chưa đạt mức tốt nhất,Tiêu cực,Khác,11
+"hoạt động dạy và học rất sôi nổi , rất tận tâm và nhiệt huyết !",1,3,dev,hoạt động dạy và học rất sôi nổi rất tận tâm và nhiệt huyết,Tích cực,Khác,14
+không hài lòng với sự cố gắng của bản thân mình .,0,3,dev,không hài lòng với sự cố gắng của bản thân mình,Tiêu cực,Khác,11
+speaking vừa rồi cô không công bằng .,0,3,dev,speaking vừa rồi cô không công bằng,Tiêu cực,Khác,7
+hài lòng hết !,1,3,dev,hài lòng hết,Tích cực,Khác,3
+cung cấp lượng lớn thông tin .,1,3,dev,cung cấp lượng lớn thông tin,Tích cực,Khác,6
+chưa từng gặp giảng viên wzjwz144 ở môn thực hành thiết bị mạng và truyền thông đa phương tiện .,0,3,dev,chưa từng gặp giảng viên wzjwz144 ở môn thực hành thiết bị mạng và truyền thông đa phương tiện,Tiêu cực,Khác,19
+kiến thức truyền đạt .,2,3,dev,kiến thức truyền đạt,Trung lập,Khác,4
+mọi mặt đều tốt .,1,3,dev,mọi mặt đều tốt,Tích cực,Khác,4
+đó là ý kiến cá nhân của em .,2,3,dev,đó là ý kiến cá nhân của em,Trung lập,Khác,8
+tạm tạm .,2,3,dev,tạm tạm,Trung lập,Khác,2
+"cô wzjwz306 cực kỳ nhiệt tình , luôn biết cách tạo cơ hội cho sinh viên , khuyến khích cự chủ động và sáng tạo trên lớp , thẳng thắng phê bình dù là cả lớp một cách hết sức xây dựng và thức tỉnh .",1,3,dev,cô wzjwz306 cực kỳ nhiệt tình luôn biết cách tạo cơ hội cho sinh viên khuyến khích cự chủ động và sáng tạo trên lớp thẳng thắng phê bình dù là cả lớp một cách hết sức xây dựng và thức tỉnh,Tích cực,Khác,42
+tốt .,1,3,dev,tốt,Tích cực,Khác,1
+giúp nâng cao kiến thức .,1,3,dev,giúp nâng cao kiến thức,Tích cực,Khác,5
+cần chú ý khắc phục .,0,3,dev,cần chú ý khắc phục,Tiêu cực,Khác,5
+điều này như lướt qua đầu tụi em và nó chả để lại ấn tượng gì nên trong bài thi giữa kỳ đa số là sai phần bài tập .,0,3,dev,điều này như lướt qua đầu tụi em và nó chả để lại ấn tượng gì nên trong bài thi giữa kỳ đa số là sai phần bài tập,Tiêu cực,Khác,29
+"hiện nay theo em nhận thấy , trong khi lúc học thì sinh viên chỉ được học về doubledot kỹ năng ghi chép , kỹ tổ chức cuộc họp .",2,3,dev,hiện nay theo em nhận thấy trong khi lúc học thì sinh viên chỉ được học về doubledot kỹ năng ghi chép kỹ tổ chức cuộc họp,Trung lập,Khác,27
+buồn ngủ .,0,3,dev,buồn ngủ,Tiêu cực,Khác,2
+có nhiều trò chơi nhỏ .,1,3,dev,có nhiều trò chơi nhỏ,Tích cực,Khác,5
+chất lượng giảng dạy .,2,3,dev,chất lượng giảng dạy,Trung lập,Khác,4
+do bản thân .,2,3,dev,do bản thân,Trung lập,Khác,3
+thời gian quá ngắn .,0,3,dev,thời gian quá ngắn,Tiêu cực,Khác,4
+để thay đổi không khí và vừa nghỉ giải lao .,1,3,dev,để thay đổi không khí và vừa nghỉ giải lao,Tích cực,Khác,10
+"chương trình quá nặng , quá nhiều yêu cầu dễ bị quá tải .",0,3,dev,chương trình quá nặng quá nhiều yêu cầu dễ bị quá tải,Tiêu cực,Khác,12
+"các mục được đánh "" không ý kiến "" có nghĩa là em đồng ý với điều được hỏi , không ý kiến gì .",2,3,dev,các mục được đánh không ý kiến có nghĩa là em đồng ý với điều được hỏi không ý kiến gì,Trung lập,Khác,21
+thu hút em học .,1,3,dev,thu hút em học,Tích cực,Khác,4
+vô cùng tuyệt vời .,1,3,dev,vô cùng tuyệt vời,Tích cực,Khác,4
+lớp trưởng trách nhiệm kém .,0,3,dev,lớp trưởng trách nhiệm kém,Tiêu cực,Khác,5
+được tiếp xúc môi trường thực tế ở các công ty .,1,3,dev,được tiếp xúc môi trường thực tế ở các công ty,Tích cực,Khác,11
+"em thấy giáo viên dạy dễ hiểu , tận tình .",1,3,dev,em thấy giáo viên dạy dễ hiểu tận tình,Tích cực,Khác,9
+em nhớ nhất câu phải có sự đấu tranh mới phát triển .,1,3,dev,em nhớ nhất câu phải có sự đấu tranh mới phát triển,Tích cực,Khác,12
+không có đề cương trên khoá học .,0,3,dev,không có đề cương trên khoá học,Tiêu cực,Khác,7
+đặc biệt là tránh để thời gian chết .,0,3,dev,đặc biệt là tránh để thời gian chết,Tiêu cực,Khác,8
+funny .,1,3,dev,funny,Tích cực,Khác,1
+sự cố này kéo dài hơn một tháng mới chấm dứt .,0,3,dev,sự cố này kéo dài hơn một tháng mới chấm dứt,Tiêu cực,Khác,11
+rất hay và quá hay .,1,3,dev,rất hay và quá hay,Tích cực,Khác,5
+học patin vui .,1,3,dev,học patin vui,Tích cực,Khác,3
+nhanh .,2,3,dev,nhanh,Trung lập,Khác,1
+chữ viết khá nhỏ .,0,3,dev,chữ viết khá nhỏ,Tiêu cực,Khác,4
+đề nghị nhà trường nâng cấp .,0,3,dev,đề nghị nhà trường nâng cấp,Tiêu cực,Khác,6
+đôi khi dạy hơi nhanh khiến học sinh hơi hoang mang .,0,3,dev,đôi khi dạy hơi nhanh khiến học sinh hơi hoang mang,Tiêu cực,Khác,11
+cần có biện pháp để có thể đánh giá phù hợp với thực lực của sinh viên hơn .,0,3,dev,cần có biện pháp để có thể đánh giá phù hợp với thực lực của sinh viên hơn,Tiêu cực,Khác,18
+nói chung again 10 fraction 10 .,1,3,dev,nói chung again 10 fraction 10,Tích cực,Khác,6
+thời gian .,2,3,dev,thời gian,Trung lập,Khác,2
+khó tiếp thu .,0,3,dev,khó tiếp thu,Tiêu cực,Khác,3
+không có gì để không hài lòng .,2,3,dev,không có gì để không hài lòng,Trung lập,Khác,7
+sau khi qua môn này chắc sẽ không học thầy nữa .,0,3,dev,sau khi qua môn này chắc sẽ không học thầy nữa,Tiêu cực,Khác,11
+em rất thích .,1,3,dev,em rất thích,Tích cực,Khác,3
+"cô nói hơi dài dòng , đôi chỗ hơi khó hiểu .",0,3,dev,cô nói hơi dài dòng đôi chỗ hơi khó hiểu,Tiêu cực,Khác,10
+bằng chứng là thầy wzjwz56 dạy thay thầy wzjwz57 ở lớp wzjwz58 .,2,3,dev,bằng chứng là thầy wzjwz56 dạy thay thầy wzjwz57 ở lớp wzjwz58,Trung lập,Khác,12
+hầu hết em và các bạn đều không đi thực hành .,0,3,dev,hầu hết em và các bạn đều không đi thực hành,Tiêu cực,Khác,11
+không có gì .,2,3,dev,không có gì,Trung lập,Khác,3
+rất bổ ích và thú vị .,1,3,dev,rất bổ ích và thú vị,Tích cực,Khác,6
+"ngoài ra , các mặt còn lại em không có ý kiến .",2,3,dev,ngoài ra các mặt còn lại em không có ý kiến,Trung lập,Khác,11
+không có điều nào không hài lòng .,2,3,dev,không có điều nào không hài lòng,Trung lập,Khác,7
+khá ổn .,1,3,dev,khá ổn,Tích cực,Khác,2
+tóm lại em rất hài lòng .,1,3,dev,tóm lại em rất hài lòng,Tích cực,Khác,6
+giải tích 2 .,2,3,dev,giải tích 2,Trung lập,Khác,3
+đa số sinh viên tự học và không liên hệ đến giảng viên thực hành .,0,3,dev,đa số sinh viên tự học và không liên hệ đến giảng viên thực hành,Tiêu cực,Khác,15
+"vui , hay .",1,3,dev,vui hay,Tích cực,Khác,2
+không biết thầy wzjwz260 là thầy nào ?,0,3,dev,không biết thầy wzjwz260 là thầy nào,Tiêu cực,Khác,7
+không có ý kiến gì .,2,3,dev,không có ý kiến gì,Trung lập,Khác,5
+cô rất nhiệt tình trong việc giảng dạy .,1,3,dev,cô rất nhiệt tình trong việc giảng dạy,Tích cực,Khác,8
+tuyệt vời .,1,3,dev,tuyệt vời,Tích cực,Khác,2
+không hài lòng điểm gì cả !,0,3,dev,không hài lòng điểm gì cả,Tiêu cực,Khác,6
+gây lãng phí .,0,3,dev,gây lãng phí,Tiêu cực,Khác,3
+nên nhiều khi em thấy không thể hiểu .,0,3,dev,nên nhiều khi em thấy không thể hiểu,Tiêu cực,Khác,8
+không có ý kiến với giáo viên .,2,3,dev,không có ý kiến với giáo viên,Trung lập,Khác,7
+làm kiểm tra thường xuyên .,2,3,dev,làm kiểm tra thường xuyên,Trung lập,Khác,5
+em không có ý kiến .,2,3,dev,em không có ý kiến,Trung lập,Khác,5
+xảy ra tai nạn đáng tiếc .,0,3,dev,xảy ra tai nạn đáng tiếc,Tiêu cực,Khác,6
+cho học sinh nói nhiều hơn .,0,3,dev,cho học sinh nói nhiều hơn,Tiêu cực,Khác,6
+"chi tiết , dễ hiểu .",1,3,dev,chi tiết dễ hiểu,Tích cực,Khác,4
+"em học không tốt , em nghỉ nhiều buổi thực hành , còn lý thuyết thì em khá vững .",0,3,dev,em học không tốt em nghỉ nhiều buổi thực hành còn lý thuyết thì em khá vững,Tiêu cực,Khác,17
+tạm ổn .,2,3,dev,tạm ổn,Trung lập,Khác,2
+"điều này thật là "" ảo "" vì không sinh viên nào làm điều đó .",0,3,dev,điều này thật là ảo vì không sinh viên nào làm điều đó,Tiêu cực,Khác,13
+trân trọng .,2,3,dev,trân trọng,Trung lập,Khác,2
+trong trường macbook thầy số hai thì không có máy nào số một .,1,3,test,trong trường macbook thầy số hai thì không có máy nào số một,Tích cực,Khác,13
+ổn .,2,3,test,ổn,Trung lập,Khác,1
+rất thực tế không dài dòng .,1,3,test,rất thực tế không dài dòng,Tích cực,Khác,6
+học thì quá ít nhưng khi thi thì quá nhiều yêu cầu viết code trong đề thi thì sao mà sinh viên có thể làm được .,0,3,test,học thì quá ít nhưng khi thi thì quá nhiều yêu cầu viết code trong đề thi thì sao mà sinh viên có thể làm được,Tiêu cực,Khác,26
+sự nhiệt tình tận tâm .,1,3,test,sự nhiệt tình tận tâm,Tích cực,Khác,5
+đôi lúc sinh viên theo không kịp .,0,3,test,đôi lúc sinh viên theo không kịp,Tiêu cực,Khác,7
+rất hài lòng nên không có gì không hài lòng .,1,3,test,rất hài lòng nên không có gì không hài lòng,Tích cực,Khác,10
+các buổi ngoại khóa nên được mở .,0,3,test,các buổi ngoại khóa nên được mở,Tiêu cực,Khác,7
+tâm lý .,2,3,test,tâm lý,Trung lập,Khác,2
+em mong là có phần khảo sát môn học ở giữa kỳ chứ cuối kỳ thì môn học đã qua đi rồi .,0,3,test,em mong là có phần khảo sát môn học ở giữa kỳ chứ cuối kỳ thì môn học đã qua đi rồi,Tiêu cực,Khác,22
+môn này em không đươc học với cô wzjwz160 .,0,3,test,môn này em không đươc học với cô wzjwz160,Tiêu cực,Khác,9
+kỹ những chương cuối .,2,3,test,kỹ những chương cuối,Trung lập,Khác,4
+cả cuộc sống sau này lẫn trong môn học .,2,3,test,cả cuộc sống sau này lẫn trong môn học,Trung lập,Khác,9
+đã có làm đơn với phòng đào tạo .,2,3,test,đã có làm đơn với phòng đào tạo,Trung lập,Khác,8
+đảm bảo chất lượng tốt .,1,3,test,đảm bảo chất lượng tốt,Tích cực,Khác,5
+em không hiểu .,0,3,test,em không hiểu,Tiêu cực,Khác,3
+cám ơn cô đã dạy lớp em .,1,3,test,cám ơn cô đã dạy lớp em,Tích cực,Khác,7
+đó là ý kiến cá nhân của em về giảng viên môn anh văn 2 này .,2,3,test,đó là ý kiến cá nhân của em về giảng viên môn anh văn 2 này,Trung lập,Khác,16
+không ý kiến .,2,3,test,không ý kiến,Trung lập,Khác,3
+đừng nghĩ mọi thứ tự em đã biết trước hết colonsmile .,0,3,test,đừng nghĩ mọi thứ tự em đã biết trước hết colonsmile,Tiêu cực,Khác,11
+không hiểu học ra để áp dụng vào cái gì .,0,3,test,không hiểu học ra để áp dụng vào cái gì,Tiêu cực,Khác,10
+tất cả .,2,3,test,tất cả,Trung lập,Khác,2
+rất không hài lòng .,0,3,test,rất không hài lòng,Tiêu cực,Khác,4
+vì thế không thể tốt toàn vẹn được .,0,3,test,vì thế không thể tốt toàn vẹn được,Tiêu cực,Khác,8
+dứt khoát .,1,3,test,dứt khoát,Tích cực,Khác,2
+trời nóng .,0,3,test,trời nóng,Tiêu cực,Khác,2
+sáng tạo trong giảng dạy .,1,3,test,sáng tạo trong giảng dạy,Tích cực,Khác,5
+nắng vào buổi sáng ở gần cửa sổ .,0,3,test,nắng vào buổi sáng ở gần cửa sổ,Tiêu cực,Khác,8
+em mong giờ lên lớp có những niềm vui hơn .,0,3,test,em mong giờ lên lớp có những niềm vui hơn,Tiêu cực,Khác,10
+chúng em đã nghỉ khoảng 4 tuần như thế .,2,3,test,chúng em đã nghỉ khoảng 4 tuần như thế,Trung lập,Khác,9
+"em là sinh viên khó khăn , phải vừa làm vừa học , nên thời gian trống không được linh hoạt .",0,3,test,em là sinh viên khó khăn phải vừa làm vừa học nên thời gian trống không được linh hoạt,Tiêu cực,Khác,19
+làm sao có thể tìm thấy điểm không hài lòng được .,1,3,test,làm sao có thể tìm thấy điểm không hài lòng được,Tích cực,Khác,11
+học được nhiều điều mới không nằm trong sách vở .,1,3,test,học được nhiều điều mới không nằm trong sách vở,Tích cực,Khác,10
+đó là điều mà em mong muốn mỗi khi đến lớp .,1,3,test,đó là điều mà em mong muốn mỗi khi đến lớp,Tích cực,Khác,11
+"không có , chỉ là do em lười học nên không tiếp thu được .",2,3,test,không có chỉ là do em lười học nên không tiếp thu được,Trung lập,Khác,13
+học sinh chưa thật sự đạt được kiến thức đầy đủ .,0,3,test,học sinh chưa thật sự đạt được kiến thức đầy đủ,Tiêu cực,Khác,11
+sự nhiệt tình và tâm huyết .,1,3,test,sự nhiệt tình và tâm huyết,Tích cực,Khác,6
+em xin cám ơn !,1,3,test,em xin cám ơn,Tích cực,Khác,4
+cầu kỳ .,2,3,test,cầu kỳ,Trung lập,Khác,2
+hy vọng môn nào cũng như môn này thì quá tốt .,1,3,test,hy vọng môn nào cũng như môn này thì quá tốt,Tích cực,Khác,11
+lớp quá đông .,0,3,test,lớp quá đông,Tiêu cực,Khác,3
+do khi ra trường các công ty chủ yếu đánh mạnh phần thực hành và vận dụng .,2,3,test,do khi ra trường các công ty chủ yếu đánh mạnh phần thực hành và vận dụng,Trung lập,Khác,17
+tình huống hay .,1,3,test,tình huống hay,Tích cực,Khác,3
+vì giữa kỳ do em bỏ lở .,2,3,test,vì giữa kỳ do em bỏ lở,Trung lập,Khác,7
+em xin hết .,2,3,test,em xin hết,Trung lập,Khác,3
+sinh viên không hiểu lắm .,0,3,test,sinh viên không hiểu lắm,Tiêu cực,Khác,5
+hầu như không có điều không hài lòng .,2,3,test,hầu như không có điều không hài lòng,Trung lập,Khác,8
+bọn em không thể nghe rõ .,0,3,test,bọn em không thể nghe rõ,Tiêu cực,Khác,6
+không có !,2,3,test,không có,Trung lập,Khác,2
+tiếp thu bài cũng ổn .,2,3,test,tiếp thu bài cũng ổn,Trung lập,Khác,5
+hoàn toàn bình thường .,2,3,test,hoàn toàn bình thường,Trung lập,Khác,4
+được biết thêm nhiều kiến thức khác ở bên ngoài giúp mở rộng tầm mắt .,1,3,test,được biết thêm nhiều kiến thức khác ở bên ngoài giúp mở rộng tầm mắt,Tích cực,Khác,15
+lớp quá đông nên khó tiếp thu .,0,3,test,lớp quá đông nên khó tiếp thu,Tiêu cực,Khác,7
+một số lúc .,2,3,test,một số lúc,Trung lập,Khác,3
+hay và bổ ích .,1,3,test,hay và bổ ích,Tích cực,Khác,4
+tạm thời chưa có .,2,3,test,tạm thời chưa có,Trung lập,Khác,4
+lớp buồn không có ý kiến nhiều .,0,3,test,lớp buồn không có ý kiến nhiều,Tiêu cực,Khác,7
+giáo trình mới .,2,3,test,giáo trình mới,Trung lập,Khác,3
+học không hiểu .,0,3,test,học không hiểu,Tiêu cực,Khác,3
+không ạ .,2,3,test,không ạ,Trung lập,Khác,2
+cực kỳ tận tâm .,1,3,test,cực kỳ tận tâm,Tích cực,Khác,4
+hiệu quả .,1,3,test,hiệu quả,Tích cực,Khác,2
+tồi tệ .,0,3,test,tồi tệ,Tiêu cực,Khác,2
+đồ án hay .,1,3,test,đồ án hay,Tích cực,Khác,3
+học vậy đâu phải là học .,0,3,test,học vậy đâu phải là học,Tiêu cực,Khác,6
+khá dễ hiểu .,1,3,test,khá dễ hiểu,Tích cực,Khác,3
+rất hài lòng .,1,3,test,rất hài lòng,Tích cực,Khác,3
+mặc dù đánh good nhưng vì em yếu anh văn nên em không hiểu gì về lý thuyết cả .,0,3,test,mặc dù đánh good nhưng vì em yếu anh văn nên em không hiểu gì về lý thuyết cả,Tiêu cực,Khác,19
+với lại đặc thù sinh viên trường em nó khác cô ạ .,2,3,test,với lại đặc thù sinh viên trường em nó khác cô ạ,Trung lập,Khác,12
+có kiến thức để lập trình .,1,3,test,có kiến thức để lập trình,Tích cực,Khác,6
+thảo luận được nhiều vấn đề .,1,3,test,thảo luận được nhiều vấn đề,Tích cực,Khác,6
+không có điều gì không hài lòng .,1,3,test,không có điều gì không hài lòng,Tích cực,Khác,7
+môn này em học tệ nên không có ý kiến .,0,3,test,môn này em học tệ nên không có ý kiến,Tiêu cực,Khác,10
+"em không định hướng được mình sẽ học gì , khi học thì em không biết ứng dụng vào thực tế ra sao .",0,3,test,em không định hướng được mình sẽ học gì khi học thì em không biết ứng dụng vào thực tế ra sao,Tiêu cực,Khác,22
+tuyệt vời !,1,3,test,tuyệt vời,Tích cực,Khác,2
+sinh viên khó tiếp thu kiến thức .,0,3,test,sinh viên khó tiếp thu kiến thức,Tiêu cực,Khác,7
+quá nhiều .,0,3,test,quá nhiều,Tiêu cực,Khác,2
+các yêu cầu của môn cần ghi rõ .,0,3,test,các yêu cầu của môn cần ghi rõ,Tiêu cực,Khác,8
+giờ là 2014 rồi !,2,3,test,giờ là 2014 rồi,Trung lập,Khác,4
+tương đối hài lòng .,1,3,test,tương đối hài lòng,Tích cực,Khác,4
+chất lượng tốt không cần cải tiến .,1,3,test,chất lượng tốt không cần cải tiến,Tích cực,Khác,7
+omg .,0,3,test,omg,Tiêu cực,Khác,1
+lớp học ồn .,0,3,test,lớp học ồn,Tiêu cực,Khác,3
+giữ nguyên hình thức cũ !,2,3,test,giữ nguyên hình thức cũ,Trung lập,Khác,5
+kỹ lưỡng .,1,3,test,kỹ lưỡng,Tích cực,Khác,2
+không được đánh mạnh .,0,3,test,không được đánh mạnh,Tiêu cực,Khác,4
+tốt rồi .,1,3,test,tốt rồi,Tích cực,Khác,2
+vì thời gian trong lớp tập trung hơn .,2,3,test,vì thời gian trong lớp tập trung hơn,Trung lập,Khác,8
+còn thiếu bài giảng trên moodle .,0,3,test,còn thiếu bài giảng trên moodle,Tiêu cực,Khác,6
+lớp có 2 giảng viên hướng dẫn là cô wzjwz90 và thầy wzjwz91 .,2,3,test,lớp có 2 giảng viên hướng dẫn là cô wzjwz90 và thầy wzjwz91,Trung lập,Khác,13
+"em không học thầy này mà sao lại có khảo sát , em không rõ cho lắm .",0,3,test,em không học thầy này mà sao lại có khảo sát em không rõ cho lắm,Tiêu cực,Khác,16
+điều đó làm tăng áp lực cho sinh viên .,0,3,test,điều đó làm tăng áp lực cho sinh viên,Tiêu cực,Khác,9
+làm sao vớt vát được .,0,3,test,làm sao vớt vát được,Tiêu cực,Khác,5
+cố chấp .,0,3,test,cố chấp,Tiêu cực,Khác,2
+mặc dù có kiến thức tốt !,2,3,test,mặc dù có kiến thức tốt,Trung lập,Khác,6
+thao tác giáo án điện tử và các phần mềm hỗ trợ nhiều hơn .,0,3,test,thao tác giáo án điện tử và các phần mềm hỗ trợ nhiều hơn,Tiêu cực,Khác,14
+"cung cấp đầy đủ tài liệu và giáo trình môn học , nhiệt tình , tận tâm với sinh viên .",1,3,test,cung cấp đầy đủ tài liệu và giáo trình môn học nhiệt tình tận tâm với sinh viên,Tích cực,Khác,18
+số lượng sinh viên trên một lớp cần ít hơn .,0,3,test,số lượng sinh viên trên một lớp cần ít hơn,Tiêu cực,Khác,10
+chỉ học cho qua chứ không thu lượm được điều gì mới .,0,3,test,chỉ học cho qua chứ không thu lượm được điều gì mới,Tiêu cực,Khác,12
+học được nhiều kỹ năng mới và hay .,1,3,test,học được nhiều kỹ năng mới và hay,Tích cực,Khác,8
+tuyệt .,1,3,test,tuyệt,Tích cực,Khác,1
+cũng được .,2,3,test,cũng được,Trung lập,Khác,2
+tạm .,2,3,test,tạm,Trung lập,Khác,1
+khiến sinh viên mơ hồ về môn này .,0,3,test,khiến sinh viên mơ hồ về môn này,Tiêu cực,Khác,8
+cái này vấn đề chung của cả nước mất rồi colonhihi .,2,3,test,cái này vấn đề chung của cả nước mất rồi colonhihi,Trung lập,Khác,11
+em không có ý kiến gì .,2,3,test,em không có ý kiến gì,Trung lập,Khác,6
+có lời cho công việc sau này của mình không .,0,3,test,có lời cho công việc sau này của mình không,Tiêu cực,Khác,10
+"rất tốt , bám sát môn học .",1,3,test,rất tốt bám sát môn học,Tích cực,Khác,6
+tính kỷ luật cao .,1,3,test,tính kỷ luật cao,Tích cực,Khác,4
+không ổn .,0,3,test,không ổn,Tiêu cực,Khác,2
+hy vọng học kỳ tiếp theo được học môn cấu trúc rời rạc của thầy .,0,3,test,hy vọng học kỳ tiếp theo được học môn cấu trúc rời rạc của thầy,Tiêu cực,Khác,15
+chúng em phải vất vả lắm mới có thể hoàn thành được .,0,3,test,chúng em phải vất vả lắm mới có thể hoàn thành được,Tiêu cực,Khác,12
+rất thất vọng !,0,3,test,rất thất vọng,Tiêu cực,Khác,3
+dạ em không có ý kiến về vấn đề này .,2,3,test,dạ em không có ý kiến về vấn đề này,Trung lập,Khác,10
+"cần , kiệm , liêm , chính .",1,3,test,cần kiệm liêm chính,Tích cực,Khác,4
+không có gì không hài lòng cả .,2,3,test,không có gì không hài lòng cả,Trung lập,Khác,7
+không có sự hứng thú khi lên lớp .,0,3,test,không có sự hứng thú khi lên lớp,Tiêu cực,Khác,8
+rất hay .,1,3,test,rất hay,Tích cực,Khác,2
+mưa cho nghỉ ạ colonsmile .,0,3,test,mưa cho nghỉ ạ colonsmile,Tiêu cực,Khác,5
+năng động .,1,3,test,năng động,Tích cực,Khác,2
+kiến thức tổng hợp .,2,3,test,kiến thức tổng hợp,Trung lập,Khác,4
+khả năng tư duy được nâng cao .,1,3,test,khả năng tư duy được nâng cao,Tích cực,Khác,7
+chú thích những phần cần phải tập trung .,2,3,test,chú thích những phần cần phải tập trung,Trung lập,Khác,8
+wzjwz217 là thầy nào ?,0,3,test,wzjwz217 là thầy nào,Tiêu cực,Khác,4
+bài thực hành nên mang tính chất bắt buộc hoặc khuyến khích sinh viên làm để lấy điểm cộng để tạo động lực cũng như hứng thú với bài thực hành hơn .,1,3,test,bài thực hành nên mang tính chất bắt buộc hoặc khuyến khích sinh viên làm để lấy điểm cộng để tạo động lực cũng như hứng thú với bài thực hành hơn,Tích cực,Khác,32
+tôi hài lòng .,1,3,test,tôi hài lòng,Tích cực,Khác,3
+không hài lòng tất cả .,0,3,test,không hài lòng tất cả,Tiêu cực,Khác,5
+"cả 3 , 4 buổi thực hành theo hình thức 2 môn này có thầy thầy này tham gia hay hường dẫn buổi nào đâu mà đánh giá , chỉ có mỗi thầy wzjwz100 thôi .",0,3,test,cả 3 4 buổi thực hành theo hình thức 2 môn này có thầy thầy này tham gia hay hường dẫn buổi nào đâu mà đánh giá chỉ có mỗi thầy wzjwz100 thôi,Tiêu cực,Khác,33
+đi sâu vào vấn đề khó hơn .,1,3,test,đi sâu vào vấn đề khó hơn,Tích cực,Khác,7
+phần ý kiến của em trong phần khảo sát thầy wzjwz7 em nói có liên quan đến thầy luôn .,2,3,test,phần ý kiến của em trong phần khảo sát thầy wzjwz7 em nói có liên quan đến thầy luôn,Trung lập,Khác,19
+tỉ mỉ .,1,3,test,tỉ mỉ,Tích cực,Khác,2
+chuyên sâu .,1,3,test,chuyên sâu,Tích cực,Khác,2
+hy vọng đây không phải là sinh viên đầu tiên phản ánh vấn đề này .,0,3,test,hy vọng đây không phải là sinh viên đầu tiên phản ánh vấn đề này,Tiêu cực,Khác,15
+chép bài nhiều .,0,3,test,chép bài nhiều,Tiêu cực,Khác,3
+khá nhiệt tình .,1,3,test,khá nhiệt tình,Tích cực,Khác,3
+bơi rất vui .,1,3,test,bơi rất vui,Tích cực,Khác,3
+hầu hết sinh viên đều ngủ gật trong lớp .,0,3,test,hầu hết sinh viên đều ngủ gật trong lớp,Tiêu cực,Khác,9
+trung bình .,2,3,test,trung bình,Trung lập,Khác,2
+mọi thứ đều ổn .,2,3,test,mọi thứ đều ổn,Trung lập,Khác,4
+đôi lúc hơi sợ .,0,3,test,đôi lúc hơi sợ,Tiêu cực,Khác,4
+học để làm gì !,0,3,test,học để làm gì,Tiêu cực,Khác,4
+thanks !,2,3,test,thanks,Trung lập,Khác,1
+đáng để học tập .,1,3,test,đáng để học tập,Tích cực,Khác,4
+"sửa bài tập khó , giảng viên nhiệt tình .",1,3,test,sửa bài tập khó giảng viên nhiệt tình,Tích cực,Khác,8
+"chào quý thầy cô , phương pháp học tập mới cdio em cảm thấy được áp dụng không hợp lý , ví dụ tuần này thầy wzjwz39 đang dạy vấn đề đó , do kiến thức còn nhiều nên sinh viên chưa nắm , đến tuần sau thầy toàn vào lại dạy một kiến thức hoàn toàn khác .",0,3,test,chào quý thầy cô phương pháp học tập mới cdio em cảm thấy được áp dụng không hợp lý ví dụ tuần này thầy wzjwz39 đang dạy vấn đề đó do kiến thức còn nhiều nên sinh viên chưa nắm đến tuần sau thầy toàn vào lại dạy một kiến thức hoàn toàn khác,Tiêu cực,Khác,54
+cần có giờ ra chơi giữa giờ vì học liên tục năm tiết đôi khi khiến sinh viên mệt mà khó tiếp thu bài giảng .,0,3,test,cần có giờ ra chơi giữa giờ vì học liên tục năm tiết đôi khi khiến sinh viên mệt mà khó tiếp thu bài giảng,Tiêu cực,Khác,25
+hoạt động nhóm .,2,3,test,hoạt động nhóm,Trung lập,Khác,3
+đáng để học hỏi !,1,3,test,đáng để học hỏi,Tích cực,Khác,4
+đó là một động lực rất lớn để tụi em hoàn thành hết tất cả bài tập của thầy .,2,3,test,đó là một động lực rất lớn để tụi em hoàn thành hết tất cả bài tập của thầy,Trung lập,Khác,19
+học khó hiểu .,0,3,test,học khó hiểu,Tiêu cực,Khác,3
+làm cho các bạn bị thiệt thòi .,0,3,test,làm cho các bạn bị thiệt thòi,Tiêu cực,Khác,7
+"hôm trước lúc hỏi vấn đề này ok chưa thầy , thầy bảo ok rồi , hôm sau lên báo cáo thì nhè chỗ đó ra mà chửi .",0,3,test,hôm trước lúc hỏi vấn đề này ok chưa thầy thầy bảo ok rồi hôm sau lên báo cáo thì nhè chỗ đó ra mà chửi,Tiêu cực,Khác,26
+hiểu và áp dụng được vào trong thực tế cuộc sống .,1,3,test,hiểu và áp dụng được vào trong thực tế cuộc sống,Tích cực,Khác,11
+sử dụng nhiều ví dụ giúp sinh viên nắm kiến thức nhanh .,1,3,test,sử dụng nhiều ví dụ giúp sinh viên nắm kiến thức nhanh,Tích cực,Khác,12
+vì em đã gần như không có được gì !,0,3,test,vì em đã gần như không có được gì,Tiêu cực,Khác,9
+"ngoài thời gian cố định như trong thời khóa biểu của nhà trường , em đều cố gắng sắp xếp đi đủ .",2,3,test,ngoài thời gian cố định như trong thời khóa biểu của nhà trường em đều cố gắng sắp xếp đi đủ,Trung lập,Khác,21
+"nên trả lời những câu hỏi của sinh viên một cách nhanh nhất , không nên lẫn tránh hoặc bỏ qua những câu hỏi của sinh viên .",0,3,test,nên trả lời những câu hỏi của sinh viên một cách nhanh nhất không nên lẫn tránh hoặc bỏ qua những câu hỏi của sinh viên,Tiêu cực,Khác,26
+hầu như chúng em không tiếp thu được gì .,0,3,test,hầu như chúng em không tiếp thu được gì,Tiêu cực,Khác,9
+chô tiếng việt giống như là copy nguyên văn từ google dịch vậy .,2,3,test,chô tiếng việt giống như là copy nguyên văn từ google dịch vậy,Trung lập,Khác,13

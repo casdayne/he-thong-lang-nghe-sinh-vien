@@ -1,0 +1,713 @@
+feedback,sentiment,topic,split,feedback_sach,ten_cam_xuc,ten_chu_de,so_tu
+"cần nâng cấp hệ thống wifi , vì khi vào phòng thực hành , sinh viên không thể truy cập internet , buộc phải xin phép ra ngoài để làm bài .",0,2,train,cần nâng cấp hệ thống wifi vì khi vào phòng thực hành sinh viên không thể truy cập internet buộc phải xin phép ra ngoài để làm bài,Tiêu cực,Cơ sở vật chất,28
+"cần có một phòng máy tốt hơn , hiện đại hơn .",0,2,train,cần có một phòng máy tốt hơn hiện đại hơn,Tiêu cực,Cơ sở vật chất,10
+cải thiện lại cơ sở vật chất máy chiếu trong phòng học .,0,2,train,cải thiện lại cơ sở vật chất máy chiếu trong phòng học,Tiêu cực,Cơ sở vật chất,12
+mong ban thiết bị sớm khắc phục ạ !,0,2,train,mong ban thiết bị sớm khắc phục ạ,Tiêu cực,Cơ sở vật chất,8
+theo em thì nên thi phòng máy nào có visual 2013 trở lên .,0,2,train,theo em thì nên thi phòng máy nào có visual 2013 trở lên,Tiêu cực,Cơ sở vật chất,13
+cung cấp thêm trang thiết bị phục vụ nhu cầu môn học .,0,2,train,cung cấp thêm trang thiết bị phục vụ nhu cầu môn học,Tiêu cực,Cơ sở vật chất,12
+đề nghị nâng cấp phòng lab khoa mạng .,0,2,train,đề nghị nâng cấp phòng lab khoa mạng,Tiêu cực,Cơ sở vật chất,8
+đề nghị lắp thêm quạt .,0,2,train,đề nghị lắp thêm quạt,Tiêu cực,Cơ sở vật chất,5
+máy tính cập nhật nhanh hơn .,0,2,train,máy tính cập nhật nhanh hơn,Tiêu cực,Cơ sở vật chất,6
+cần cải tiến trang thiết thực hành .,0,2,train,cần cải tiến trang thiết thực hành,Tiêu cực,Cơ sở vật chất,7
+hỗ trợ thêm giáo trình không phải slide cho sinh viên .,0,2,train,hỗ trợ thêm giáo trình không phải slide cho sinh viên,Tiêu cực,Cơ sở vật chất,11
+cần thêm nhiều kit để thực hành .,0,2,train,cần thêm nhiều kit để thực hành,Tiêu cực,Cơ sở vật chất,7
+hỗ trợ thêm về các thiết bị dạy và học .,0,2,train,hỗ trợ thêm về các thiết bị dạy và học,Tiêu cực,Cơ sở vật chất,10
+"cơ sở vật chất , phỏng máy không đủ phích cắm cho dụng cụ thực hành và số lượng sinh viên , máy còn tiềm ẩn nhiều virus .",0,2,train,cơ sở vật chất phỏng máy không đủ phích cắm cho dụng cụ thực hành và số lượng sinh viên máy còn tiềm ẩn nhiều virus,Tiêu cực,Cơ sở vật chất,26
+phòng học nên có rèm che sáng để khi chiếu slide được nhìn rõ hơn .,0,2,train,phòng học nên có rèm che sáng để khi chiếu slide được nhìn rõ hơn,Tiêu cực,Cơ sở vật chất,15
+thiếu kinh nghiệm truyền đạt .,0,2,train,thiếu kinh nghiệm truyền đạt,Tiêu cực,Cơ sở vật chất,5
+phòng thực hành tốt .,1,2,train,phòng thực hành tốt,Tích cực,Cơ sở vật chất,4
+thêm phòng thiết bị để thực hành .,0,2,train,thêm phòng thiết bị để thực hành,Tiêu cực,Cơ sở vật chất,7
+"phòng học cần lắp thêm quạt và ổ cắm vì sinh viên phải sử dụng laptop để làm bài tập , cần có thêm màn che cửa sổ để có thể theo dõi bài giảng trên slide tốt hơn .",0,2,train,phòng học cần lắp thêm quạt và ổ cắm vì sinh viên phải sử dụng laptop để làm bài tập cần có thêm màn che cửa sổ để có thể theo dõi bài giảng trên slide tốt hơn,Tiêu cực,Cơ sở vật chất,38
+"micro và các thiết bị âm thanh , máy chiếu cần nâng cấp .",0,2,train,micro và các thiết bị âm thanh máy chiếu cần nâng cấp,Tiêu cực,Cơ sở vật chất,12
+chất lượng phòng máy rất tệ .,0,2,train,chất lượng phòng máy rất tệ,Tiêu cực,Cơ sở vật chất,6
+máy ở phòng thực hành quá tệ .,0,2,train,máy ở phòng thực hành quá tệ,Tiêu cực,Cơ sở vật chất,7
+"cần nâng cấp máy tính trong phòng thực hành , nhiều kit de2 bị lỗi cần sửa chữa hoặc thay mới .",0,2,train,cần nâng cấp máy tính trong phòng thực hành nhiều kit de2 bị lỗi cần sửa chữa hoặc thay mới,Tiêu cực,Cơ sở vật chất,20
+"phòng lab chán lắm , hư hỏng hết cả .",0,2,train,phòng lab chán lắm hư hỏng hết cả,Tiêu cực,Cơ sở vật chất,8
+bàn ghế còn bụi .,0,2,train,bàn ghế còn bụi,Tiêu cực,Cơ sở vật chất,4
+phòng thực hành nên nâng cấp máy tính .,0,2,train,phòng thực hành nên nâng cấp máy tính,Tiêu cực,Cơ sở vật chất,8
+cải thiện chất lượng phòng máy thực hành .,0,2,train,cải thiện chất lượng phòng máy thực hành,Tiêu cực,Cơ sở vật chất,8
+cần nâng cao chất lượng trang thiết bị .,0,2,train,cần nâng cao chất lượng trang thiết bị,Tiêu cực,Cơ sở vật chất,8
+"đầu tư các thiết bị cho sinh viên mượn , như điện thoại android , windows phone .",0,2,train,đầu tư các thiết bị cho sinh viên mượn như điện thoại android windows phone,Tiêu cực,Cơ sở vật chất,15
+nên trang bị trang thiết bị cho phòng thực hành và phòng lab để sinh viên có thể thực hành và học trực tiếp trên thiết bị thật .,0,2,train,nên trang bị trang thiết bị cho phòng thực hành và phòng lab để sinh viên có thể thực hành và học trực tiếp trên thiết bị thật,Tiêu cực,Cơ sở vật chất,28
+chất lượng phòng máy kém .,0,2,train,chất lượng phòng máy kém,Tiêu cực,Cơ sở vật chất,5
+thiếu thiết bị thật để thực hành .,0,2,train,thiếu thiết bị thật để thực hành,Tiêu cực,Cơ sở vật chất,7
+"em nghĩ cơ sở vật chất vẫn còn yếu kém , ngồi xa không thể nhìn rõ được slide bài giảng của cô giáo , phòng học rất nóng .",0,2,train,em nghĩ cơ sở vật chất vẫn còn yếu kém ngồi xa không thể nhìn rõ được slide bài giảng của cô giáo phòng học rất nóng,Tiêu cực,Cơ sở vật chất,27
+"cần có các thiết bị di động thật để sinh viên thực hành khi cần thiết , vì các chương trình mô phỏng trên máy tính là không đầy đủ .",0,2,train,cần có các thiết bị di động thật để sinh viên thực hành khi cần thiết vì các chương trình mô phỏng trên máy tính là không đầy đủ,Tiêu cực,Cơ sở vật chất,29
+cần chú trọng hơn vấn đề học thực hành phòng máy không đáp ứng yêu cầu doubledot không có trình biên dịch giáo viên thực hành không sử dụng hiệu quả giờ thực hành .,0,2,train,cần chú trọng hơn vấn đề học thực hành phòng máy không đáp ứng yêu cầu doubledot không có trình biên dịch giáo viên thực hành không sử dụng hiệu quả giờ thực hành,Tiêu cực,Cơ sở vật chất,34
+"em học ở phòng mà bên cạnh là công trình đang thi công , khá là ồn ào , vì thế khi học đến phần nghe , em không thể nghe được gì , và bài nghe bị gián đoạn .",0,2,train,em học ở phòng mà bên cạnh là công trình đang thi công khá là ồn ào vì thế khi học đến phần nghe em không thể nghe được gì và bài nghe bị gián đoạn,Tiêu cực,Cơ sở vật chất,36
+cần kết nối được mạng trong phòng lab .,0,2,train,cần kết nối được mạng trong phòng lab,Tiêu cực,Cơ sở vật chất,8
+phòng học ồn do cạnh khu xây dựng .,0,2,train,phòng học ồn do cạnh khu xây dựng,Tiêu cực,Cơ sở vật chất,8
+"học trong phòng chất lượng cao hơn , phòng học hiện tại không có máy lạnh .",0,2,train,học trong phòng chất lượng cao hơn phòng học hiện tại không có máy lạnh,Tiêu cực,Cơ sở vật chất,15
+máy chiếu chưa rõ nét cho toàn thẻ sinh viên trong phòng .,0,2,train,máy chiếu chưa rõ nét cho toàn thẻ sinh viên trong phòng,Tiêu cực,Cơ sở vật chất,12
+nâng cao trang thiết bị phòng học .,0,2,train,nâng cao trang thiết bị phòng học,Tiêu cực,Cơ sở vật chất,7
+phòng thực hành cần nâng cấp và bổ sung thêm thiết bị để mọi người đều có điều kiện thực hành thực tế nhiều hơn .,0,2,train,phòng thực hành cần nâng cấp và bổ sung thêm thiết bị để mọi người đều có điều kiện thực hành thực tế nhiều hơn,Tiêu cực,Cơ sở vật chất,25
+"phòng học quá sáng , màn chiếu bị mờ rất khó nhìn , xin ban quản lý lắp rèm để sinh viên và giảng viên thuận tiện trong việc học tập và giảng dạy .",0,2,train,phòng học quá sáng màn chiếu bị mờ rất khó nhìn xin ban quản lý lắp rèm để sinh viên và giảng viên thuận tiện trong việc học tập và giảng dạy,Tiêu cực,Cơ sở vật chất,32
+thêm hệ thống ổ điện ngầm dưới nền nhà để tiện cho việc sinh viên có thể cắm laptop phục vụ học tập .,0,2,train,thêm hệ thống ổ điện ngầm dưới nền nhà để tiện cho việc sinh viên có thể cắm laptop phục vụ học tập,Tiêu cực,Cơ sở vật chất,23
+cải tiến trang thiết bị phòng thực hành .,0,2,train,cải tiến trang thiết bị phòng thực hành,Tiêu cực,Cơ sở vật chất,8
+các thiết bị âm thanh cần được đảm bảo hơn .,0,2,train,các thiết bị âm thanh cần được đảm bảo hơn,Tiêu cực,Cơ sở vật chất,10
+"lắp quạt phù hợp vì phòng có 2 dãy quạt 2 bên nhưng ngồi ở dãy giữa vẫn nóng , cần có màn che cửa sổ và có ổ cắm điện .",0,2,train,lắp quạt phù hợp vì phòng có 2 dãy quạt 2 bên nhưng ngồi ở dãy giữa vẫn nóng cần có màn che cửa sổ và có ổ cắm điện,Tiêu cực,Cơ sở vật chất,30
+cần có nhiều buổi thực hành trên thiết bị thật hoặc giảng viên nên đem thiết bị thật làm vài bày mẫu trên lớp .,0,2,train,cần có nhiều buổi thực hành trên thiết bị thật hoặc giảng viên nên đem thiết bị thật làm vài bày mẫu trên lớp,Tiêu cực,Cơ sở vật chất,24
+"trang thiết bị còn hỏng hóc nhiều , thường xuyên trục trặc trong giờ học .",0,2,train,trang thiết bị còn hỏng hóc nhiều thường xuyên trục trặc trong giờ học,Tiêu cực,Cơ sở vật chất,14
+phòng wzjwz325 thiết bị âm thanh hay xảy ra trục trặc làm gián đoạn buổi học .,0,2,train,phòng wzjwz325 thiết bị âm thanh hay xảy ra trục trặc làm gián đoạn buổi học,Tiêu cực,Cơ sở vật chất,16
+điều chỉnh máy chiếu phù hợp với kích thước phông màn !,0,2,train,điều chỉnh máy chiếu phù hợp với kích thước phông màn,Tiêu cực,Cơ sở vật chất,11
+wifi yếu .,0,2,train,wifi yếu,Tiêu cực,Cơ sở vật chất,2
+tăng cường chất lượng phòng học .,0,2,train,tăng cường chất lượng phòng học,Tiêu cực,Cơ sở vật chất,6
+thấy giảng dạy nói môn này muốn học thì phải có phòng thí nghiệm .,2,2,train,thấy giảng dạy nói môn này muốn học thì phải có phòng thí nghiệm,Trung lập,Cơ sở vật chất,14
+"phòng thực hành cần nâng cấp các bộ kit , thực hành chưa hiệu quả .",0,2,train,phòng thực hành cần nâng cấp các bộ kit thực hành chưa hiệu quả,Tiêu cực,Cơ sở vật chất,14
+"phòng học quá nóng , máy chiếu mờ .",0,2,train,phòng học quá nóng máy chiếu mờ,Tiêu cực,Cơ sở vật chất,7
+lắp thêm rèm của để máy chiếu được hiệu quả hơn .,0,2,train,lắp thêm rèm của để máy chiếu được hiệu quả hơn,Tiêu cực,Cơ sở vật chất,11
+"phòng học vô cùng nóng , quạt chỉ để trang trí .",0,2,train,phòng học vô cùng nóng quạt chỉ để trang trí,Tiêu cực,Cơ sở vật chất,10
+"hỗ trợ thêm thiết bị cho việc giảng dạy môn anh văn , nếu có điều kiện có thể cho sinh viên học kỹ năng nghe anh văn trong phòng máy với trang thiết bị như tai nghe .",0,2,train,hỗ trợ thêm thiết bị cho việc giảng dạy môn anh văn nếu có điều kiện có thể cho sinh viên học kỹ năng nghe anh văn trong phòng máy với trang thiết bị như tai nghe,Tiêu cực,Cơ sở vật chất,37
+máy chiếu mờ phòng học hơi nóng .,0,2,train,máy chiếu mờ phòng học hơi nóng,Tiêu cực,Cơ sở vật chất,7
+cần cải thiện hệ thống âm thanh vì đôi lúc gặp trục trặc và không rõ .,0,2,train,cần cải thiện hệ thống âm thanh vì đôi lúc gặp trục trặc và không rõ,Tiêu cực,Cơ sở vật chất,16
+"hệ thống phòng máy còn nhiều vấn đề doubledot chuột , bàn phím hỏng , vdotv .",0,2,train,hệ thống phòng máy còn nhiều vấn đề doubledot chuột bàn phím hỏng vdotv,Tiêu cực,Cơ sở vật chất,14
+máy tính trường nên nâng cấp .,0,2,train,máy tính trường nên nâng cấp,Tiêu cực,Cơ sở vật chất,6
+"bàn giáo viên rất dơ , quạt máy thì chạy như không có chạy , mở chỉ thêm tốn điện , không có mát .",0,2,train,bàn giáo viên rất dơ quạt máy thì chạy như không có chạy mở chỉ thêm tốn điện không có mát,Tiêu cực,Cơ sở vật chất,21
+"em mong học kỳ tới , nhà trường cung cấp cho những lớp phần mềm chất lượng cao chúng em nhiều sự lựa chọn giảng viên cho môn học game cơ bản để chúng em có thể nhanh chóng hoàn thành môn học và ra trường đúng tiến độ .",0,2,train,em mong học kỳ tới nhà trường cung cấp cho những lớp phần mềm chất lượng cao chúng em nhiều sự lựa chọn giảng viên cho môn học game cơ bản để chúng em có thể nhanh chóng hoàn thành môn học và ra trường đúng tiến độ,Tiêu cực,Cơ sở vật chất,48
+có lẽ phải nâng cấp trang thiết bị .,0,2,train,có lẽ phải nâng cấp trang thiết bị,Tiêu cực,Cơ sở vật chất,8
+cần nâng cao hệ thống thiết bị giảng dạy .,0,2,train,cần nâng cao hệ thống thiết bị giảng dạy,Tiêu cực,Cơ sở vật chất,9
+trang thiết bị nên tốt hơn .,0,2,train,trang thiết bị nên tốt hơn,Tiêu cực,Cơ sở vật chất,6
+nhưng mà phòng thực hành hiện tại thì chỉ trang bị máy có 1 gb ram thôi .,0,2,train,nhưng mà phòng thực hành hiện tại thì chỉ trang bị máy có 1 gb ram thôi,Tiêu cực,Cơ sở vật chất,17
+tăng cường thiết bị .,2,2,train,tăng cường thiết bị,Trung lập,Cơ sở vật chất,4
+nhà trường nên cài bộ microsoft visual studio phiên bản mới hơn 2010 .,0,2,train,nhà trường nên cài bộ microsoft visual studio phiên bản mới hơn 2010,Tiêu cực,Cơ sở vật chất,13
+micro hay bị hú và rè .,0,2,train,micro hay bị hú và rè,Tiêu cực,Cơ sở vật chất,6
+cải thiện chất lượng phòng học và các trang thiết bị hỗ trợ việc học tập .,0,2,train,cải thiện chất lượng phòng học và các trang thiết bị hỗ trợ việc học tập,Tiêu cực,Cơ sở vật chất,16
+nâng cao trang thiết bị học tập .,0,2,train,nâng cao trang thiết bị học tập,Tiêu cực,Cơ sở vật chất,7
+"cần sắp xếp phòng học cho hợp lý hơn , kèm theo các thiết bị , công cụ chiếu .",0,2,train,cần sắp xếp phòng học cho hợp lý hơn kèm theo các thiết bị công cụ chiếu,Tiêu cực,Cơ sở vật chất,17
+sửa chữa những thiết bị máy tính hư trong phòng máy .,0,2,train,sửa chữa những thiết bị máy tính hư trong phòng máy,Tiêu cực,Cơ sở vật chất,11
+phòng wzjwz98 dãy nhà wzjwz99 buổi chiều quá nóng và nắng !,0,2,train,phòng wzjwz98 dãy nhà wzjwz99 buổi chiều quá nóng và nắng,Tiêu cực,Cơ sở vật chất,11
+"bổ xung trang thiết bị thực hành thực tiễn cho môn này , không chỉ đơn thuần là thực hành trên máy tính không .",0,2,train,bổ xung trang thiết bị thực hành thực tiễn cho môn này không chỉ đơn thuần là thực hành trên máy tính không,Tiêu cực,Cơ sở vật chất,23
+"phòng học quá nóng , thiếu quạt .",0,2,train,phòng học quá nóng thiếu quạt,Tiêu cực,Cơ sở vật chất,6
+phòng máy không sử dụng được .,0,2,train,phòng máy không sử dụng được,Tiêu cực,Cơ sở vật chất,6
+"phòng máy quá cũ , internet không có , nhỏ , máy cấu hình quá yếu .",0,2,train,phòng máy quá cũ internet không có nhỏ máy cấu hình quá yếu,Tiêu cực,Cơ sở vật chất,13
+nhiều khi đang làm thực hành mà không có mạng để tìm hiểu thứ mình cần .,0,2,train,nhiều khi đang làm thực hành mà không có mạng để tìm hiểu thứ mình cần,Tiêu cực,Cơ sở vật chất,16
+phòng thực hành wzjwz53 cần được nâng cấp .,0,2,train,phòng thực hành wzjwz53 cần được nâng cấp,Tiêu cực,Cơ sở vật chất,8
+học gần công trình thì công thật không thể chịu nổi .,0,2,train,học gần công trình thì công thật không thể chịu nổi,Tiêu cực,Cơ sở vật chất,11
+máy chiếu phòng wzjwz11 chất lượng quá kém .,0,2,train,máy chiếu phòng wzjwz11 chất lượng quá kém,Tiêu cực,Cơ sở vật chất,8
+đề nghị nhà trường nên đầu tư thêm cho phòng máy và cập nhật các phần mềm phục vụ cho học tập .,0,2,train,đề nghị nhà trường nên đầu tư thêm cho phòng máy và cập nhật các phần mềm phục vụ cho học tập,Tiêu cực,Cơ sở vật chất,22
+"máy tính của phòng thực hành không phục vụ được nội dung thực hành , giảng viên yêu cầu tự làm trên laptop rồi mang lên phòng thực hành chấm điểm , vậy phòng thực hành dùng để chấm điểm ?",0,2,train,máy tính của phòng thực hành không phục vụ được nội dung thực hành giảng viên yêu cầu tự làm trên laptop rồi mang lên phòng thực hành chấm điểm vậy phòng thực hành dùng để chấm điểm,Tiêu cực,Cơ sở vật chất,38
+"nâng cấp trang thiết bị , đặc biệt là loa nghe để có chật lượng tốt nhất .",0,2,train,nâng cấp trang thiết bị đặc biệt là loa nghe để có chật lượng tốt nhất,Tiêu cực,Cơ sở vật chất,16
+"theo như yêu cầu của môn học , sinh viên phải mang lap để làm bài tập , tuy nhiên ổ cắm trong phòng chỉ có 2 ổ , không đáp ứng được nhu cầu dạy và học của giảng viên lẫn sinh viên .",0,2,train,theo như yêu cầu của môn học sinh viên phải mang lap để làm bài tập tuy nhiên ổ cắm trong phòng chỉ có 2 ổ không đáp ứng được nhu cầu dạy và học của giảng viên lẫn sinh viên,Tiêu cực,Cơ sở vật chất,41
+cần nâng cao chất lượng cơ sở vật chất hơn .,0,2,train,cần nâng cao chất lượng cơ sở vật chất hơn,Tiêu cực,Cơ sở vật chất,10
+"máy chiếu phòng wzjwz104 rất hay tắt , mở được một lúc là nóng quá rồi tắt , không sử dụng được nữa .",0,2,train,máy chiếu phòng wzjwz104 rất hay tắt mở được một lúc là nóng quá rồi tắt không sử dụng được nữa,Tiêu cực,Cơ sở vật chất,21
+"phòng học buổi trưa rất nóng , có thể trang bị thêm quạt thì tốt hơn .",0,2,train,phòng học buổi trưa rất nóng có thể trang bị thêm quạt thì tốt hơn,Tiêu cực,Cơ sở vật chất,15
+lý do doubledot tới ngày thi ngồi ngay 2 máy hư .,0,2,train,lý do doubledot tới ngày thi ngồi ngay 2 máy hư,Tiêu cực,Cơ sở vật chất,11
+"phòng học còn nóng và bụi bặm , máy chiếu tuy là vẫn thầy được nhưng như thế vẫn là mờ , đề nghị khắc phục vấn đề này .",0,2,train,phòng học còn nóng và bụi bặm máy chiếu tuy là vẫn thầy được nhưng như thế vẫn là mờ đề nghị khắc phục vấn đề này,Tiêu cực,Cơ sở vật chất,27
+giảng đường quá nóng .,0,2,train,giảng đường quá nóng,Tiêu cực,Cơ sở vật chất,4
+nếu trang thiết bị đã không đáp ứng được thì tại sao trường không tạo điều kiện kéo dây mạng cho sinh viên cắm vào laptop .,0,2,train,nếu trang thiết bị đã không đáp ứng được thì tại sao trường không tạo điều kiện kéo dây mạng cho sinh viên cắm vào laptop,Tiêu cực,Cơ sở vật chất,26
+"nâng cao trang thiết bị phòng học doubledot máy chiếu , quạt .",0,2,train,nâng cao trang thiết bị phòng học doubledot máy chiếu quạt,Tiêu cực,Cơ sở vật chất,11
+sử dụng máy chiếu slide ví dụ cụ thể hơn .,0,2,train,sử dụng máy chiếu slide ví dụ cụ thể hơn,Tiêu cực,Cơ sở vật chất,10
+"tránh tình trạng giảng viên đang dạy thì hết phấn , micro hết pin .",0,2,train,tránh tình trạng giảng viên đang dạy thì hết phấn micro hết pin,Tiêu cực,Cơ sở vật chất,13
+"đầu tư phòng lab thực hành trên thiết bị thật , có quy mô .",0,2,train,đầu tư phòng lab thực hành trên thiết bị thật có quy mô,Tiêu cực,Cơ sở vật chất,13
+"phòng thực hành thì máy bị treo , bị hư hoài , dây mạng thì cắm lúc nhận lúc không .",0,2,train,phòng thực hành thì máy bị treo bị hư hoài dây mạng thì cắm lúc nhận lúc không,Tiêu cực,Cơ sở vật chất,18
+"nên trang bị thêm các lớp thực hành để sinh viên có cơ hội thao tác trên thực tế nhà trường nên trang bị rèm cửa sổ để tránh ánh sáng làm mờ máy chiếu , gây khó khăn trong việc báo cáo đồ án cũng như dạy học .",0,2,train,nên trang bị thêm các lớp thực hành để sinh viên có cơ hội thao tác trên thực tế nhà trường nên trang bị rèm cửa sổ để tránh ánh sáng làm mờ máy chiếu gây khó khăn trong việc báo cáo đồ án cũng như dạy học,Tiêu cực,Cơ sở vật chất,48
+"máy chiếu khá mờ , âm thanh gặp nhiều vấn đề trục trặc .",0,2,train,máy chiếu khá mờ âm thanh gặp nhiều vấn đề trục trặc,Tiêu cực,Cơ sở vật chất,12
+cần có các thiết bị thực hành đầy đủ .,0,2,train,cần có các thiết bị thực hành đầy đủ,Tiêu cực,Cơ sở vật chất,9
+nên nâng cấp và bảo trì các phòng máy cũ thường xuyên hơn .,0,2,train,nên nâng cấp và bảo trì các phòng máy cũ thường xuyên hơn,Tiêu cực,Cơ sở vật chất,13
+phải nâng cấp phòng máy .,0,2,train,phải nâng cấp phòng máy,Tiêu cực,Cơ sở vật chất,5
+"máy chiếu quá mờ , đề nghị thay đổi .",0,2,train,máy chiếu quá mờ đề nghị thay đổi,Tiêu cực,Cơ sở vật chất,8
+"lại dùng visual studio 2005 nên tôi xin có ý kiến về việc nâng cấp bản visual studio lên 2008 , 2010 để việc học và thi trở nên dễ dàng , hiệu quả hơn !",0,2,train,lại dùng visual studio 2005 nên tôi xin có ý kiến về việc nâng cấp bản visual studio lên 2008 2010 để việc học và thi trở nên dễ dàng hiệu quả hơn,Tiêu cực,Cơ sở vật chất,33
+chất lượng phòng thực hành quá kém .,0,2,train,chất lượng phòng thực hành quá kém,Tiêu cực,Cơ sở vật chất,7
+môn bài tập ta thường học trong phòng với đồ lau bảng không sạch làm ảnh hưởng đến các bài tập tiếp theo khi các bạn làm đè lên phần bôi chưa sạch .,0,2,train,môn bài tập ta thường học trong phòng với đồ lau bảng không sạch làm ảnh hưởng đến các bài tập tiếp theo khi các bạn làm đè lên phần bôi chưa sạch,Tiêu cực,Cơ sở vật chất,33
+hồ bơi bẩn .,0,2,train,hồ bơi bẩn,Tiêu cực,Cơ sở vật chất,3
+các phòng máy nên được cài đặt phần mềm liên quan đầy đủ hơn .,0,2,train,các phòng máy nên được cài đặt phần mềm liên quan đầy đủ hơn,Tiêu cực,Cơ sở vật chất,14
+phải đầu tư thêm trang thiết bị cho phòng thực hành .,0,2,train,phải đầu tư thêm trang thiết bị cho phòng thực hành,Tiêu cực,Cơ sở vật chất,11
+"lớp học rộng rãi , giãng viên dạy nhiệt tình .",1,2,train,lớp học rộng rãi giãng viên dạy nhiệt tình,Tích cực,Cơ sở vật chất,9
+"nhà trường nên trang bị rèm cửa sổ để tránh ánh sáng làm mờ máy chiếu , gây khó khăn trong việc báo cáo đồ án cũng như dạy học .",0,2,train,nhà trường nên trang bị rèm cửa sổ để tránh ánh sáng làm mờ máy chiếu gây khó khăn trong việc báo cáo đồ án cũng như dạy học,Tiêu cực,Cơ sở vật chất,29
+"linh kiện , máy tính của trường đã cũ , hư hỏng nhiều mà học phí năm học nào cũng tăng .",0,2,train,linh kiện máy tính của trường đã cũ hư hỏng nhiều mà học phí năm học nào cũng tăng,Tiêu cực,Cơ sở vật chất,19
+tại trường đang có 2 công trình đang xây nên lúc vào học rất ồn .,0,2,train,tại trường đang có 2 công trình đang xây nên lúc vào học rất ồn,Tiêu cực,Cơ sở vật chất,15
+"theo em , cần trang bị và sửa chữa máy chiếu .",0,2,train,theo em cần trang bị và sửa chữa máy chiếu,Tiêu cực,Cơ sở vật chất,10
+"nâng cấp hệ thống máy vi tính trong phòng thực hành doubledot phòng thực hành altera không có kết nối internet , nên cần phải đảm bảo kết nối mạng để hiệu quả thực hành đạt hiệu quả cao hơn .",0,2,train,nâng cấp hệ thống máy vi tính trong phòng thực hành doubledot phòng thực hành altera không có kết nối internet nên cần phải đảm bảo kết nối mạng để hiệu quả thực hành đạt hiệu quả cao hơn,Tiêu cực,Cơ sở vật chất,39
+phòng máy không đáp ứng được yêu cầu .,0,2,train,phòng máy không đáp ứng được yêu cầu,Tiêu cực,Cơ sở vật chất,8
+cần có các tiết thực hành với trang thiết bị hiện đại .,0,2,train,cần có các tiết thực hành với trang thiết bị hiện đại,Tiêu cực,Cơ sở vật chất,12
+nâng cao chất lượng phòng máy .,0,2,train,nâng cao chất lượng phòng máy,Tiêu cực,Cơ sở vật chất,6
+"sử dụng dụng cụ dạy học có chất lượng tốt , ví dụ như máy nghe tiếng anh chất lượng tốt .",0,2,train,sử dụng dụng cụ dạy học có chất lượng tốt ví dụ như máy nghe tiếng anh chất lượng tốt,Tiêu cực,Cơ sở vật chất,20
+có nhiều trang thiết bị giảng dạy hơn .,0,2,train,có nhiều trang thiết bị giảng dạy hơn,Tiêu cực,Cơ sở vật chất,8
+"phòng thực hành quá kém chất lượng , máy móc không đảm bảo .",0,2,train,phòng thực hành quá kém chất lượng máy móc không đảm bảo,Tiêu cực,Cơ sở vật chất,12
+wifi các phòng thực hành thường rất yếu .,0,2,train,wifi các phòng thực hành thường rất yếu,Tiêu cực,Cơ sở vật chất,8
+nên trang bị rèm che cửa .,0,2,train,nên trang bị rèm che cửa,Tiêu cực,Cơ sở vật chất,6
+"phần thi nghe , nhà trường nên trang bị hệ thống loa cho tốt , chứ máy cassette mấy bạn ngồi ở cuối lớp không nghe được gì cả quá nhỏ ồn .",0,2,train,phần thi nghe nhà trường nên trang bị hệ thống loa cho tốt chứ máy cassette mấy bạn ngồi ở cuối lớp không nghe được gì cả quá nhỏ ồn,Tiêu cực,Cơ sở vật chất,30
+dù sao em cũng cám ơn thầy đã dẫn dắt bọn em ở học kỳ hai này ạ .,2,2,train,dù sao em cũng cám ơn thầy đã dẫn dắt bọn em ở học kỳ hai này ạ,Trung lập,Cơ sở vật chất,18
+phòng máy ngon hơn .,0,2,train,phòng máy ngon hơn,Tiêu cực,Cơ sở vật chất,4
+phòng thực hành có quá nhiều máy bị hỏng .,0,2,train,phòng thực hành có quá nhiều máy bị hỏng,Tiêu cực,Cơ sở vật chất,9
+máy chiếu phòng wzjwz3 cần được sửa chữa hoặc thay mới để lớp có đủ điều kiện học .,0,2,train,máy chiếu phòng wzjwz3 cần được sửa chữa hoặc thay mới để lớp có đủ điều kiện học,Tiêu cực,Cơ sở vật chất,18
+"phòng học được trang bị tốt hơn , đảm bảo tốt cho công tác giảng dạy .",2,2,train,phòng học được trang bị tốt hơn đảm bảo tốt cho công tác giảng dạy,Trung lập,Cơ sở vật chất,15
+"các thiết bị giảng dạy môn học có thể không đảm bảo chất lượng , nhiều thiết bị hoạt động không tốt như doubledot loa , máy chiếu .",0,2,train,các thiết bị giảng dạy môn học có thể không đảm bảo chất lượng nhiều thiết bị hoạt động không tốt như doubledot loa máy chiếu,Tiêu cực,Cơ sở vật chất,26
+"phòng học hơi nhỏ , nên nâng cấp .",0,2,train,phòng học hơi nhỏ nên nâng cấp,Tiêu cực,Cơ sở vật chất,7
+phòng học cần phù hợp với số lượng sinh viên .,0,2,train,phòng học cần phù hợp với số lượng sinh viên,Tiêu cực,Cơ sở vật chất,10
+phòng thực hành cần được chuyển qua một phòng lớn hơn .,0,2,train,phòng thực hành cần được chuyển qua một phòng lớn hơn,Tiêu cực,Cơ sở vật chất,11
+cần cài đặt matlab trên các máy ở phòng thực hành .,0,2,train,cần cài đặt matlab trên các máy ở phòng thực hành,Tiêu cực,Cơ sở vật chất,11
+"bộ kit thực hành cần được nâng cấp để không xảy ra tình trạng hư , trục trặc .",0,2,train,bộ kit thực hành cần được nâng cấp để không xảy ra tình trạng hư trục trặc,Tiêu cực,Cơ sở vật chất,17
+phòng học thực hành wzjwz18 không đảm bảo chất lượng cho việc học thực hành .,0,2,train,phòng học thực hành wzjwz18 không đảm bảo chất lượng cho việc học thực hành,Tiêu cực,Cơ sở vật chất,15
+"cần chỉ cho sinh viên cách làm bài khó , không nên giải chi tiết .",0,2,train,cần chỉ cho sinh viên cách làm bài khó không nên giải chi tiết,Tiêu cực,Cơ sở vật chất,14
+"có vài máy hư trong phòng thực hành , cần khắc phục lại .",0,2,train,có vài máy hư trong phòng thực hành cần khắc phục lại,Tiêu cực,Cơ sở vật chất,12
+phòng thực hành chưa có chất lượng .,0,2,train,phòng thực hành chưa có chất lượng,Tiêu cực,Cơ sở vật chất,7
+"phòng thực hành nên bố trí hợp lý , đủ máy móc thực hành .",0,2,train,phòng thực hành nên bố trí hợp lý đủ máy móc thực hành,Tiêu cực,Cơ sở vật chất,13
+môi trường không đảm bảo an toàn cho sức khỏe .,0,2,train,môi trường không đảm bảo an toàn cho sức khỏe,Tiêu cực,Cơ sở vật chất,10
+bổ sung thêm các trang thiết bị để đáp ứng nhu cầu môn học và cải thiện phòng lab rộng rãi hơn .,0,2,train,bổ sung thêm các trang thiết bị để đáp ứng nhu cầu môn học và cải thiện phòng lab rộng rãi hơn,Tiêu cực,Cơ sở vật chất,22
+cần hỗ trọ nhiều máy thực hành hơn cho môn mạch số .,0,2,train,cần hỗ trọ nhiều máy thực hành hơn cho môn mạch số,Tiêu cực,Cơ sở vật chất,12
+"phòng máy chất lượng kém , rất chậm , liên tục mất điện trong quá trình thực hành .",0,2,train,phòng máy chất lượng kém rất chậm liên tục mất điện trong quá trình thực hành,Tiêu cực,Cơ sở vật chất,16
+phòng học thiếu quạt .,0,2,train,phòng học thiếu quạt,Tiêu cực,Cơ sở vật chất,4
+hiện nay trong phòng lab số lượng kit học bị hư hỏng nhiều .,0,2,train,hiện nay trong phòng lab số lượng kit học bị hư hỏng nhiều,Tiêu cực,Cơ sở vật chất,13
+trang bị thêm nhiều thiết bị mạng hơn nữa để thực hành !,0,2,train,trang bị thêm nhiều thiết bị mạng hơn nữa để thực hành,Tiêu cực,Cơ sở vật chất,12
+"sửa lại một số máy bị hư chuột , chuột rất khó di chuyển , gây khó khăn cho việc thực hành .",0,2,train,sửa lại một số máy bị hư chuột chuột rất khó di chuyển gây khó khăn cho việc thực hành,Tiêu cực,Cơ sở vật chất,20
+visual studio của các máy trong phòng máy đã hết hạn .,0,2,train,visual studio của các máy trong phòng máy đã hết hạn,Tiêu cực,Cơ sở vật chất,11
+máy chiếu phòng học rất rất rất tệ !,0,2,train,máy chiếu phòng học rất rất rất tệ,Tiêu cực,Cơ sở vật chất,8
+phòng thực hành về mạng cần có nhiều trang thiết bị về mạng hơn để sinh viên có thể thực hành trên máy móc chứ không phải học thông qua các phần mềm .,0,2,train,phòng thực hành về mạng cần có nhiều trang thiết bị về mạng hơn để sinh viên có thể thực hành trên máy móc chứ không phải học thông qua các phần mềm,Tiêu cực,Cơ sở vật chất,33
+nâng cao cơ sở vật chất giảng dạy .,0,2,train,nâng cao cơ sở vật chất giảng dạy,Tiêu cực,Cơ sở vật chất,8
+"thiếu trang bị , dụng cụ thực hành cần thiết , không đáp ứng đủ thời gian giảng dạy do vắng tiết .",0,2,train,thiếu trang bị dụng cụ thực hành cần thiết không đáp ứng đủ thời gian giảng dạy do vắng tiết,Tiêu cực,Cơ sở vật chất,20
+"thiếu các thiết bị chạy hệ điều hành windows phone , ios , android cho sinh viên thực hành .",0,2,train,thiếu các thiết bị chạy hệ điều hành windows phone ios android cho sinh viên thực hành,Tiêu cực,Cơ sở vật chất,17
+máy chiếu trong phòng học quá mờ khiến sinh viên không nhìn rõ nội dung khi trình chiếu !,0,2,train,máy chiếu trong phòng học quá mờ khiến sinh viên không nhìn rõ nội dung khi trình chiếu,Tiêu cực,Cơ sở vật chất,18
+cải thiện chất lượng các phòng máy và kết nối mạng .,0,2,train,cải thiện chất lượng các phòng máy và kết nối mạng,Tiêu cực,Cơ sở vật chất,11
+mong nhà trường nâng cấp thêm cho phòng máy thực hành .,0,2,train,mong nhà trường nâng cấp thêm cho phòng máy thực hành,Tiêu cực,Cơ sở vật chất,11
+"đặc biệt cần thông tin cụ thể về những dụng cụ nào nhà trường phải có trách nhiệm cấp cho sinh viên và giảng viên , ví dụ như có trường hợp bút lông viết bảng xài qua vài học kỳ đã khô hết mực , bút mờ không viết được nhưng giảng viên và sinh viên không biết đến đâu để đổi hay thay bút mới nên dẫn đến có giảng viên đành nói chay , không ghi chép được gì , hoặc phải tự đi mua bút viết bảng mới để viết .",0,2,train,đặc biệt cần thông tin cụ thể về những dụng cụ nào nhà trường phải có trách nhiệm cấp cho sinh viên và giảng viên ví dụ như có trường hợp bút lông viết bảng xài qua vài học kỳ đã khô hết mực bút mờ không viết được nhưng giảng viên và sinh viên không biết đến đâu để đổi hay thay bút mới nên dẫn đến có giảng viên đành nói chay không ghi chép được gì hoặc phải tự đi mua bút viết bảng mới để viết,Tiêu cực,Cơ sở vật chất,90
+nâng cấp hệ thống mạng và máy tính .,0,2,train,nâng cấp hệ thống mạng và máy tính,Tiêu cực,Cơ sở vật chất,8
+"phòng học nhỏ , không đủ máy , không kết nối mạng trong khi đây là phòng thực hành của khoa mạng máy tính .",0,2,train,phòng học nhỏ không đủ máy không kết nối mạng trong khi đây là phòng thực hành của khoa mạng máy tính,Tiêu cực,Cơ sở vật chất,22
+phần thực hành môn này còn thiếu các thiết bị thực tế .,0,2,train,phần thực hành môn này còn thiếu các thiết bị thực tế,Tiêu cực,Cơ sở vật chất,12
+"phòng máy , thiết bị mạng cần được đầu tư và vệ sinh , em thấy phòng máy quá bụi , cửa thì hở nên không mát , dẫn đến điều hòa mất tác dụng , lãng phí .",0,2,train,phòng máy thiết bị mạng cần được đầu tư và vệ sinh em thấy phòng máy quá bụi cửa thì hở nên không mát dẫn đến điều hòa mất tác dụng lãng phí,Tiêu cực,Cơ sở vật chất,33
+"cải thiện thiết bị lớp học doubledot máy chiếu , ổ điện , quạt .",0,2,train,cải thiện thiết bị lớp học doubledot máy chiếu ổ điện quạt,Tiêu cực,Cơ sở vật chất,12
+"nâng cấp cơ sở vật chất đặc biệt là loa , micro và mạng wifi .",0,2,train,nâng cấp cơ sở vật chất đặc biệt là loa micro và mạng wifi,Tiêu cực,Cơ sở vật chất,14
+máy tính khó sử dụng .,0,2,train,máy tính khó sử dụng,Tiêu cực,Cơ sở vật chất,5
+lớp chất lượng cao nhưng lại thiếu thiết bị .,0,2,train,lớp chất lượng cao nhưng lại thiếu thiết bị,Tiêu cực,Cơ sở vật chất,9
+nếu được phòng thí nghiệm có thể có thêm các thiết bị thật để chạy và phát triển ứng dụng windows phone để các bạn biết điểm khác nhau giữa chạy thiết bị giả lập và thiết bị thật .,0,2,train,nếu được phòng thí nghiệm có thể có thêm các thiết bị thật để chạy và phát triển ứng dụng windows phone để các bạn biết điểm khác nhau giữa chạy thiết bị giả lập và thiết bị thật,Tiêu cực,Cơ sở vật chất,39
+"cần cài các phần mềm học tập mới , chính xác ví dụ doubledot visual studio 2010 hoặc 2012 để sinh viên học tập tốt hơn .",0,2,train,cần cài các phần mềm học tập mới chính xác ví dụ doubledot visual studio 2010 hoặc 2012 để sinh viên học tập tốt hơn,Tiêu cực,Cơ sở vật chất,25
+phòng máy không tốt .,0,2,train,phòng máy không tốt,Tiêu cực,Cơ sở vật chất,4
+tăng cường thêm thiết bị để môn học được hiệu quả .,0,2,train,tăng cường thêm thiết bị để môn học được hiệu quả,Tiêu cực,Cơ sở vật chất,11
+"phòng học anh văn chất lượng loa , micro không tốt , không đáp ứng được cho sinh viên rèn luyện kỹ năng nghe .",0,2,train,phòng học anh văn chất lượng loa micro không tốt không đáp ứng được cho sinh viên rèn luyện kỹ năng nghe,Tiêu cực,Cơ sở vật chất,22
+trang thiết bị tốt hơn .,0,2,train,trang thiết bị tốt hơn,Tiêu cực,Cơ sở vật chất,5
+"phòng wzjwz35 nhà trường nên thay máy chiếu mới , vì nó đã quá cũ và thường xuyên gặp vấn đề .",0,2,train,phòng wzjwz35 nhà trường nên thay máy chiếu mới vì nó đã quá cũ và thường xuyên gặp vấn đề,Tiêu cực,Cơ sở vật chất,20
+nên đầu tư thiết bị để có thực hành .,0,2,train,nên đầu tư thiết bị để có thực hành,Tiêu cực,Cơ sở vật chất,9
+phòng thực hành có nhiều máy không sử dụng được .,0,2,train,phòng thực hành có nhiều máy không sử dụng được,Tiêu cực,Cơ sở vật chất,10
+nên nâng cao chất lượng sơ sở .,0,2,train,nên nâng cao chất lượng sơ sở,Tiêu cực,Cơ sở vật chất,7
+nâng cấp thiết bị dạy học cho môn anh văn .,0,2,train,nâng cấp thiết bị dạy học cho môn anh văn,Tiêu cực,Cơ sở vật chất,10
+nên nâng cao chất lượng phòng học hơn .,0,2,train,nên nâng cao chất lượng phòng học hơn,Tiêu cực,Cơ sở vật chất,8
+riêng trang thiết bị quá kém .,0,2,train,riêng trang thiết bị quá kém,Tiêu cực,Cơ sở vật chất,6
+có nhiều thời gian bị chết trong lúc học .,0,2,train,có nhiều thời gian bị chết trong lúc học,Tiêu cực,Cơ sở vật chất,9
+các dụng cụ thực hành không được cung cấp đầy đủ .,0,2,train,các dụng cụ thực hành không được cung cấp đầy đủ,Tiêu cực,Cơ sở vật chất,11
+cần thay đổi phòng học để chất lượng được nâng cao hơn .,0,2,train,cần thay đổi phòng học để chất lượng được nâng cao hơn,Tiêu cực,Cơ sở vật chất,12
+máy chiếu và dàn loa không đáp ứng được .,0,2,train,máy chiếu và dàn loa không đáp ứng được,Tiêu cực,Cơ sở vật chất,9
+"máy chiếu phòng học quà mờ , đề nghị nên thay đổi .",0,2,train,máy chiếu phòng học quà mờ đề nghị nên thay đổi,Tiêu cực,Cơ sở vật chất,11
+nâng cao chất lượng máy chiếu và quạt .,0,2,train,nâng cao chất lượng máy chiếu và quạt,Tiêu cực,Cơ sở vật chất,8
+"chất lượng phòng lab kém , nhiều máy không sử dụng được hoặc phần mềm bị lỗi , không thực hành được .",0,2,train,chất lượng phòng lab kém nhiều máy không sử dụng được hoặc phần mềm bị lỗi không thực hành được,Tiêu cực,Cơ sở vật chất,20
+nâng cấp máy tính lên .,0,2,train,nâng cấp máy tính lên,Tiêu cực,Cơ sở vật chất,5
+"nên thay phòng thực hành , cho dù là hình thức 2 , có thể làm ở nhà nhưng lên phòng lab thì cũng phải có điều kiện để sinh viên làm các bước cơ bản thì về nhà mới nhanh chóng triển khai các bước tiếp theo được .",0,2,train,nên thay phòng thực hành cho dù là hình thức 2 có thể làm ở nhà nhưng lên phòng lab thì cũng phải có điều kiện để sinh viên làm các bước cơ bản thì về nhà mới nhanh chóng triển khai các bước tiếp theo được,Tiêu cực,Cơ sở vật chất,47
+"phòng thưc hành cần thường xuyên vệ sinh , sửa chữa thiết bị , bị lỏng , đứt , hay hư hỏng .",0,2,train,phòng thưc hành cần thường xuyên vệ sinh sửa chữa thiết bị bị lỏng đứt hay hư hỏng,Tiêu cực,Cơ sở vật chất,18
+"sửa chữa hoặc thay mới máy chiếu và loa nguyên nhân doubledot máy chiếu , chiếu hình ảnh bị nhạt màu , loa hay có trục trặc .",0,2,train,sửa chữa hoặc thay mới máy chiếu và loa nguyên nhân doubledot máy chiếu chiếu hình ảnh bị nhạt màu loa hay có trục trặc,Tiêu cực,Cơ sở vật chất,25
+"phòng lab thực hành cơ bản vẫn còn thiếu chất lượng , máy yếu , trường mình vẫn còn xài màn hình crt nản , mang danh trường công nghệ thông tin .",0,2,train,phòng lab thực hành cơ bản vẫn còn thiếu chất lượng máy yếu trường mình vẫn còn xài màn hình crt nản mang danh trường công nghệ thông tin,Tiêu cực,Cơ sở vật chất,29
+mong nhà trường sắp xếp các phòng học yên tĩnh hơn .,0,2,train,mong nhà trường sắp xếp các phòng học yên tĩnh hơn,Tiêu cực,Cơ sở vật chất,11
+hệ thống máy tính còn yếu kém .,0,2,train,hệ thống máy tính còn yếu kém,Tiêu cực,Cơ sở vật chất,7
+đề xuất nhà trường hằng tuần có một buổi lau dọn các bàn ghế này .,0,2,train,đề xuất nhà trường hằng tuần có một buổi lau dọn các bàn ghế này,Tiêu cực,Cơ sở vật chất,15
+cung cấp công cụ giảng dạy tốt hơn .,0,2,train,cung cấp công cụ giảng dạy tốt hơn,Tiêu cực,Cơ sở vật chất,8
+table and chair is not fitted for class .,0,2,train,table and chair is not fitted for class,Tiêu cực,Cơ sở vật chất,8
+cần nâng cao chất lượng máy chiếu .,0,2,train,cần nâng cao chất lượng máy chiếu,Tiêu cực,Cơ sở vật chất,7
+cần nâng cấp máy trong phòng máy thực hành vì cấu hình hơi yếu và phòng học không nóng và bụi thì tốt hơn .,0,2,train,cần nâng cấp máy trong phòng máy thực hành vì cấu hình hơi yếu và phòng học không nóng và bụi thì tốt hơn,Tiêu cực,Cơ sở vật chất,24
+phòng học oi bức .,0,2,train,phòng học oi bức,Tiêu cực,Cơ sở vật chất,4
+"phòng thực hành khoa wzjwz70 máy hư tùm lum , không hiểu sao phòng thực hành mấy khoa khác như wzjwz71 , wzjwz72 đầu tư mới với tốt hơn nhiều .",0,2,train,phòng thực hành khoa wzjwz70 máy hư tùm lum không hiểu sao phòng thực hành mấy khoa khác như wzjwz71 wzjwz72 đầu tư mới với tốt hơn nhiều,Tiêu cực,Cơ sở vật chất,28
+"cô rất nhiệt tình trong hoạt động giảng dạy , công bằng trong đánh giá , rất quan tâm đến sinh viên .",1,2,train,cô rất nhiệt tình trong hoạt động giảng dạy công bằng trong đánh giá rất quan tâm đến sinh viên,Tích cực,Cơ sở vật chất,20
+"phòng lab thực hành khá cũ , nhiều máy hư gây khó khăn cho sinh viên khi thực hành .",0,2,train,phòng lab thực hành khá cũ nhiều máy hư gây khó khăn cho sinh viên khi thực hành,Tiêu cực,Cơ sở vật chất,18
+phòng học thiếu loa .,0,2,train,phòng học thiếu loa,Tiêu cực,Cơ sở vật chất,4
+em nghĩ các phòng máy của trường nên trang bị phần mềm sql tối thiểu là phiên bản 2008 .,0,2,train,em nghĩ các phòng máy của trường nên trang bị phần mềm sql tối thiểu là phiên bản 2008,Tiêu cực,Cơ sở vật chất,19
+cần cải thiện máy chiếu .,0,2,train,cần cải thiện máy chiếu,Tiêu cực,Cơ sở vật chất,5
+lớp wzjwz1 nên được học ở phòng máy tốt hơn chút xíu được không ạ .,0,2,train,lớp wzjwz1 nên được học ở phòng máy tốt hơn chút xíu được không ạ,Tiêu cực,Cơ sở vật chất,15
+cần nâng cao chất lượng phòng máy .,0,2,train,cần nâng cao chất lượng phòng máy,Tiêu cực,Cơ sở vật chất,7
+"quá ô nhiễm tiếng ồn , mệt mỏi và chán học !",0,2,train,quá ô nhiễm tiếng ồn mệt mỏi và chán học,Tiêu cực,Cơ sở vật chất,10
+nên ưu tiên về cơ sở vật chất cho chất lượng cao đúng như trường đã nói .,0,2,train,nên ưu tiên về cơ sở vật chất cho chất lượng cao đúng như trường đã nói,Tiêu cực,Cơ sở vật chất,17
+"nên cải thiện cơ sở vật chất và thiết bị dạy học , phòng máy chiếu mờ khó theo dõi .",0,2,train,nên cải thiện cơ sở vật chất và thiết bị dạy học phòng máy chiếu mờ khó theo dõi,Tiêu cực,Cơ sở vật chất,19
+"cơ sở vật chất không đảm bảo chất lượng , nhiều khi thầy đang nói mà micro bị hư .",0,2,train,cơ sở vật chất không đảm bảo chất lượng nhiều khi thầy đang nói mà micro bị hư,Tiêu cực,Cơ sở vật chất,18
+chất lượng mạng trong phòng máy mạnh nhưng chấy lượng máy kém .,0,2,train,chất lượng mạng trong phòng máy mạnh nhưng chấy lượng máy kém,Tiêu cực,Cơ sở vật chất,12
+phòng thí nghiệm môn này cần được nâng cấp và mở rộng .,0,2,train,phòng thí nghiệm môn này cần được nâng cấp và mở rộng,Tiêu cực,Cơ sở vật chất,12
+"phòng lab còn chạy visual studio 2008 , không biết viết code kiểu gì lên đó nữa , đây cũng là cái ảnh hưởng tới kết quả thi thực hành của nhiều sinh viên quen sử dụng với chuẩn visual studio 2015 .",0,2,train,phòng lab còn chạy visual studio 2008 không biết viết code kiểu gì lên đó nữa đây cũng là cái ảnh hưởng tới kết quả thi thực hành của nhiều sinh viên quen sử dụng với chuẩn visual studio 2015,Tiêu cực,Cơ sở vật chất,40
+phòng học còn nóng .,0,2,train,phòng học còn nóng,Tiêu cực,Cơ sở vật chất,4
+nâng cấp máy tính .,2,2,train,nâng cấp máy tính,Trung lập,Cơ sở vật chất,4
+tăng hiệu suất máy tính .,2,2,train,tăng hiệu suất máy tính,Trung lập,Cơ sở vật chất,5
+"lập trình hướng đối tượng nói riêng và tất cả các môn liên quan đến lập trình nói chung theo em nên được cập nhật tài liệu thường xuyên , đặc biệt là các phần mềm trong các phòng lab để tránh tình trạng các tài liệu và phần mềm hỗ trợ học tập lỗi thời và gây khó khăn cho việc giảng dạy và học tập .",0,2,train,lập trình hướng đối tượng nói riêng và tất cả các môn liên quan đến lập trình nói chung theo em nên được cập nhật tài liệu thường xuyên đặc biệt là các phần mềm trong các phòng lab để tránh tình trạng các tài liệu và phần mềm hỗ trợ học tập lỗi thời và gây khó khăn cho việc giảng dạy và học tập,Tiêu cực,Cơ sở vật chất,66
+"cần trang bị máy nghe tốt hơn , có nhiều máy nghe đã xuống cấp .",0,2,train,cần trang bị máy nghe tốt hơn có nhiều máy nghe đã xuống cấp,Tiêu cực,Cơ sở vật chất,14
+cần trang bị phòng thực hành phù hợp với đặc thù môn học .,0,2,train,cần trang bị phòng thực hành phù hợp với đặc thù môn học,Tiêu cực,Cơ sở vật chất,13
+cải thiện trang thiết bị .,0,2,train,cải thiện trang thiết bị,Tiêu cực,Cơ sở vật chất,5
+"do phòng học khá đông và máy chiếu không rõ , nên việc giảng viên sử dụng các đoạn code trong ide để minh họa gây khó khăn cho các sinh viên ngồi xa và hoặc mắt kém .",0,2,train,do phòng học khá đông và máy chiếu không rõ nên việc giảng viên sử dụng các đoạn code trong ide để minh họa gây khó khăn cho các sinh viên ngồi xa và hoặc mắt kém,Tiêu cực,Cơ sở vật chất,37
+"cải thiện máy chiếu , phòng thực hành .",0,2,train,cải thiện máy chiếu phòng thực hành,Tiêu cực,Cơ sở vật chất,7
+mong học kỳ sau sẽ sớm có phòng thí nghiệm cho môn này .,0,2,train,mong học kỳ sau sẽ sớm có phòng thí nghiệm cho môn này,Tiêu cực,Cơ sở vật chất,13
+phòng thực hành quá xuống cấp .,0,2,train,phòng thực hành quá xuống cấp,Tiêu cực,Cơ sở vật chất,6
+cần cải thiện cơ sở vật chất phù hợp với môn học anh văn hơn nữa .,0,2,train,cần cải thiện cơ sở vật chất phù hợp với môn học anh văn hơn nữa,Tiêu cực,Cơ sở vật chất,16
+nâng cao chất lượng cơ sở vật chất của trường .,0,2,train,nâng cao chất lượng cơ sở vật chất của trường,Tiêu cực,Cơ sở vật chất,10
+"phòng máy quá yếu , không thực sự tốt vì máy tính còn yếu , cấu hình không được cao .",0,2,train,phòng máy quá yếu không thực sự tốt vì máy tính còn yếu cấu hình không được cao,Tiêu cực,Cơ sở vật chất,18
+"phòng học cần sạch sẽ hơn , bàn ghế rất bụi , máy chiếu tất nhiên nói nhìn được thì vẫn nhìn được nhưng như thế là vẫn mờ , cần sáng hơn , cho các bạn ngồi phía dưới thấy nữa .",0,2,train,phòng học cần sạch sẽ hơn bàn ghế rất bụi máy chiếu tất nhiên nói nhìn được thì vẫn nhìn được nhưng như thế là vẫn mờ cần sáng hơn cho các bạn ngồi phía dưới thấy nữa,Tiêu cực,Cơ sở vật chất,38
+"phòng thực hành thường xuyên không mở đúng giờ , hy vọng giáo viên mở cửa đúng giờ .",0,2,train,phòng thực hành thường xuyên không mở đúng giờ hy vọng giáo viên mở cửa đúng giờ,Tiêu cực,Cơ sở vật chất,17
+bởi vì trong một số trường hợp sinh viên làm bài thi thì máy tính của trường không đáp ứng đủ nhu cầu của sinh viên phải đủ nhanh .,0,2,train,bởi vì trong một số trường hợp sinh viên làm bài thi thì máy tính của trường không đáp ứng đủ nhu cầu của sinh viên phải đủ nhanh,Tiêu cực,Cơ sở vật chất,29
+"phòng thực hành còn thiếu máy cho một lớp sinh viên , chất lượng máy không đảm bảo , đôi khi không làm theo hướng dẫn được vì máy bị hỏng .",0,2,train,phòng thực hành còn thiếu máy cho một lớp sinh viên chất lượng máy không đảm bảo đôi khi không làm theo hướng dẫn được vì máy bị hỏng,Tiêu cực,Cơ sở vật chất,29
+"trang thiết bị còn kém , loa chưa đủ rõ để nghe anh văn , máy chiếu chưa nhìn rõ màu sắc .",0,2,train,trang thiết bị còn kém loa chưa đủ rõ để nghe anh văn máy chiếu chưa nhìn rõ màu sắc,Tiêu cực,Cơ sở vật chất,20
+"số lượng máy phòng thực hành quá ít , phải đến 2 - 3 người dùng chung một máy .",0,2,train,số lượng máy phòng thực hành quá ít phải đến 2 3 người dùng chung một máy,Tiêu cực,Cơ sở vật chất,17
+đặc biệt là micro và máy chiếu còn trục trặc nhiều .,0,2,train,đặc biệt là micro và máy chiếu còn trục trặc nhiều,Tiêu cực,Cơ sở vật chất,11
+"đề nghị trường triển khai hệ thống user để quản lý tốc độ cũng như sinh viên nào đang tải phim , soft , vdotv .",0,2,train,đề nghị trường triển khai hệ thống user để quản lý tốc độ cũng như sinh viên nào đang tải phim soft vdotv,Tiêu cực,Cơ sở vật chất,23
+cần có nhiều thiết bị trực quan hơn .,0,2,train,cần có nhiều thiết bị trực quan hơn,Tiêu cực,Cơ sở vật chất,8
+thiếu linh kiện .,0,2,train,thiếu linh kiện,Tiêu cực,Cơ sở vật chất,3
+nên có nhiều thiết bị trực quan hơn .,0,2,train,nên có nhiều thiết bị trực quan hơn,Tiêu cực,Cơ sở vật chất,8
+cần wifi mạnh ở dãy nhà cũ .,0,2,train,cần wifi mạnh ở dãy nhà cũ,Tiêu cực,Cơ sở vật chất,7
+em đi học đầy đủ nhưng không có máy để thực hành .,0,2,train,em đi học đầy đủ nhưng không có máy để thực hành,Tiêu cực,Cơ sở vật chất,12
+khoảng 1 tiếng từ khi giảng viên cho phép kết nối thì sinh viên mới vào mạng được .,0,2,train,khoảng 1 tiếng từ khi giảng viên cho phép kết nối thì sinh viên mới vào mạng được,Tiêu cực,Cơ sở vật chất,18
+thỉnh thoảng có một số máy không khởi động được .,0,2,train,thỉnh thoảng có một số máy không khởi động được,Tiêu cực,Cơ sở vật chất,10
+máy tính không được tốt lắm .,0,2,train,máy tính không được tốt lắm,Tiêu cực,Cơ sở vật chất,6
+trang thiết bị cho thực hành tốt hơn .,0,2,train,trang thiết bị cho thực hành tốt hơn,Tiêu cực,Cơ sở vật chất,8
+nâng cấp quạt trần và máy chiếu của phòng học !,0,2,train,nâng cấp quạt trần và máy chiếu của phòng học,Tiêu cực,Cơ sở vật chất,10
+"sử dụng slide , máy chiếu .",0,2,train,sử dụng slide máy chiếu,Tiêu cực,Cơ sở vật chất,5
+phòng thực hành quá chật và thiết bị cũng hạn chế về số lượng chưa đáp ứng được nhu cầu học tập .,0,2,train,phòng thực hành quá chật và thiết bị cũng hạn chế về số lượng chưa đáp ứng được nhu cầu học tập,Tiêu cực,Cơ sở vật chất,22
+"đề nghị nhà trường làm tốt khâu cở sở vật chất , em thấy trường mình còn thiếu nhiều về trang thiết bị thực hành cho sinh viên .",0,2,train,đề nghị nhà trường làm tốt khâu cở sở vật chất em thấy trường mình còn thiếu nhiều về trang thiết bị thực hành cho sinh viên,Tiêu cực,Cơ sở vật chất,27
+"hiện tại các thiết bị phòng lab để thực hành môn này đều đã hỏng , trong suốt quá trình thực hành chúng em không thể thực hành được trên thiết bị , mặc khác cũng chẳng nhận được sự hỗ trợ hướng dẫn nào của giảng viên thực hành .",0,2,train,hiện tại các thiết bị phòng lab để thực hành môn này đều đã hỏng trong suốt quá trình thực hành chúng em không thể thực hành được trên thiết bị mặc khác cũng chẳng nhận được sự hỗ trợ hướng dẫn nào của giảng viên thực hành,Tiêu cực,Cơ sở vật chất,48
+cần có thiết bị và phòng học hợp lý hơn .,0,2,train,cần có thiết bị và phòng học hợp lý hơn,Tiêu cực,Cơ sở vật chất,10
+cần tăng thêm số lượng thiết bị thực hành .,0,2,train,cần tăng thêm số lượng thiết bị thực hành,Tiêu cực,Cơ sở vật chất,9
+sự cố như sau doubledot đang học thì tất cả số đèn của nửa căn phòng đều tắt .,0,2,train,sự cố như sau doubledot đang học thì tất cả số đèn của nửa căn phòng đều tắt,Tiêu cực,Cơ sở vật chất,18
+phòng học ngay cạnh bên công trường .,0,2,train,phòng học ngay cạnh bên công trường,Tiêu cực,Cơ sở vật chất,7
+"thiết bị về máy chiếu chưa được tốt , mong nhà trường tạo điều kiện .",0,2,train,thiết bị về máy chiếu chưa được tốt mong nhà trường tạo điều kiện,Tiêu cực,Cơ sở vật chất,14
+tăng cường chất lượng wifi cho các phòng lab .,0,2,train,tăng cường chất lượng wifi cho các phòng lab,Tiêu cực,Cơ sở vật chất,9
+"trang thiết bị cần được hỗ trợ tốt hơn , chất lượng máy chiếu không được như ý , khá mờ làm chất lượng thuyết trình và việc giảng dạy không được tốt .",0,2,train,trang thiết bị cần được hỗ trợ tốt hơn chất lượng máy chiếu không được như ý khá mờ làm chất lượng thuyết trình và việc giảng dạy không được tốt,Tiêu cực,Cơ sở vật chất,31
+thay đổi hệ thống âm thanh phòng học .,0,2,train,thay đổi hệ thống âm thanh phòng học,Tiêu cực,Cơ sở vật chất,8
+"phòng học thực hành quá bé , bụi và bẩn , hệ thống máy tính không sử dụng được .",0,2,train,phòng học thực hành quá bé bụi và bẩn hệ thống máy tính không sử dụng được,Tiêu cực,Cơ sở vật chất,17
+lớp học khá chật so với số lượng sinh viên .,0,2,train,lớp học khá chật so với số lượng sinh viên,Tiêu cực,Cơ sở vật chất,10
+"phòng học còn thiếu chất lượng , trời nóng nên bố trí thêm quạt cho dãy hai bên phòng .",0,2,train,phòng học còn thiếu chất lượng trời nóng nên bố trí thêm quạt cho dãy hai bên phòng,Tiêu cực,Cơ sở vật chất,18
+phòng lab còn chưa đáp ứng tốt .,0,2,train,phòng lab còn chưa đáp ứng tốt,Tiêu cực,Cơ sở vật chất,7
+phòng lab rất nhỏ và ít thiết bị nên chất lượng học tập môn học không đảm bảo .,0,2,train,phòng lab rất nhỏ và ít thiết bị nên chất lượng học tập môn học không đảm bảo,Tiêu cực,Cơ sở vật chất,18
+nên chuyển qua phòng học khác không có máy tính và nhỏ hơn .,0,2,train,nên chuyển qua phòng học khác không có máy tính và nhỏ hơn,Tiêu cực,Cơ sở vật chất,13
+điều chỉnh máy lạnh phù hợp với thời tiết .,0,2,train,điều chỉnh máy lạnh phù hợp với thời tiết,Tiêu cực,Cơ sở vật chất,9
+được thực hành trên thiết bị thực .,1,2,train,được thực hành trên thiết bị thực,Tích cực,Cơ sở vật chất,7
+phòng máy có quá nhiều máy không sử dụng được .,0,2,train,phòng máy có quá nhiều máy không sử dụng được,Tiêu cực,Cơ sở vật chất,10
+cần sửa chữa các linh kiện phòng máy wzjwz23 vì một số chuột đã hư .,0,2,train,cần sửa chữa các linh kiện phòng máy wzjwz23 vì một số chuột đã hư,Tiêu cực,Cơ sở vật chất,15
+hỗ trợ thêm tài liệu cho sinh viên .,0,2,train,hỗ trợ thêm tài liệu cho sinh viên,Tiêu cực,Cơ sở vật chất,8
+âm thanh phòng học wzjwz238 còn quá nhỏ nên khiến thầy thường nói không micro .,0,2,train,âm thanh phòng học wzjwz238 còn quá nhỏ nên khiến thầy thường nói không micro,Tiêu cực,Cơ sở vật chất,15
+"cần tăng số buổi thực hành cũng như trang bị thêm trang thiết bị như mua thêm nhiều switch , router , hub , bridge , trong phòng ngồi học mà ít bụi và nòng đi thì tốt hơn , vdotv .",0,2,train,cần tăng số buổi thực hành cũng như trang bị thêm trang thiết bị như mua thêm nhiều switch router hub bridge trong phòng ngồi học mà ít bụi và nòng đi thì tốt hơn vdotv,Tiêu cực,Cơ sở vật chất,36
+phòng máy vẫn còn nhiều thiếu sót .,0,2,train,phòng máy vẫn còn nhiều thiếu sót,Tiêu cực,Cơ sở vật chất,7
+"lớp thực hành nhóm 2 bảo quản thiết bị quá yếu , do chia thiết bị không theo nhóm cố định , đến nhóm 1 thực hành là thiết bị trong bộ kit phân cho nhóm mình thiếu hụt , hư hỏng linh tinh .",0,2,train,lớp thực hành nhóm 2 bảo quản thiết bị quá yếu do chia thiết bị không theo nhóm cố định đến nhóm 1 thực hành là thiết bị trong bộ kit phân cho nhóm mình thiếu hụt hư hỏng linh tinh,Tiêu cực,Cơ sở vật chất,41
+"phòng học còn nóng và bụi bặm , máy chiếu tuy vẫn nhìn được nhưng vẫn mờ , nếu ngồi xa hay hôm nào sáng quá sẽ không thấy rõ .",0,2,train,phòng học còn nóng và bụi bặm máy chiếu tuy vẫn nhìn được nhưng vẫn mờ nếu ngồi xa hay hôm nào sáng quá sẽ không thấy rõ,Tiêu cực,Cơ sở vật chất,28
+"những thiết bị phục vụ cho việc giảng dạy cần được trang bị tốt hơn , ví dụ như máy chiếu hơi bị mờ , các bạn ngồi ở phía sau không thấy , phòng học chỉ có 2 cái phạt , rất nóng nực vào mùa hè .",0,2,train,những thiết bị phục vụ cho việc giảng dạy cần được trang bị tốt hơn ví dụ như máy chiếu hơi bị mờ các bạn ngồi ở phía sau không thấy phòng học chỉ có 2 cái phạt rất nóng nực vào mùa hè,Tiêu cực,Cơ sở vật chất,44
+"giảng đường ngột ngạt và nóng nực , từ tiết 2 trở đi thì rất khó tập trung học .",0,2,train,giảng đường ngột ngạt và nóng nực từ tiết 2 trở đi thì rất khó tập trung học,Tiêu cực,Cơ sở vật chất,18
+"phòng thực hành cơ bản của trường còn quá kém , vậy tăng học phí đầu năm để làm gì .",0,2,train,phòng thực hành cơ bản của trường còn quá kém vậy tăng học phí đầu năm để làm gì,Tiêu cực,Cơ sở vật chất,19
+mang tiếng phòng lab của một khoa mà không bằng phòng lab thực hành cơ bản .,0,2,train,mang tiếng phòng lab của một khoa mà không bằng phòng lab thực hành cơ bản,Tiêu cực,Cơ sở vật chất,16
+"cơ sở vật chất nên cải thiện , nên có nhiều thực hành bổ ích hơn nữa , em xin cảm ơn .",0,2,train,cơ sở vật chất nên cải thiện nên có nhiều thực hành bổ ích hơn nữa em xin cảm ơn,Tiêu cực,Cơ sở vật chất,20
+đèn và quạt .,2,2,train,đèn và quạt,Trung lập,Cơ sở vật chất,3
+cải thiện cơ sở vật chất và thiết bị dạy học .,0,2,train,cải thiện cơ sở vật chất và thiết bị dạy học,Tiêu cực,Cơ sở vật chất,11
+phòng máy giật và hay bị đứng mặc dù cấu hình cao .,0,2,train,phòng máy giật và hay bị đứng mặc dù cấu hình cao,Tiêu cực,Cơ sở vật chất,12
+"phòng học hiện nay rất nóng nhà c , mong nhà trường có biện pháp thích hợp để khắc phục tình trạng này cho sinh viên , để sinh viên có khả năng tiếp thu kiến thức tốt xin cảm ơn !",0,2,train,phòng học hiện nay rất nóng nhà c mong nhà trường có biện pháp thích hợp để khắc phục tình trạng này cho sinh viên để sinh viên có khả năng tiếp thu kiến thức tốt xin cảm ơn,Tiêu cực,Cơ sở vật chất,39
+"cần nâng cấp dụng cụ học tập, micro , loa , máy chiếu .",0,2,train,cần nâng cấp dụng cụ học tập micro loa máy chiếu,Tiêu cực,Cơ sở vật chất,11
+phải nâng cấp quạt và máy chiếu !,0,2,train,phải nâng cấp quạt và máy chiếu,Tiêu cực,Cơ sở vật chất,7
+không có ổ cắm điện .,0,2,train,không có ổ cắm điện,Tiêu cực,Cơ sở vật chất,5
+cơ sở vật chất còn yếu kém .,0,2,train,cơ sở vật chất còn yếu kém,Tiêu cực,Cơ sở vật chất,7
+"phòng máy xài chuột bi đã cũ , khó di chuyển , phần mềm lỗi thời .",0,2,train,phòng máy xài chuột bi đã cũ khó di chuyển phần mềm lỗi thời,Tiêu cực,Cơ sở vật chất,14
+"máy chiếu quá mờ , phòng học nóng .",0,2,train,máy chiếu quá mờ phòng học nóng,Tiêu cực,Cơ sở vật chất,7
+"sinh viên ít được thực hành trên thiết bị mạng thật , mong nhà trường tạo điều kiện hơn cho sinh viên được thực hành .",0,2,train,sinh viên ít được thực hành trên thiết bị mạng thật mong nhà trường tạo điều kiện hơn cho sinh viên được thực hành,Tiêu cực,Cơ sở vật chất,24
+"nên bố trí cho phòng jack cắm loa cho lab , để khi thầy phát video , hoặc thí nghiệm xử lý âm thanh ra loa , giúp sinh viên tiếp cận thí nghiệm hoặc nội dung video tốt hơn .",0,2,train,nên bố trí cho phòng jack cắm loa cho lab để khi thầy phát video hoặc thí nghiệm xử lý âm thanh ra loa giúp sinh viên tiếp cận thí nghiệm hoặc nội dung video tốt hơn,Tiêu cực,Cơ sở vật chất,37
+cần sửa chữa trang thiết bị giảng dạy .,0,2,train,cần sửa chữa trang thiết bị giảng dạy,Tiêu cực,Cơ sở vật chất,8
+"như đã nêu trên , phòng máy trang bị bản visual studio quá cũ khiến việc thực hành trở nên khó khăn , không phù hợp với thực tế chắc hẳn không ai ra trường đi làm .",0,2,train,như đã nêu trên phòng máy trang bị bản visual studio quá cũ khiến việc thực hành trở nên khó khăn không phù hợp với thực tế chắc hẳn không ai ra trường đi làm,Tiêu cực,Cơ sở vật chất,35
+nâng cấp phòng thực hành .,0,2,train,nâng cấp phòng thực hành,Tiêu cực,Cơ sở vật chất,5
+"nên làm sạch lại bàn ghế , và một số thiết bị bằng điện .",0,2,train,nên làm sạch lại bàn ghế và một số thiết bị bằng điện,Tiêu cực,Cơ sở vật chất,13
+cải thiện chất lượng phòng máy .,0,2,train,cải thiện chất lượng phòng máy,Tiêu cực,Cơ sở vật chất,6
+"nhưng chất lượng cơ sở vật chất nhất là bàn ghế bên dãy nhà wzjwz15 , có một số phòng bụi nhiều , bàn ghế dơ nhưng không được lau dọn .",0,2,train,nhưng chất lượng cơ sở vật chất nhất là bàn ghế bên dãy nhà wzjwz15 có một số phòng bụi nhiều bàn ghế dơ nhưng không được lau dọn,Tiêu cực,Cơ sở vật chất,29
+thiết bị .,2,2,train,thiết bị,Trung lập,Cơ sở vật chất,2
+"các máy tính của trường thường xuyên bị lỗi khi sử dụng , sinh viên thường phải mang laptop cá nhân lên làm bài hay thi cử .",0,2,train,các máy tính của trường thường xuyên bị lỗi khi sử dụng sinh viên thường phải mang laptop cá nhân lên làm bài hay thi cử,Tiêu cực,Cơ sở vật chất,26
+năng cấp phòng máy .,0,2,train,năng cấp phòng máy,Tiêu cực,Cơ sở vật chất,4
+"nâng cấp trang thiết bị phòng học doubledot máy chiếu , quạt .",0,2,train,nâng cấp trang thiết bị phòng học doubledot máy chiếu quạt,Tiêu cực,Cơ sở vật chất,11
+"tiếng bị ồn , vang nên khá khó nghe .",0,2,train,tiếng bị ồn vang nên khá khó nghe,Tiêu cực,Cơ sở vật chất,8
+"cần tăng thêm số lượng thiết bị , và thời gian thực hành .",0,2,train,cần tăng thêm số lượng thiết bị và thời gian thực hành,Tiêu cực,Cơ sở vật chất,12
+"hệ thống wecode cần sửa lại tính năng submit kết quả cuối cùng , bao nhiêu sinh viên bị mất điểm vì submit trong đó có cả em colonsadcolon .",0,2,train,hệ thống wecode cần sửa lại tính năng submit kết quả cuối cùng bao nhiêu sinh viên bị mất điểm vì submit trong đó có cả em colonsadcolon,Tiêu cực,Cơ sở vật chất,28
+cần có thiết bị và phòng học tốt hơn .,0,2,train,cần có thiết bị và phòng học tốt hơn,Tiêu cực,Cơ sở vật chất,9
+cần trang bị thiết bị thực hành hiện đại hơn .,0,2,train,cần trang bị thiết bị thực hành hiện đại hơn,Tiêu cực,Cơ sở vật chất,10
+dụng cụ học tập đầy đủ .,1,2,train,dụng cụ học tập đầy đủ,Tích cực,Cơ sở vật chất,6
+điều kiện vật chất chưa được đầy đủ .,0,2,train,điều kiện vật chất chưa được đầy đủ,Tiêu cực,Cơ sở vật chất,8
+trang thiết bị cần được nâng cấp và cải thiện .,0,2,train,trang thiết bị cần được nâng cấp và cải thiện,Tiêu cực,Cơ sở vật chất,10
+cô vui vẻ .,1,2,train,cô vui vẻ,Tích cực,Cơ sở vật chất,3
+"em nghĩ là cơ sở vật chất của trường còn yếu kém , máy chiếu rất mờ , rất ít khi nhìn rõ được chữ trên slide bài giảng .",0,2,train,em nghĩ là cơ sở vật chất của trường còn yếu kém máy chiếu rất mờ rất ít khi nhìn rõ được chữ trên slide bài giảng,Tiêu cực,Cơ sở vật chất,27
+"máy chiếu rất mờ , ngồi học lớp 100 người những bạn ngồi cuối hoàn toàn không thấy slide .",0,2,train,máy chiếu rất mờ ngồi học lớp 100 người những bạn ngồi cuối hoàn toàn không thấy slide,Tiêu cực,Cơ sở vật chất,18
+"phòng học số lượng sinh viên nhiều , nhưng chỉ có quạt trần , cần trang bị thêm máy lạnh .",0,2,train,phòng học số lượng sinh viên nhiều nhưng chỉ có quạt trần cần trang bị thêm máy lạnh,Tiêu cực,Cơ sở vật chất,18
+"thiết bị và dụng cụ thí nghiệm tại phòng lab còn nhiều hạn chê , hư hỏng nhiều , không đáp ứng được nội dung thực hành .",0,2,train,thiết bị và dụng cụ thí nghiệm tại phòng lab còn nhiều hạn chê hư hỏng nhiều không đáp ứng được nội dung thực hành,Tiêu cực,Cơ sở vật chất,25
+nên tăng hiệu suất của máy .,0,2,train,nên tăng hiệu suất của máy,Tiêu cực,Cơ sở vật chất,6
+"phòng lab được trang bị những máy tính cấu hình thấp không đảm bảo được nhu cầu thực hành của sinh viên khoa wzjwz46 , chất lượng mạng kém , có nhiều dây mạng không thể truy cập internet .",0,2,train,phòng lab được trang bị những máy tính cấu hình thấp không đảm bảo được nhu cầu thực hành của sinh viên khoa wzjwz46 chất lượng mạng kém có nhiều dây mạng không thể truy cập internet,Tiêu cực,Cơ sở vật chất,37
+cải thiện chất lượng phòng máy và kết nối mạng .,0,2,train,cải thiện chất lượng phòng máy và kết nối mạng,Tiêu cực,Cơ sở vật chất,10
+chiếu video lên cho sinh viên xem nhưng hệ thống âm thanh hình ảnh kém khiến sinh viên không hiểu hết được nội dung của video vào môn học .,0,2,train,chiếu video lên cho sinh viên xem nhưng hệ thống âm thanh hình ảnh kém khiến sinh viên không hiểu hết được nội dung của video vào môn học,Tiêu cực,Cơ sở vật chất,29
+phòng lab chưa được cải thiện .,0,2,train,phòng lab chưa được cải thiện,Tiêu cực,Cơ sở vật chất,6
+phòng thực hành thiếu ổ cắm .,0,2,train,phòng thực hành thiếu ổ cắm,Tiêu cực,Cơ sở vật chất,6
+"phòng học lý thuyết thì kém , nóng , bụi nhiều .",0,2,train,phòng học lý thuyết thì kém nóng bụi nhiều,Tiêu cực,Cơ sở vật chất,9
+"cần phải nâng cấp , cài đặt mới các phần mềm phù hợp hơn ví dụ doubledot máy ảo ubuntu .",0,2,train,cần phải nâng cấp cài đặt mới các phần mềm phù hợp hơn ví dụ doubledot máy ảo ubuntu,Tiêu cực,Cơ sở vật chất,19
+"phòng lab khoa wzjwz16 trên tầng 3 nhà wzjwz17 quá chật chội , bụi bám lớp dày , trang thiết bị mạng đầu tư đắt tiền nhưng ít khi sử dụng tới , không kiểm tra lau chùi sẽ dẫn đến hỏng hóc , quạt không còn quay .",0,2,train,phòng lab khoa wzjwz16 trên tầng 3 nhà wzjwz17 quá chật chội bụi bám lớp dày trang thiết bị mạng đầu tư đắt tiền nhưng ít khi sử dụng tới không kiểm tra lau chùi sẽ dẫn đến hỏng hóc quạt không còn quay,Tiêu cực,Cơ sở vật chất,44
+"phòng học không đáp ứng đủ nhu cầu học tập của sinh viên , máy chiếu khá mờ .",0,2,train,phòng học không đáp ứng đủ nhu cầu học tập của sinh viên máy chiếu khá mờ,Tiêu cực,Cơ sở vật chất,17
+cải thiện và nâng cao cơ sở vật chất .,0,2,train,cải thiện và nâng cao cơ sở vật chất,Tiêu cực,Cơ sở vật chất,9
+lớp ít người nên học thoải mái .,1,2,train,lớp ít người nên học thoải mái,Tích cực,Cơ sở vật chất,7
+"phòng thực hành dây mạng không rút được , wifi thì yếu .",0,2,train,phòng thực hành dây mạng không rút được wifi thì yếu,Tiêu cực,Cơ sở vật chất,11
+"đồng thời , phòng học được phân bổ không hợp lý với những lớp học về trưa , phòng khá nóng bức , quạt cũng không mát , máy chiếu khá mờ và cửa khó đóng mở khi trời mưa hoặc khi quá nắng .",0,2,train,đồng thời phòng học được phân bổ không hợp lý với những lớp học về trưa phòng khá nóng bức quạt cũng không mát máy chiếu khá mờ và cửa khó đóng mở khi trời mưa hoặc khi quá nắng,Tiêu cực,Cơ sở vật chất,40
+có đầy đủ trang thiết bị .,1,2,train,có đầy đủ trang thiết bị,Tích cực,Cơ sở vật chất,6
+nên đổi phòng học sang phòng chất lượng cao .,0,2,train,nên đổi phòng học sang phòng chất lượng cao,Tiêu cực,Cơ sở vật chất,9
+nâng cấp chất lượng máy chiếu .,0,2,train,nâng cấp chất lượng máy chiếu,Tiêu cực,Cơ sở vật chất,6
+các phòng lab cần có wifi đủ mạnh để phục vụ tốt cho quá trình thực hành .,0,2,train,các phòng lab cần có wifi đủ mạnh để phục vụ tốt cho quá trình thực hành,Tiêu cực,Cơ sở vật chất,17
+cần phòng học và thiết bị tốt hơn .,0,2,train,cần phòng học và thiết bị tốt hơn,Tiêu cực,Cơ sở vật chất,8
+thường xuyên bảo trì nâng cấp các chương trình máy tính .,0,2,train,thường xuyên bảo trì nâng cấp các chương trình máy tính,Tiêu cực,Cơ sở vật chất,11
+hệ thống máy chiếu cần cải thiện .,0,2,train,hệ thống máy chiếu cần cải thiện,Tiêu cực,Cơ sở vật chất,7
+bị chậm hoặc bị treo máy giữa chừng .,0,2,train,bị chậm hoặc bị treo máy giữa chừng,Tiêu cực,Cơ sở vật chất,8
+nó có nghĩa là ở phòng thực hành mạng có thể áp dung cho một hay hai phòng đều nên có giáo viên trực .,0,2,train,nó có nghĩa là ở phòng thực hành mạng có thể áp dung cho một hay hai phòng đều nên có giáo viên trực,Tiêu cực,Cơ sở vật chất,24
+trang bị thêm sách bài tập .,0,2,train,trang bị thêm sách bài tập,Tiêu cực,Cơ sở vật chất,6
+trời nóng quá và máy chiếu quá xa với lớp đông học sinh .,0,2,train,trời nóng quá và máy chiếu quá xa với lớp đông học sinh,Tiêu cực,Cơ sở vật chất,13
+"học phòng elab quá rộng , phân tán sinh viên làm giảng viên khó tương tác trực tiếp với sinh viên .",0,2,train,học phòng elab quá rộng phân tán sinh viên làm giảng viên khó tương tác trực tiếp với sinh viên,Tiêu cực,Cơ sở vật chất,20
+"thiết bị phòng học z còn nhiều trục trặc , đặc biệt máy chiếu chưa có độ phân giải đủ để học , thường xảy ra trục trặc .",0,2,train,thiết bị phòng học z còn nhiều trục trặc đặc biệt máy chiếu chưa có độ phân giải đủ để học thường xảy ra trục trặc,Tiêu cực,Cơ sở vật chất,26
+"cải thiện chất lượng quạt , phòng rất nóng , hầm và bí .",0,2,train,cải thiện chất lượng quạt phòng rất nóng hầm và bí,Tiêu cực,Cơ sở vật chất,11
+"mong nhà trường sửa chữa lại các máy tính đã bị hỏng ở phòng thực hành khoa wzjwz4 phòng wzjwz5 , để quá trình thực hành của sinh viên được tốt hơn .",0,2,train,mong nhà trường sửa chữa lại các máy tính đã bị hỏng ở phòng thực hành khoa wzjwz4 phòng wzjwz5 để quá trình thực hành của sinh viên được tốt hơn,Tiêu cực,Cơ sở vật chất,31
+"em hy vọng phòng học ít người hơn , vì học 4 tiết buổi chiều rất là mệt mỏi , hơn nữa , thời tiết nóng và lớp đông gây nên xao lãng bài học , việc học tập trong lớp nhỏ và đông như vậy rất khó tiếp thu .",0,2,train,em hy vọng phòng học ít người hơn vì học 4 tiết buổi chiều rất là mệt mỏi hơn nữa thời tiết nóng và lớp đông gây nên xao lãng bài học việc học tập trong lớp nhỏ và đông như vậy rất khó tiếp thu,Tiêu cực,Cơ sở vật chất,46
+"cần cải thiện chất lượng phòng học thực hành của khoa wzjwz36 tại phòng wzjwz37 , máy tính của trường cung cấp không thể sử dụng để thực hành , 10% sinh viên phải dùng laptop cá nhân để làm thực hành , bên cạnh đó phòng học cũng rất chật và nóng bức .",0,2,train,cần cải thiện chất lượng phòng học thực hành của khoa wzjwz36 tại phòng wzjwz37 máy tính của trường cung cấp không thể sử dụng để thực hành 10 sinh viên phải dùng laptop cá nhân để làm thực hành bên cạnh đó phòng học cũng rất chật và nóng bức,Tiêu cực,Cơ sở vật chất,51
+micro hư thường xuyên .,0,2,train,micro hư thường xuyên,Tiêu cực,Cơ sở vật chất,4
+"trang thiết bị phục vụ cho việc học còn nhiều hạn chế , cụ thể là ở tòa nhà c hầu hết các phòng không có màng che nên sinh viên không thể nhìn rõ slide để có thể học .",0,2,train,trang thiết bị phục vụ cho việc học còn nhiều hạn chế cụ thể là ở tòa nhà c hầu hết các phòng không có màng che nên sinh viên không thể nhìn rõ slide để có thể học,Tiêu cực,Cơ sở vật chất,39
+phòng lab nên được cải thiện .,0,2,train,phòng lab nên được cải thiện,Tiêu cực,Cơ sở vật chất,6
+mong nhà trường sẽ nâng cao cơ sở vật chất trong phòng máy để đảm bảo hiệu quả hơn .,0,2,train,mong nhà trường sẽ nâng cao cơ sở vật chất trong phòng máy để đảm bảo hiệu quả hơn,Tiêu cực,Cơ sở vật chất,19
+nên thay máy chiếu và âm thanh tại phòng wzjwz154 .,0,2,train,nên thay máy chiếu và âm thanh tại phòng wzjwz154,Tiêu cực,Cơ sở vật chất,10
+"phòng anh văn gần với công trình đang thi công , mong nhà trường sắp xếp để có phòng học yên tĩnh .",0,2,train,phòng anh văn gần với công trình đang thi công mong nhà trường sắp xếp để có phòng học yên tĩnh,Tiêu cực,Cơ sở vật chất,21
+"phòng máy chất lượng khá cùi , nhiều máy không có visual 2010 .",0,2,train,phòng máy chất lượng khá cùi nhiều máy không có visual 2010,Tiêu cực,Cơ sở vật chất,12
+nên đầu tư nhiều hơn vào trang thiết bị .,0,2,train,nên đầu tư nhiều hơn vào trang thiết bị,Tiêu cực,Cơ sở vật chất,9
+phòng học quá nóng .,0,2,train,phòng học quá nóng,Tiêu cực,Cơ sở vật chất,4
+cải tiến phòng học nhiều thiết bị cho việc thực hành .,0,2,train,cải tiến phòng học nhiều thiết bị cho việc thực hành,Tiêu cực,Cơ sở vật chất,11
+phòng ốc nên sạch sẽ hơn thì sinh viên sẽ có hứng thú ngồi lâu hơn trong phòng học .,0,2,train,phòng ốc nên sạch sẽ hơn thì sinh viên sẽ có hứng thú ngồi lâu hơn trong phòng học,Tiêu cực,Cơ sở vật chất,19
+theo em nghĩ nên sửa lại hoặc thay mới dàn máy tính cũ và dễ bị lỗi đi .,0,2,train,theo em nghĩ nên sửa lại hoặc thay mới dàn máy tính cũ và dễ bị lỗi đi,Tiêu cực,Cơ sở vật chất,18
+phòng thực hành nóng .,0,2,train,phòng thực hành nóng,Tiêu cực,Cơ sở vật chất,4
+"nâng cấp hệ thống phục vụ giảng dạy như loa , máy cassette .",0,2,train,nâng cấp hệ thống phục vụ giảng dạy như loa máy cassette,Tiêu cực,Cơ sở vật chất,12
+em mong nhà trường có thể đổi phòng học cho lớp em ạ .,0,2,train,em mong nhà trường có thể đổi phòng học cho lớp em ạ,Tiêu cực,Cơ sở vật chất,13
+phòng hội trường nóng nực .,0,2,train,phòng hội trường nóng nực,Tiêu cực,Cơ sở vật chất,5
+"sáng 7h15 - 7h20 các cô lao công mới quét lớp , sàn nhà , mà cứ quét là hắt thẳng kể cả mặt sinh viên đang đi ở hành lang các nhà như không có ai , rất khó chịu cho các bạn sinh viên , nói ra với các cô sợ các cô buồn rồi hôm sau hắt mạnh tay hơn .",0,2,train,sáng 7h15 7h20 các cô lao công mới quét lớp sàn nhà mà cứ quét là hắt thẳng kể cả mặt sinh viên đang đi ở hành lang các nhà như không có ai rất khó chịu cho các bạn sinh viên nói ra với các cô sợ các cô buồn rồi hôm sau hắt mạnh tay hơn,Tiêu cực,Cơ sở vật chất,58
+em đề nghị đổi phòng học .,0,2,train,em đề nghị đổi phòng học,Tiêu cực,Cơ sở vật chất,6
+các phòng máy cần được trang bị các phần mềm hỗ trợ cho môn học phù hợp .,0,2,train,các phòng máy cần được trang bị các phần mềm hỗ trợ cho môn học phù hợp,Tiêu cực,Cơ sở vật chất,17
+phòng học thiếu quạt máy chiếu mờ em xin cám ơn .,0,2,train,phòng học thiếu quạt máy chiếu mờ em xin cám ơn,Tiêu cực,Cơ sở vật chất,11
+mong nhà trường nâng cấp các phòng thực hành và các thiết bị trong phòng học .,0,2,train,mong nhà trường nâng cấp các phòng thực hành và các thiết bị trong phòng học,Tiêu cực,Cơ sở vật chất,16
+thiết bị còn thiếu .,0,2,train,thiết bị còn thiếu,Tiêu cực,Cơ sở vật chất,4
+để ra hơi khó .,0,2,train,để ra hơi khó,Tiêu cực,Cơ sở vật chất,4
+"cần nâng cấp hệ thống giảng dạy , học tập .",0,2,train,cần nâng cấp hệ thống giảng dạy học tập,Tiêu cực,Cơ sở vật chất,9
+theo em cần phải có phòng thí nghiệm môn này thì mới thật sự hiệu quả .,0,2,train,theo em cần phải có phòng thí nghiệm môn này thì mới thật sự hiệu quả,Tiêu cực,Cơ sở vật chất,16
+cần wifi mạnh thêm cho dãy nhà cũ .,0,2,train,cần wifi mạnh thêm cho dãy nhà cũ,Tiêu cực,Cơ sở vật chất,8
+"máy tính của phòng thực hành không đáp ứng được nhu cầu môn học , giảng viên yêu cầu tự làm trên laptop và mang lên phòng thực hành chấm điểm , vậy phòng thực hành là phòng chấm điểm ?",0,2,train,máy tính của phòng thực hành không đáp ứng được nhu cầu môn học giảng viên yêu cầu tự làm trên laptop và mang lên phòng thực hành chấm điểm vậy phòng thực hành là phòng chấm điểm,Tiêu cực,Cơ sở vật chất,38
+phòng học nóng .,0,2,train,phòng học nóng,Tiêu cực,Cơ sở vật chất,3
+phòng học nóng quá nên lắp thêm quạt .,0,2,train,phòng học nóng quá nên lắp thêm quạt,Tiêu cực,Cơ sở vật chất,8
+"máy chiếu thì quá mờ mới gần đây thôi , quạt thì có cái chạy được , có cái bị hỏng công tắc .",0,2,train,máy chiếu thì quá mờ mới gần đây thôi quạt thì có cái chạy được có cái bị hỏng công tắc,Tiêu cực,Cơ sở vật chất,21
+"máy của phòng thực hành wzjwz241 khởi động visual studio chậm , bàn phím chưa tốt .",0,2,train,máy của phòng thực hành wzjwz241 khởi động visual studio chậm bàn phím chưa tốt,Tiêu cực,Cơ sở vật chất,15
+"phòng học gần công trình đang xây dựng nên rất ồn , mong trường có thể đổi phòng học khác , em xin cảm ơn !",0,2,train,phòng học gần công trình đang xây dựng nên rất ồn mong trường có thể đổi phòng học khác em xin cảm ơn,Tiêu cực,Cơ sở vật chất,23
+"nhiều phòng thực hành không có visual hay dev , rất bất lợi cho những bạn chưa có lap .",0,2,train,nhiều phòng thực hành không có visual hay dev rất bất lợi cho những bạn chưa có lap,Tiêu cực,Cơ sở vật chất,18
+"máy chiếu không rõ , hư hỏng , chập chờn .",0,2,train,máy chiếu không rõ hư hỏng chập chờn,Tiêu cực,Cơ sở vật chất,8
+"phòng thực hành nhỏ không đủ máy cho sinh viên , máy có nhiều virus .",0,2,train,phòng thực hành nhỏ không đủ máy cho sinh viên máy có nhiều virus,Tiêu cực,Cơ sở vật chất,14
+phòng máy thực hành cần nâng cấp .,0,2,train,phòng máy thực hành cần nâng cấp,Tiêu cực,Cơ sở vật chất,7
+ở lớp khi ngồi ở những bàn sau nhìn bảng rất khó .,0,2,train,ở lớp khi ngồi ở những bàn sau nhìn bảng rất khó,Tiêu cực,Cơ sở vật chất,12
+nhìn không rõ .,0,2,train,nhìn không rõ,Tiêu cực,Cơ sở vật chất,3
+"học anh văn nên học ở phòng lab , cách âm để khi học listening không bị ảnh hưởng bởi bên ngoài .",0,2,train,học anh văn nên học ở phòng lab cách âm để khi học listening không bị ảnh hưởng bởi bên ngoài,Tiêu cực,Cơ sở vật chất,21
+phòng lab tốt hơn .,1,2,train,phòng lab tốt hơn,Tích cực,Cơ sở vật chất,4
+cần nâng cấp phòng thực hành để có thể thực hành với nền tảng mới nhất của môn học !,0,2,train,cần nâng cấp phòng thực hành để có thể thực hành với nền tảng mới nhất của môn học,Tiêu cực,Cơ sở vật chất,19
+"cần lắp thêm quạt , ổ cắm và màn che .",0,2,train,cần lắp thêm quạt ổ cắm và màn che,Tiêu cực,Cơ sở vật chất,9
+trời quá nóng mà không có đủ không khí mát mẻ .,0,2,train,trời quá nóng mà không có đủ không khí mát mẻ,Tiêu cực,Cơ sở vật chất,11
+nên  tăng hiệu suất máy tính .,0,2,train,nên tăng hiệu suất máy tính,Tiêu cực,Cơ sở vật chất,6
+trang thiết bị sơ sài .,0,2,train,trang thiết bị sơ sài,Tiêu cực,Cơ sở vật chất,5
+"phòng học , bàn ghế còn bẩn và nhiều bụi bặm .",0,2,train,phòng học bàn ghế còn bẩn và nhiều bụi bặm,Tiêu cực,Cơ sở vật chất,10
+cần sắp xếp phòng học cho phù hợp với số lượng sinh viên để sinh viên tiếp thu tốt hơn .,0,2,train,cần sắp xếp phòng học cho phù hợp với số lượng sinh viên để sinh viên tiếp thu tốt hơn,Tiêu cực,Cơ sở vật chất,20
+"rất mong nhà trường nâng cấp phòng máy máy mở lên rất lâu , màn hình bị nháy , con chuột bị đơ , bàn phím rít , nên cài visual cao hơn visual 2005 để sinh viên dễ thực hành .",0,2,train,rất mong nhà trường nâng cấp phòng máy máy mở lên rất lâu màn hình bị nháy con chuột bị đơ bàn phím rít nên cài visual cao hơn visual 2005 để sinh viên dễ thực hành,Tiêu cực,Cơ sở vật chất,37
+"hỗ trợ thêm cơ sở vật chất , thiết bị thực tế .",0,2,train,hỗ trợ thêm cơ sở vật chất thiết bị thực tế,Tiêu cực,Cơ sở vật chất,11
+thiết bị giảng dạy chưa tốt lắm .,0,2,train,thiết bị giảng dạy chưa tốt lắm,Tiêu cực,Cơ sở vật chất,7
+nâng cao chất lượng thực thành .,0,2,train,nâng cao chất lượng thực thành,Tiêu cực,Cơ sở vật chất,6
+"nhiều máy còn bị nhiễm virus , chậm , đôi khi làm hỏng phần mềm thực hành .",0,2,train,nhiều máy còn bị nhiễm virus chậm đôi khi làm hỏng phần mềm thực hành,Tiêu cực,Cơ sở vật chất,15
+"không có , chỉ là phòng lab máy nên được nâng cấp .",0,2,train,không có chỉ là phòng lab máy nên được nâng cấp,Tiêu cực,Cơ sở vật chất,11
+"môn mạng học ở phòng wzjwz24 , wifi ở phòng này khá yếu , xài rất chậm .",0,2,train,môn mạng học ở phòng wzjwz24 wifi ở phòng này khá yếu xài rất chậm,Tiêu cực,Cơ sở vật chất,15
+máy thực hành nên cài visual studio 2013 .,0,2,train,máy thực hành nên cài visual studio 2013,Tiêu cực,Cơ sở vật chất,8
+"phòng học nóng , máy chiếu hơi mờ .",0,2,train,phòng học nóng máy chiếu hơi mờ,Tiêu cực,Cơ sở vật chất,7
+máy chiếu còn chưa tốt .,0,2,train,máy chiếu còn chưa tốt,Tiêu cực,Cơ sở vật chất,5
+phòng máy cần nâng cấp .,0,2,train,phòng máy cần nâng cấp,Tiêu cực,Cơ sở vật chất,5
+việc kết nối mạng máy tính trong phòng thực hành cần được sửa chữa .,0,2,train,việc kết nối mạng máy tính trong phòng thực hành cần được sửa chữa,Tiêu cực,Cơ sở vật chất,14
+"phòng thực hành quá nhỏ , ít thiết bị , khó khăn cho việc thực hành .",0,2,train,phòng thực hành quá nhỏ ít thiết bị khó khăn cho việc thực hành,Tiêu cực,Cơ sở vật chất,14
+trang thiết bị cần được sửa chữa và bổ sung thêm .,0,2,train,trang thiết bị cần được sửa chữa và bổ sung thêm,Tiêu cực,Cơ sở vật chất,11
+trang bị thêm thiết bị nghe nhìn .,0,2,train,trang bị thêm thiết bị nghe nhìn,Tiêu cực,Cơ sở vật chất,7
+"máy móc trong phòng còn gặp trục trặc , phòng học rất bụi do lâu ngày không được dọn dẹp , máy cấu hình còn yếu .",0,2,train,máy móc trong phòng còn gặp trục trặc phòng học rất bụi do lâu ngày không được dọn dẹp máy cấu hình còn yếu,Tiêu cực,Cơ sở vật chất,24
+"phòng máy wzjwz26 khá tốt , đáp ứng nhu cầu của sinh viên , mong rằng các phòng máy khác cũng có được trang bị như vậy .",1,2,train,phòng máy wzjwz26 khá tốt đáp ứng nhu cầu của sinh viên mong rằng các phòng máy khác cũng có được trang bị như vậy,Tích cực,Cơ sở vật chất,25
+điều kiện cơ sở vật chất còn ảnh hưởng đến chất lượng môn học .,0,2,train,điều kiện cơ sở vật chất còn ảnh hưởng đến chất lượng môn học,Tiêu cực,Cơ sở vật chất,14
+cần nâng cao cơ sở vật chất của phòng học .,0,2,train,cần nâng cao cơ sở vật chất của phòng học,Tiêu cực,Cơ sở vật chất,10
+máy chiếu mờ !,0,2,train,máy chiếu mờ,Tiêu cực,Cơ sở vật chất,3
+"mạng wifi thì không vào được , mạng dây thì cột chặt vào pc .",0,2,train,mạng wifi thì không vào được mạng dây thì cột chặt vào pc,Tiêu cực,Cơ sở vật chất,13
+phòng thiếu quạt .,0,2,train,phòng thiếu quạt,Tiêu cực,Cơ sở vật chất,3
+một số phòng thực hành nên thay dàn máy phù hợp hơn .,0,2,train,một số phòng thực hành nên thay dàn máy phù hợp hơn,Tiêu cực,Cơ sở vật chất,12
+"phòng thực hành quy mô chưa lớn , vẫn còn các máy tính không sử dụng được .",0,2,train,phòng thực hành quy mô chưa lớn vẫn còn các máy tính không sử dụng được,Tiêu cực,Cơ sở vật chất,16
+"cần trang bị máy bàn cấu hình cao hơn , vì chạy chương trình không nổi .",0,2,train,cần trang bị máy bàn cấu hình cao hơn vì chạy chương trình không nổi,Tiêu cực,Cơ sở vật chất,15
+"phòng thực hành còn sơ sài , máy tính cũ kỹ .",0,2,train,phòng thực hành còn sơ sài máy tính cũ kỹ,Tiêu cực,Cơ sở vật chất,10
+đề nghị có màn che bớt ánh sáng .,0,2,train,đề nghị có màn che bớt ánh sáng,Tiêu cực,Cơ sở vật chất,8
+ic được cấp thường hư một phần .,0,2,train,ic được cấp thường hư một phần,Tiêu cực,Cơ sở vật chất,7
+"đồng thời thiết bị ở phòng thực hành hay hỏng hóc , gây gián đoạn và ảnh hưởng tới kết quả và thời gian làm thực hành .",0,2,train,đồng thời thiết bị ở phòng thực hành hay hỏng hóc gây gián đoạn và ảnh hưởng tới kết quả và thời gian làm thực hành,Tiêu cực,Cơ sở vật chất,26
+"phòng máy quá nóng , nhỏ , trang thiết bị ít , máy rất cũ , hư nhiều .",0,2,train,phòng máy quá nóng nhỏ trang thiết bị ít máy rất cũ hư nhiều,Tiêu cực,Cơ sở vật chất,14
+mong nhà trường có thể trang bị thêm phòng máy tốt hơn để khi chạy chương trình có thể chạy nhanh hơn .,0,2,train,mong nhà trường có thể trang bị thêm phòng máy tốt hơn để khi chạy chương trình có thể chạy nhanh hơn,Tiêu cực,Cơ sở vật chất,22
+"cần cải thiện chất lượng phòng học , máy chiếu .",0,2,train,cần cải thiện chất lượng phòng học máy chiếu,Tiêu cực,Cơ sở vật chất,9
+mỗi khi lấy micro lại phải lấy thêm cả loa .,2,2,train,mỗi khi lấy micro lại phải lấy thêm cả loa,Trung lập,Cơ sở vật chất,10
+"lớp rất đông sinh viên , ngồi xa sẽ không thấy rõ slide thầy chiếu trên bảng vì chữ nhỏ và mờ tại phòng wzjwz166 gây khó tiếp thu bài học .",0,2,train,lớp rất đông sinh viên ngồi xa sẽ không thấy rõ slide thầy chiếu trên bảng vì chữ nhỏ và mờ tại phòng wzjwz166 gây khó tiếp thu bài học,Tiêu cực,Cơ sở vật chất,30
+"máy nghe nên được trang bị tốt hơn , phòng học nên sáng hơn .",0,2,train,máy nghe nên được trang bị tốt hơn phòng học nên sáng hơn,Tiêu cực,Cơ sở vật chất,13
+cơ sở vật chất cần chuẩn bị tốt hơn để giảng viên có điều kiện tốt để giảng dạy .,0,2,train,cơ sở vật chất cần chuẩn bị tốt hơn để giảng viên có điều kiện tốt để giảng dạy,Tiêu cực,Cơ sở vật chất,19
+các trang bị để nghe không rõ .,0,2,train,các trang bị để nghe không rõ,Tiêu cực,Cơ sở vật chất,7
+ở giảng đường lâu lâu cúp điện rất nóng .,0,2,train,ở giảng đường lâu lâu cúp điện rất nóng,Tiêu cực,Cơ sở vật chất,9
+"cơ sở vật chất cần được cải thiện , tránh việc học ở các giảng đường .",0,2,train,cơ sở vật chất cần được cải thiện tránh việc học ở các giảng đường,Tiêu cực,Cơ sở vật chất,15
+đề nghị trang bị loa và micro mới .,0,2,train,đề nghị trang bị loa và micro mới,Tiêu cực,Cơ sở vật chất,8
+phòng học và các thiết bị giảng dạy cần được nâng cấp tốt hơn .,0,2,train,phòng học và các thiết bị giảng dạy cần được nâng cấp tốt hơn,Tiêu cực,Cơ sở vật chất,14
+phòng thực hành cần được nâng cấp .,0,2,train,phòng thực hành cần được nâng cấp,Tiêu cực,Cơ sở vật chất,7
+phòng lab cần có thêm thiết bị thật để thực hành .,0,2,train,phòng lab cần có thêm thiết bị thật để thực hành,Tiêu cực,Cơ sở vật chất,11
+máy chiếu bị ảnh hưởng bởi ánh sáng nên xem slide không rõ .,0,2,train,máy chiếu bị ảnh hưởng bởi ánh sáng nên xem slide không rõ,Tiêu cực,Cơ sở vật chất,13
+"chất lượng âm thanh chưa tốt , còn quá rè .",0,2,train,chất lượng âm thanh chưa tốt còn quá rè,Tiêu cực,Cơ sở vật chất,9
+phòng wzjwz55 thiết bị thường bị trục trặc .,0,2,train,phòng wzjwz55 thiết bị thường bị trục trặc,Tiêu cực,Cơ sở vật chất,8
+quạt của phòng bị hư nên học hơi bị nóng .,0,2,train,quạt của phòng bị hư nên học hơi bị nóng,Tiêu cực,Cơ sở vật chất,10
+"đổi phòng thực hành , máy thực hành bị hư rất nhiều .",0,2,train,đổi phòng thực hành máy thực hành bị hư rất nhiều,Tiêu cực,Cơ sở vật chất,11
+"đề nghị trường có biện pháp nâng cấp phòng học vì phòng quá dơ , quá bụi , máy chiếu thì có phòng rất tốt nhưng cũng có phòng quá tệ .",0,2,train,đề nghị trường có biện pháp nâng cấp phòng học vì phòng quá dơ quá bụi máy chiếu thì có phòng rất tốt nhưng cũng có phòng quá tệ,Tiêu cực,Cơ sở vật chất,29
+"phòng học còn bụi và nóng , máy chiếu tuy vẫn nhìn được nhưng như vậy vẫn là mờ , ngồi xa sẽ không thấy .",0,2,train,phòng học còn bụi và nóng máy chiếu tuy vẫn nhìn được nhưng như vậy vẫn là mờ ngồi xa sẽ không thấy,Tiêu cực,Cơ sở vật chất,23
+nhà trường cần trang bị máy chiếu tốt hơn được không ạ .,0,2,train,nhà trường cần trang bị máy chiếu tốt hơn được không ạ,Tiêu cực,Cơ sở vật chất,12
+"phòng thực hành quá bé , bụi bặm , quạt không quay , đề nghị phòng đào tạo chia ca thực hành nếu không sẽ không đủ chỗ ngồi .",0,2,train,phòng thực hành quá bé bụi bặm quạt không quay đề nghị phòng đào tạo chia ca thực hành nếu không sẽ không đủ chỗ ngồi,Tiêu cực,Cơ sở vật chất,26
+nhất thiết phải đảm bảo yêu cầu về cơ sở vật chất phù hợp với môn học .,0,2,train,nhất thiết phải đảm bảo yêu cầu về cơ sở vật chất phù hợp với môn học,Tiêu cực,Cơ sở vật chất,17
+"cần thêm thiết bị để làm các bài tập thực hành về ảo hóa , quản trị .",0,2,train,cần thêm thiết bị để làm các bài tập thực hành về ảo hóa quản trị,Tiêu cực,Cơ sở vật chất,16
+một số phòng thì quạt đã bị hỏng .,0,2,train,một số phòng thì quạt đã bị hỏng,Tiêu cực,Cơ sở vật chất,8
+"môn học được xếp vào phòng có máy chiếu bị hỏng phòng wzjwz66 , mong trường nhanh chóng giải quyết !",0,2,train,môn học được xếp vào phòng có máy chiếu bị hỏng phòng wzjwz66 mong trường nhanh chóng giải quyết,Tiêu cực,Cơ sở vật chất,19
+"mong ban quản lý cơ sở ý kiến giúp chúng em , em xin cảm ơn !",2,2,train,mong ban quản lý cơ sở ý kiến giúp chúng em em xin cảm ơn,Trung lập,Cơ sở vật chất,15
+sử dụng trang thiết bị hiệu quả cho quá trình học tập .,1,2,train,sử dụng trang thiết bị hiệu quả cho quá trình học tập,Tích cực,Cơ sở vật chất,12
+phòng máy cần được nâng cấp nhiều máy không hoạt động được .,0,2,train,phòng máy cần được nâng cấp nhiều máy không hoạt động được,Tiêu cực,Cơ sở vật chất,12
+máy chiếu rất mờ .,0,2,train,máy chiếu rất mờ,Tiêu cực,Cơ sở vật chất,4
+cần tăng cường chất lượng phòng máy .,0,2,train,cần tăng cường chất lượng phòng máy,Tiêu cực,Cơ sở vật chất,7
+nâng cấp trang thiết bị phòng học doubledot máy chiếu và quạt .,0,2,train,nâng cấp trang thiết bị phòng học doubledot máy chiếu và quạt,Tiêu cực,Cơ sở vật chất,12
+"cần có các phần mềm , thiết bị mô phỏng những bài lý thuyết đã học để sinh viên có được một cái nhìn trực quan , sinh động và dễ hiểu hơn .",0,2,train,cần có các phần mềm thiết bị mô phỏng những bài lý thuyết đã học để sinh viên có được một cái nhìn trực quan sinh động và dễ hiểu hơn,Tiêu cực,Cơ sở vật chất,31
+nâng cao cơ sở vật chất .,0,2,train,nâng cao cơ sở vật chất,Tiêu cực,Cơ sở vật chất,6
+"vì phòng học lớn , chất lượng không hiệu quả .",1,2,train,vì phòng học lớn chất lượng không hiệu quả,Tích cực,Cơ sở vật chất,9
+nâng cao chất lượng cơ sở vật chất .,0,2,train,nâng cao chất lượng cơ sở vật chất,Tiêu cực,Cơ sở vật chất,8
+nâng cao chất lượng phòng học và các trang thiết bị hỗ trợ .,0,2,train,nâng cao chất lượng phòng học và các trang thiết bị hỗ trợ,Tiêu cực,Cơ sở vật chất,13
+"phòng thực hành có rất nhiều máy bị hư hỏng , chúng em không thể sử dụng chuột được , visual thì phiên bản cũ quá , không còn phù hợp cho học tập nữa .",0,2,train,phòng thực hành có rất nhiều máy bị hư hỏng chúng em không thể sử dụng chuột được visual thì phiên bản cũ quá không còn phù hợp cho học tập nữa,Tiêu cực,Cơ sở vật chất,32
+đề nghị thầy đừng nghỉ nhiều quá mất bài của chúng em .,0,2,train,đề nghị thầy đừng nghỉ nhiều quá mất bài của chúng em,Tiêu cực,Cơ sở vật chất,12
+"em thấy bất cập là khi giải bài trên bảng ở giảng đường 1 , khoảng cách thì xa trong khi chữ viết của sinh viên lại rất mờ và nhỏ , khó có thể thấy rõ .",0,2,train,em thấy bất cập là khi giải bài trên bảng ở giảng đường 1 khoảng cách thì xa trong khi chữ viết của sinh viên lại rất mờ và nhỏ khó có thể thấy rõ,Tiêu cực,Cơ sở vật chất,35
+"đặc biệt là khi kiểm tra nghe cuối kỳ , có thể ví von âm thanh với máy nổ .",0,2,train,đặc biệt là khi kiểm tra nghe cuối kỳ có thể ví von âm thanh với máy nổ,Tiêu cực,Cơ sở vật chất,18
+nên dạy thực tế hơn một chút và máy chiếu nên rõ hơn .,0,2,train,nên dạy thực tế hơn một chút và máy chiếu nên rõ hơn,Tiêu cực,Cơ sở vật chất,13
+"điều quan trọng là rất chật mà lớp thì đông , làm thầy phải chia ca và có bạn phải làm bài tập ngoài hành lang sau đó mới vào nộp .",0,2,train,điều quan trọng là rất chật mà lớp thì đông làm thầy phải chia ca và có bạn phải làm bài tập ngoài hành lang sau đó mới vào nộp,Tiêu cực,Cơ sở vật chất,30
+em chỉ có ý kiến là các trang thiết bị trong các phòng học anh văn như vậy là chưa đảm bảo .,0,2,train,em chỉ có ý kiến là các trang thiết bị trong các phòng học anh văn như vậy là chưa đảm bảo,Tiêu cực,Cơ sở vật chất,22
+phòng học khác phải có màn che .,0,2,train,phòng học khác phải có màn che,Tiêu cực,Cơ sở vật chất,7
+không có đủ ổ cắm điện sử dụng .,0,2,train,không có đủ ổ cắm điện sử dụng,Tiêu cực,Cơ sở vật chất,8
+"phòng máy chất lượng còn thấp , cấu hình yếu và bị nhiễm virus , một số kit không nhận driver hoặc bị hư , thiếu kit và phòng thực hành còn nhỏ .",0,2,train,phòng máy chất lượng còn thấp cấu hình yếu và bị nhiễm virus một số kit không nhận driver hoặc bị hư thiếu kit và phòng thực hành còn nhỏ,Tiêu cực,Cơ sở vật chất,30
+"cần trang bị thêm trang thiết bị , cải tiến giáo trình .",0,2,train,cần trang bị thêm trang thiết bị cải tiến giáo trình,Tiêu cực,Cơ sở vật chất,11
+máy tính tệ quá !,0,2,train,máy tính tệ quá,Tiêu cực,Cơ sở vật chất,4
+nên nâng cấp phòng lab .,0,2,train,nên nâng cấp phòng lab,Tiêu cực,Cơ sở vật chất,5
+một số máy chiếu tại số phòng anh văn hơi mờ .,0,2,train,một số máy chiếu tại số phòng anh văn hơi mờ,Tiêu cực,Cơ sở vật chất,11
+phòng máy đôi khi quá nhiều máy hoạt động không ổn .,0,2,train,phòng máy đôi khi quá nhiều máy hoạt động không ổn,Tiêu cực,Cơ sở vật chất,11
+cần tăng cường chất lượng wifi để sinh viên có thể tìm kiếm tài liệu trong quá trình thực hành .,0,2,train,cần tăng cường chất lượng wifi để sinh viên có thể tìm kiếm tài liệu trong quá trình thực hành,Tiêu cực,Cơ sở vật chất,20
+có nhiều thời gian chết trong giờ học .,0,2,train,có nhiều thời gian chết trong giờ học,Tiêu cực,Cơ sở vật chất,8
+phòng học cần lắp thêm quạt và màn che để theo dõi bài giảng của giáo viên tốt hơn .,0,2,train,phòng học cần lắp thêm quạt và màn che để theo dõi bài giảng của giáo viên tốt hơn,Tiêu cực,Cơ sở vật chất,19
+"hệ thống máy tính quá tệ , thua cả hệ thường trong khi em học chất lượng cao .",0,2,train,hệ thống máy tính quá tệ thua cả hệ thường trong khi em học chất lượng cao,Tiêu cực,Cơ sở vật chất,17
+"lớp học sạch sẽ , thoáng mát .",1,2,train,lớp học sạch sẽ thoáng mát,Tích cực,Cơ sở vật chất,6
+mong phòng thiết bị chuẩn bị tốt hơn .,0,2,train,mong phòng thiết bị chuẩn bị tốt hơn,Tiêu cực,Cơ sở vật chất,8
+cơ sở vật chất cần được cải thiện .,0,2,train,cơ sở vật chất cần được cải thiện,Tiêu cực,Cơ sở vật chất,8
+"toàn bộ các sinh viên đều phải tự mang laptop lên phòng thực hành học , tuy nhiên mạng để đáp ứng cho nhu cầu sử dụng nhiều laptop trong phòng thực hành lại không có .",0,2,train,toàn bộ các sinh viên đều phải tự mang laptop lên phòng thực hành học tuy nhiên mạng để đáp ứng cho nhu cầu sử dụng nhiều laptop trong phòng thực hành lại không có,Tiêu cực,Cơ sở vật chất,35
+"máy chiếu của phòng bị mờ , nên sửa lại .",0,2,train,máy chiếu của phòng bị mờ nên sửa lại,Tiêu cực,Cơ sở vật chất,9
+"nâng cao chất lượng âm thanh và các trang thiết bị cần thiết doubledot loa , micro .",0,2,train,nâng cao chất lượng âm thanh và các trang thiết bị cần thiết doubledot loa micro,Tiêu cực,Cơ sở vật chất,16
+cái máy chiếu ở giảng đường 3 quá mờ .,0,2,train,cái máy chiếu ở giảng đường 3 quá mờ,Tiêu cực,Cơ sở vật chất,9
+"cải thiện trang thiết bị phòng học doubledot quạt , máy chiếu .",0,2,train,cải thiện trang thiết bị phòng học doubledot quạt máy chiếu,Tiêu cực,Cơ sở vật chất,11
+cơ sở vật chất của trường nên được đầu tư làm mới và hiện đại hơn .,0,2,train,cơ sở vật chất của trường nên được đầu tư làm mới và hiện đại hơn,Tiêu cực,Cơ sở vật chất,16
+giảng đường 2 và 3 học vào buổi chiều rất nóng bức .,0,2,train,giảng đường 2 và 3 học vào buổi chiều rất nóng bức,Tiêu cực,Cơ sở vật chất,12
+"do cửa sổ không có rèm cửa nên khi học bằng máy chiếu thì không có hiệu quả cao , hơi mờ , sinh viên khó khăn trong việc nhìn .",0,2,train,do cửa sổ không có rèm cửa nên khi học bằng máy chiếu thì không có hiệu quả cao hơi mờ sinh viên khó khăn trong việc nhìn,Tiêu cực,Cơ sở vật chất,28
+"trang thiết bị như doubledot quạt , micro , máy chiếu , phấn cần được hoàn thiện hơn .",0,2,train,trang thiết bị như doubledot quạt micro máy chiếu phấn cần được hoàn thiện hơn,Tiêu cực,Cơ sở vật chất,15
+"nhà trường nên trang bị thêm máy chiếu ở phòng thực hành wzjwz135 , và nên cập nhập lên visual 2008 hay 2010 gì đó , vì em thấy một số máy chạy visual 2005 bị lỗi .",0,2,train,nhà trường nên trang bị thêm máy chiếu ở phòng thực hành wzjwz135 và nên cập nhập lên visual 2008 hay 2010 gì đó vì em thấy một số máy chạy visual 2005 bị lỗi,Tiêu cực,Cơ sở vật chất,35
+"đề nghị trang bị thiết bị vật chất tốt hơn doubledot quạt , máy chiếu .",0,2,train,đề nghị trang bị thiết bị vật chất tốt hơn doubledot quạt máy chiếu,Tiêu cực,Cơ sở vật chất,14
+"nâng cấp máy tính , cho sinh viên thực hành bấm cáp nhiều hơn .",0,2,train,nâng cấp máy tính cho sinh viên thực hành bấm cáp nhiều hơn,Tiêu cực,Cơ sở vật chất,13
+"mỗi khi cần giảng giải bài tập , kiến thức , vấn đề gì mà sử dụng đến mạng wifi thì rất tệ làm tốn thời gian của thầy và sinh viên .",0,2,dev,mỗi khi cần giảng giải bài tập kiến thức vấn đề gì mà sử dụng đến mạng wifi thì rất tệ làm tốn thời gian của thầy và sinh viên,Tiêu cực,Cơ sở vật chất,30
+nhà trường nên cập nhật visual studio lên phiên bản mới nhất để tụi em thực hành tốt hơn .,0,2,dev,nhà trường nên cập nhật visual studio lên phiên bản mới nhất để tụi em thực hành tốt hơn,Tiêu cực,Cơ sở vật chất,19
+"mong nhà trường cần nâng cấp các phòng thực hành , và phong lab khoa .",0,2,dev,mong nhà trường cần nâng cấp các phòng thực hành và phong lab khoa,Tiêu cực,Cơ sở vật chất,14
+cần sử dụng phòng elab và các thiết bị nghe nhìn cho lớp chất lượng cao .,0,2,dev,cần sử dụng phòng elab và các thiết bị nghe nhìn cho lớp chất lượng cao,Tiêu cực,Cơ sở vật chất,16
+nâng cấp hệ thống loa cho các phòng học .,0,2,dev,nâng cấp hệ thống loa cho các phòng học,Tiêu cực,Cơ sở vật chất,9
+máy chiếu tại phòng học còn mờ .,0,2,dev,máy chiếu tại phòng học còn mờ,Tiêu cực,Cơ sở vật chất,7
+"phòng học , micro , máy chiếu cần nâng cấp và cải thiện và bảo trì thường xuyên hơn .",0,2,dev,phòng học micro máy chiếu cần nâng cấp và cải thiện và bảo trì thường xuyên hơn,Tiêu cực,Cơ sở vật chất,17
+"em nghĩ nhà trường nên nâng cấp phiên bản của sql vì sql 2005 mà nhà trường đang cho sinh viên thực hành còn thiếu sót nhiều chức năng , hỗ trợ .",0,2,dev,em nghĩ nhà trường nên nâng cấp phiên bản của sql vì sql 2005 mà nhà trường đang cho sinh viên thực hành còn thiếu sót nhiều chức năng hỗ trợ,Tiêu cực,Cơ sở vật chất,31
+"sinh viên lớp chất lượng cao nhưng lại xếp thi phòng thực hành của lớp thường , việc cấu hình máy mất hơn nửa tiếng cho cả lớp , chưa kể còn nhiều bất cập khi làm bài thi .",0,2,dev,sinh viên lớp chất lượng cao nhưng lại xếp thi phòng thực hành của lớp thường việc cấu hình máy mất hơn nửa tiếng cho cả lớp chưa kể còn nhiều bất cập khi làm bài thi,Tiêu cực,Cơ sở vật chất,37
+mini test trong cả khóa học nhiều hơn .,0,2,dev,mini test trong cả khóa học nhiều hơn,Tiêu cực,Cơ sở vật chất,8
+cần lắp thêm quạt và màn che cửa sổ .,0,2,dev,cần lắp thêm quạt và màn che cửa sổ,Tiêu cực,Cơ sở vật chất,9
+điều chỉnh trang thiết bị giảng dạy .,0,2,dev,điều chỉnh trang thiết bị giảng dạy,Tiêu cực,Cơ sở vật chất,7
+nâng cấp phiên bản của các phần mềm .,0,2,dev,nâng cấp phiên bản của các phần mềm,Tiêu cực,Cơ sở vật chất,8
+nhiều trang thiết bị thực hành trong phòng thực hành điện tử cơ bản đa số hư hỏng nhiều cần phải thay mới .,0,2,dev,nhiều trang thiết bị thực hành trong phòng thực hành điện tử cơ bản đa số hư hỏng nhiều cần phải thay mới,Tiêu cực,Cơ sở vật chất,23
+"thiết bị thực hành không đáp ứng yêu cầu môn học , như router , switch .",0,2,dev,thiết bị thực hành không đáp ứng yêu cầu môn học như router switch,Tiêu cực,Cơ sở vật chất,14
+khi dùng micro em nghe được hai giọng của thầy và của loa rất đau đầu .,0,2,dev,khi dùng micro em nghe được hai giọng của thầy và của loa rất đau đầu,Tiêu cực,Cơ sở vật chất,16
+cần phòng thực hành môn học .,0,2,dev,cần phòng thực hành môn học,Tiêu cực,Cơ sở vật chất,6
+chỗ thực hành rất nắng và nóng và dụng cụ thực hành rất có hạn .,0,2,dev,chỗ thực hành rất nắng và nóng và dụng cụ thực hành rất có hạn,Tiêu cực,Cơ sở vật chất,15
+nên nhanh chóng đưa thiết bị thật vào thực hành .,0,2,dev,nên nhanh chóng đưa thiết bị thật vào thực hành,Tiêu cực,Cơ sở vật chất,10
+"phòng học còn rất là bụi , phấn viết bảng thì thiếu trầm trọng , khăn lau bảng thì rách tả tơi .",0,2,dev,phòng học còn rất là bụi phấn viết bảng thì thiếu trầm trọng khăn lau bảng thì rách tả tơi,Tiêu cực,Cơ sở vật chất,20
+"phòng học được sắp xếp gần nơi thi công wzjwz125 ồn ào , không học được .",0,2,dev,phòng học được sắp xếp gần nơi thi công wzjwz125 ồn ào không học được,Tiêu cực,Cơ sở vật chất,15
+thiết bị còn quá cũ kỹ .,0,2,dev,thiết bị còn quá cũ kỹ,Tiêu cực,Cơ sở vật chất,6
+một số máy còn không được cài đặt phần mềm thực hành .,0,2,dev,một số máy còn không được cài đặt phần mềm thực hành,Tiêu cực,Cơ sở vật chất,12
+trang thiết bị nên được trang bị thường xuyên .,0,2,dev,trang thiết bị nên được trang bị thường xuyên,Tiêu cực,Cơ sở vật chất,9
+phòng quá nóng và chói làm máy chiếu bị mờ .,0,2,dev,phòng quá nóng và chói làm máy chiếu bị mờ,Tiêu cực,Cơ sở vật chất,10
+"phòng lab kém , buổi đầu tiên không cài visual , buổi thứ 2 cũng không cài , buổi thứ 3 cũng vậy sinh viên không đi thực hành !",0,2,dev,phòng lab kém buổi đầu tiên không cài visual buổi thứ 2 cũng không cài buổi thứ 3 cũng vậy sinh viên không đi thực hành,Tiêu cực,Cơ sở vật chất,26
+phòng học quá bé và thời lượng học quá ít .,0,2,dev,phòng học quá bé và thời lượng học quá ít,Tiêu cực,Cơ sở vật chất,10
+máy tính trong phòng thực hành không được tốt cho lắm .,0,2,dev,máy tính trong phòng thực hành không được tốt cho lắm,Tiêu cực,Cơ sở vật chất,11
+"phòng máy nên đầu tư đồng bộ một chút , tránh hiện tượng các máy là khác nhau .",0,2,dev,phòng máy nên đầu tư đồng bộ một chút tránh hiện tượng các máy là khác nhau,Tiêu cực,Cơ sở vật chất,17
+cần cải thiện tốc độ mạng .,0,2,dev,cần cải thiện tốc độ mạng,Tiêu cực,Cơ sở vật chất,6
+nên thu nhỏ lớp học lại .,0,2,dev,nên thu nhỏ lớp học lại,Tiêu cực,Cơ sở vật chất,6
+cải thiện tốc dộ mạng .,0,2,dev,cải thiện tốc dộ mạng,Tiêu cực,Cơ sở vật chất,5
+cần trang bị thêm các rèm che cho các phòng học ở dãy nhà c nhằm tránh tình trạng không thấy rõ máy chiếu .,0,2,dev,cần trang bị thêm các rèm che cho các phòng học ở dãy nhà c nhằm tránh tình trạng không thấy rõ máy chiếu,Tiêu cực,Cơ sở vật chất,24
+"nâng cao trang thiết bị phòng học doubledot máy chiếu , quạt , ổ điện .",0,2,dev,nâng cao trang thiết bị phòng học doubledot máy chiếu quạt ổ điện,Tiêu cực,Cơ sở vật chất,13
+"thiết bị phòng lab cũ , chưa đáp ứng được yêu cầu thực hành .",0,2,dev,thiết bị phòng lab cũ chưa đáp ứng được yêu cầu thực hành,Tiêu cực,Cơ sở vật chất,13
+"phòng thực hành kém chật lượng , quá nhỏ , nhiều bạn thực hành phải làm bài tập bên ngoài hành lang rồi mới vào trong chấm được .",0,2,dev,phòng thực hành kém chật lượng quá nhỏ nhiều bạn thực hành phải làm bài tập bên ngoài hành lang rồi mới vào trong chấm được,Tiêu cực,Cơ sở vật chất,26
+nâng cao thiết bị giảng dạy .,0,2,dev,nâng cao thiết bị giảng dạy,Tiêu cực,Cơ sở vật chất,6
+"phòng học quá nóng , xin nhà trường trang bị thêm quạt cho các phòng học dãy c .",0,2,dev,phòng học quá nóng xin nhà trường trang bị thêm quạt cho các phòng học dãy c,Tiêu cực,Cơ sở vật chất,17
+đó là hệ thống máy thực hành còn kém .,0,2,dev,đó là hệ thống máy thực hành còn kém,Tiêu cực,Cơ sở vật chất,9
+cần chuẩn bị thêm trang thiết bị để hỗ trợ kịp thời trong học tập và thực hành .,0,2,dev,cần chuẩn bị thêm trang thiết bị để hỗ trợ kịp thời trong học tập và thực hành,Tiêu cực,Cơ sở vật chất,18
+"phòng học quá gần khu thi công , ồn ào , mất tập trung .",0,2,dev,phòng học quá gần khu thi công ồn ào mất tập trung,Tiêu cực,Cơ sở vật chất,12
+lớp em học thì máy hay có sự cố .,0,2,dev,lớp em học thì máy hay có sự cố,Tiêu cực,Cơ sở vật chất,9
+tăng chất lượng các thiết bị phục vụ giảng dạy .,0,2,dev,tăng chất lượng các thiết bị phục vụ giảng dạy,Tiêu cực,Cơ sở vật chất,10
+nâng cao trang thiết bị phòng học doubledot quạt .,0,2,dev,nâng cao trang thiết bị phòng học doubledot quạt,Tiêu cực,Cơ sở vật chất,9
+vấn đề nghe từ thiết bị không tốt lắm .,0,2,dev,vấn đề nghe từ thiết bị không tốt lắm,Tiêu cực,Cơ sở vật chất,9
+các dụng cụ còn hư nhiều .,0,2,dev,các dụng cụ còn hư nhiều,Tiêu cực,Cơ sở vật chất,6
+"cần nâng cấp phòng học , máy chiếu .",0,2,dev,cần nâng cấp phòng học máy chiếu,Tiêu cực,Cơ sở vật chất,7
+"phòng học còn nóng và bụi bặm , máy chiếu tuy nhìn được nhưng như vậy vẫn là mờ , nếu ngồi xa hay hôm nào sáng quá sẽ khó thấy .",0,2,dev,phòng học còn nóng và bụi bặm máy chiếu tuy nhìn được nhưng như vậy vẫn là mờ nếu ngồi xa hay hôm nào sáng quá sẽ khó thấy,Tiêu cực,Cơ sở vật chất,29
+cải tiến trang thiết bị thường xuyên hơn .,0,2,dev,cải tiến trang thiết bị thường xuyên hơn,Tiêu cực,Cơ sở vật chất,8
+nên cải tiến phòng thực hành .,0,2,dev,nên cải tiến phòng thực hành,Tiêu cực,Cơ sở vật chất,6
+"trang thiết bị phục vụ còn hạn chế , không có nhiều thời gian trực tiếp thực hành .",0,2,dev,trang thiết bị phục vụ còn hạn chế không có nhiều thời gian trực tiếp thực hành,Tiêu cực,Cơ sở vật chất,17
+quá ít thiết bị cho sinh viên thực hành .,0,2,dev,quá ít thiết bị cho sinh viên thực hành,Tiêu cực,Cơ sở vật chất,9
+"cần nâng cấp các phòng học thực hành , phòng máy quá tệ để thực hành , các phiên bản phần mềm cũ .",0,2,dev,cần nâng cấp các phòng học thực hành phòng máy quá tệ để thực hành các phiên bản phần mềm cũ,Tiêu cực,Cơ sở vật chất,21
+phòng máy cũ cần nâng cấp .,0,2,dev,phòng máy cũ cần nâng cấp,Tiêu cực,Cơ sở vật chất,6
+"và chuột máy tính trong phòng lab cũng hư khá nhiều , đề nghị nhà trường thay thế để có nhiều máy tính phục vụ học tập cho sinh viên .",0,2,dev,và chuột máy tính trong phòng lab cũng hư khá nhiều đề nghị nhà trường thay thế để có nhiều máy tính phục vụ học tập cho sinh viên,Tiêu cực,Cơ sở vật chất,29
+nâng cấp trang thiết bị của phòng thực hành .,0,2,dev,nâng cấp trang thiết bị của phòng thực hành,Tiêu cực,Cơ sở vật chất,9
+"môn học đề cao tính ứng dụng , vì vậy nên trang bị nhiều cơ sở vật chất và tài liệu nghiên cứu làm ý tưởng cho sinh viên làm đồ án môn học .",0,2,dev,môn học đề cao tính ứng dụng vì vậy nên trang bị nhiều cơ sở vật chất và tài liệu nghiên cứu làm ý tưởng cho sinh viên làm đồ án môn học,Tiêu cực,Cơ sở vật chất,33
+"các máy tính tại phòng thực hành lab khoa wzjwz42 đa phần đều hư hỏng không có chuột , chuột không dùng được , máy bị virus rất nặng .",0,2,dev,các máy tính tại phòng thực hành lab khoa wzjwz42 đa phần đều hư hỏng không có chuột chuột không dùng được máy bị virus rất nặng,Tiêu cực,Cơ sở vật chất,27
+mong nhà trường sớm thay máy mới !,0,2,dev,mong nhà trường sớm thay máy mới,Tiêu cực,Cơ sở vật chất,7
+"hệ thống âm thanh sử dụng cho phần "" listening "" chưa thực sự tốt .",0,2,dev,hệ thống âm thanh sử dụng cho phần listening chưa thực sự tốt,Tiêu cực,Cơ sở vật chất,13
+phòng học gần tòa nhà đang xây gây ảnh hưởng đến các bài nghe của môn học này .,0,2,dev,phòng học gần tòa nhà đang xây gây ảnh hưởng đến các bài nghe của môn học này,Tiêu cực,Cơ sở vật chất,18
+dãy bàn chính giữa không có quạt .,0,2,dev,dãy bàn chính giữa không có quạt,Tiêu cực,Cơ sở vật chất,7
+quạt trong phòng học chưa đáp ứng tốt .,0,2,dev,quạt trong phòng học chưa đáp ứng tốt,Tiêu cực,Cơ sở vật chất,8
+mong nhà trường sẽ có nhiều biện pháp để tăng cường thêm các trang thiết bị và cơ sở vật chất để phục vụ tốt hơn cho việc học tiếng anh của sinh viên .,0,2,dev,mong nhà trường sẽ có nhiều biện pháp để tăng cường thêm các trang thiết bị và cơ sở vật chất để phục vụ tốt hơn cho việc học tiếng anh của sinh viên,Tiêu cực,Cơ sở vật chất,34
+trang bị phòng thí nghiệm để hiểu rõ hơn về thực tế .,0,2,dev,trang bị phòng thí nghiệm để hiểu rõ hơn về thực tế,Tiêu cực,Cơ sở vật chất,12
+phòng có máy điều hòa .,2,2,dev,phòng có máy điều hòa,Trung lập,Cơ sở vật chất,5
+"trang bị máy chiếu mới , loa và micro của phòng học , máy tính mới cho phòng lab .",0,2,dev,trang bị máy chiếu mới loa và micro của phòng học máy tính mới cho phòng lab,Tiêu cực,Cơ sở vật chất,17
+các máy tính trong phòng lab nên cài đặt thêm phần mềm android studio để phục vụ việc thực hành môn này .,0,2,dev,các máy tính trong phòng lab nên cài đặt thêm phần mềm android studio để phục vụ việc thực hành môn này,Tiêu cực,Cơ sở vật chất,22
+"phòng học quá nóng phòng wzjwz96 , lớp em có nhiều sinh viên nhưng chỉ có 2 cái quạt , học anh văn vào buổi chiều bị nắng chiếu mà còn nóng thì em tiếp thu bài rất kém ạ !",0,2,dev,phòng học quá nóng phòng wzjwz96 lớp em có nhiều sinh viên nhưng chỉ có 2 cái quạt học anh văn vào buổi chiều bị nắng chiếu mà còn nóng thì em tiếp thu bài rất kém ạ,Tiêu cực,Cơ sở vật chất,38
+"phòng thực hành không đảm bảo phục vụ cho môn học , các phần mềm , chương trình không còn phù hợp nữa .",0,2,dev,phòng thực hành không đảm bảo phục vụ cho môn học các phần mềm chương trình không còn phù hợp nữa,Tiêu cực,Cơ sở vật chất,21
+em học bên chất lượng cao mà phòng máy không cung cấp đủ máy ( vì máy hư hoặc không cài chương trình ) .,0,2,test,em học bên chất lượng cao mà phòng máy không cung cấp đủ máy vì máy hư hoặc không cài chương trình,Tiêu cực,Cơ sở vật chất,22
+"phòng học thoáng mát , trang thiết bị đầy đủ .",1,2,test,phòng học thoáng mát trang thiết bị đầy đủ,Tích cực,Cơ sở vật chất,9
+thiết bị phòng học như quạt máy cần phải đầu tư thêm .,0,2,test,thiết bị phòng học như quạt máy cần phải đầu tư thêm,Tiêu cực,Cơ sở vật chất,12
+"hiện nay đang bước vào đợt nắng nóng , nhưng trong môt số phòng học thì doubledot quạt rất yếu gây ra nóng nực , mệt mỏi cho sinh viên và giảng viên .",0,2,test,hiện nay đang bước vào đợt nắng nóng nhưng trong môt số phòng học thì doubledot quạt rất yếu gây ra nóng nực mệt mỏi cho sinh viên và giảng viên,Tiêu cực,Cơ sở vật chất,31
+"máy chiếu nhiều lúc chẳng muốn để nhìn , chất lượng kém , ánh sáng làm mờ .",0,2,test,máy chiếu nhiều lúc chẳng muốn để nhìn chất lượng kém ánh sáng làm mờ,Tiêu cực,Cơ sở vật chất,15
+có nhiều thầy cô đến lớp không đúng giờ .,0,2,test,có nhiều thầy cô đến lớp không đúng giờ,Tiêu cực,Cơ sở vật chất,9
+cần thay đổi hệ thống máy tính ở một số phòng thực hành vì đã quá cũ .,0,2,test,cần thay đổi hệ thống máy tính ở một số phòng thực hành vì đã quá cũ,Tiêu cực,Cơ sở vật chất,17
+nên nâng cao cơ sở vật chất của trường .,0,2,test,nên nâng cao cơ sở vật chất của trường,Tiêu cực,Cơ sở vật chất,9
+"ít có thời gian thực hành bằng thiết bị thật , mong nhà trường tạo điều kiện để sinh viên được thực hành nhiều hơn .",0,2,test,ít có thời gian thực hành bằng thiết bị thật mong nhà trường tạo điều kiện để sinh viên được thực hành nhiều hơn,Tiêu cực,Cơ sở vật chất,24
+phòng học còn khá ồn do công trình xây dựng .,0,2,test,phòng học còn khá ồn do công trình xây dựng,Tiêu cực,Cơ sở vật chất,10
+"không riêng gì em mà tất cả các bạn trong lớp cũng đều mong trường sẽ nhanh chóng trang bị hệ thống máy mới cho môn này ít nhất là ram 4 gb , cpu 2 lõi tốc độ 3dot0 ghz .",0,2,test,không riêng gì em mà tất cả các bạn trong lớp cũng đều mong trường sẽ nhanh chóng trang bị hệ thống máy mới cho môn này ít nhất là ram 4 gb cpu 2 lõi tốc độ 3dot0 ghz,Tiêu cực,Cơ sở vật chất,40
+máy chiếu mờ .,0,2,test,máy chiếu mờ,Tiêu cực,Cơ sở vật chất,3
+nên cải thiện thiết bị để giáo viên truyền đạt được dễ ràng hơn .,0,2,test,nên cải thiện thiết bị để giáo viên truyền đạt được dễ ràng hơn,Tiêu cực,Cơ sở vật chất,14
+"phòng máy , thết bị cũ .",0,2,test,phòng máy thết bị cũ,Tiêu cực,Cơ sở vật chất,5
+"phòng giảng đường quá nóng , bảng ở xa nên không nhìn thấy chữ ở trên bảng .",0,2,test,phòng giảng đường quá nóng bảng ở xa nên không nhìn thấy chữ ở trên bảng,Tiêu cực,Cơ sở vật chất,16
+cần đổi máy chiếu .,0,2,test,cần đổi máy chiếu,Tiêu cực,Cơ sở vật chất,4
+phòng máy nên được quan tâm vì nhiều máy hỏng làm nhiều bạn không có laptop khó thực hành .,0,2,test,phòng máy nên được quan tâm vì nhiều máy hỏng làm nhiều bạn không có laptop khó thực hành,Tiêu cực,Cơ sở vật chất,19
+"phòng thực hành nên trang bị máy mới , thật sự khó chịu khi đang thực hành mà máy treo , máy hư .",0,2,test,phòng thực hành nên trang bị máy mới thật sự khó chịu khi đang thực hành mà máy treo máy hư,Tiêu cực,Cơ sở vật chất,21
+cần cải thiện chất lượng các trang bị trong phòng học vì hay có trường hợp nhiễu tín hiệu âm thanh giữa các phòng .,0,2,test,cần cải thiện chất lượng các trang bị trong phòng học vì hay có trường hợp nhiễu tín hiệu âm thanh giữa các phòng,Tiêu cực,Cơ sở vật chất,24
+"đề nghị cải thiện chất lượng phòng thí nghiệm , vì phòng thí nghiệm không có đầy đủ trang thiết bị cho việc thực hành , ví dụ như doubledot rất nhiều máy không có chuột , nhiều máy hỏng không bật được .",0,2,test,đề nghị cải thiện chất lượng phòng thí nghiệm vì phòng thí nghiệm không có đầy đủ trang thiết bị cho việc thực hành ví dụ như doubledot rất nhiều máy không có chuột nhiều máy hỏng không bật được,Tiêu cực,Cơ sở vật chất,40
+máy chiếu rõ hơn .,0,2,test,máy chiếu rõ hơn,Tiêu cực,Cơ sở vật chất,4
+"phòng học nên được trang bị lại doubledot hệ thống máy chiếu , đèn , quạt .",0,2,test,phòng học nên được trang bị lại doubledot hệ thống máy chiếu đèn quạt,Tiêu cực,Cơ sở vật chất,14
+chỉ có cơ sở vật chất trường còn hạn chế .,0,2,test,chỉ có cơ sở vật chất trường còn hạn chế,Tiêu cực,Cơ sở vật chất,10
+nên cài các phiên bản visual studio mới hơn .,0,2,test,nên cài các phiên bản visual studio mới hơn,Tiêu cực,Cơ sở vật chất,9
+nhà trường cần cải tiến thiết bị trong phòng học vì máy chiếu quá mờ .,0,2,test,nhà trường cần cải tiến thiết bị trong phòng học vì máy chiếu quá mờ,Tiêu cực,Cơ sở vật chất,15
+"chất lượng trang thiết bị hỗ trợ cho môn học chưa tốt , cần được thay thế đổi mới .",0,2,test,chất lượng trang thiết bị hỗ trợ cho môn học chưa tốt cần được thay thế đổi mới,Tiêu cực,Cơ sở vật chất,18
+"máy tính thực hành quá tệ , cần được trang bị mới hơn .",0,2,test,máy tính thực hành quá tệ cần được trang bị mới hơn,Tiêu cực,Cơ sở vật chất,12
+"phòng thực hành về java nhưng máy tính lại không cài netbean , em mong trong những học kỳ sau trường sẽ khắc phục vấn đề này .",0,2,test,phòng thực hành về java nhưng máy tính lại không cài netbean em mong trong những học kỳ sau trường sẽ khắc phục vấn đề này,Tiêu cực,Cơ sở vật chất,26
+nâng cấp hệ thống máy tình phòng thực hành .,0,2,test,nâng cấp hệ thống máy tình phòng thực hành,Tiêu cực,Cơ sở vật chất,9
+để sinh viên thực hành nhiều hơn .,0,2,test,để sinh viên thực hành nhiều hơn,Tiêu cực,Cơ sở vật chất,7
+"phòng máy thực hành còn yếu , máy chạy chậm hay đơ , thỉnh thoảng còn hư , mạng để hỗ trợ ta cứu trong phòng máy còn chậm .",0,2,test,phòng máy thực hành còn yếu máy chạy chậm hay đơ thỉnh thoảng còn hư mạng để hỗ trợ ta cứu trong phòng máy còn chậm,Tiêu cực,Cơ sở vật chất,26
+nâng cấp máy chiếu vì máy chiếu đã mờ !,0,2,test,nâng cấp máy chiếu vì máy chiếu đã mờ,Tiêu cực,Cơ sở vật chất,9
+phòng học cần có rèm để máy chiếu được rõ ràng .,0,2,test,phòng học cần có rèm để máy chiếu được rõ ràng,Tiêu cực,Cơ sở vật chất,11
+nhờ nhà trường cấp thêm quạt .,0,2,test,nhờ nhà trường cấp thêm quạt,Tiêu cực,Cơ sở vật chất,6
+nên trang bị thêm rèm che cửa sổ vì doubledot khi mở máy chiếu thì mấy bạn ở dưới cuối lớp xem không được rõ .,0,2,test,nên trang bị thêm rèm che cửa sổ vì doubledot khi mở máy chiếu thì mấy bạn ở dưới cuối lớp xem không được rõ,Tiêu cực,Cơ sở vật chất,25
+hệ thống loa không rõ .,0,2,test,hệ thống loa không rõ,Tiêu cực,Cơ sở vật chất,5
+lớp học chỉ hơi nóng .,0,2,test,lớp học chỉ hơi nóng,Tiêu cực,Cơ sở vật chất,5
+"phòng học có máy chiếu quá mờ , đôi khi trời nắng không thể nhìn rõ .",0,2,test,phòng học có máy chiếu quá mờ đôi khi trời nắng không thể nhìn rõ,Tiêu cực,Cơ sở vật chất,15
+đề thi của thầy khá hay khi khai thác thực tiễn .,1,2,test,đề thi của thầy khá hay khi khai thác thực tiễn,Tích cực,Cơ sở vật chất,11
+sẽ có thông báo đi học cụ thể trên phòng máy để sửa chữa bài tập cho những ai chưa hiểu rõ cách làm .,1,2,test,sẽ có thông báo đi học cụ thể trên phòng máy để sửa chữa bài tập cho những ai chưa hiểu rõ cách làm,Tích cực,Cơ sở vật chất,24
+hy vọng nhà trường nâng cấp các máy cũ trong phòng máy thực hành để sinh viên bọn em có đủ số máy để học tập .,0,2,test,hy vọng nhà trường nâng cấp các máy cũ trong phòng máy thực hành để sinh viên bọn em có đủ số máy để học tập,Tiêu cực,Cơ sở vật chất,26
+"đề nghị nên lắp đặt thêm màn che ở các cửa sổ phòng học , để có thể xem rõ máy chiếu hơn .",0,2,test,đề nghị nên lắp đặt thêm màn che ở các cửa sổ phòng học để có thể xem rõ máy chiếu hơn,Tiêu cực,Cơ sở vật chất,22
+"phòng máy cũ , nhưng nhìn chung thì không có ảnh hưởng gì vì thầy dạy rất nhiệt tình .",2,2,test,phòng máy cũ nhưng nhìn chung thì không có ảnh hưởng gì vì thầy dạy rất nhiệt tình,Trung lập,Cơ sở vật chất,18
+"phòng còn thiếu chất lượng , nhất là máy chiếu , máy chiếu gì mà mờ vàng không , làm giảm chất lượng slide trình chiếu , ảnh hưởng tới khả năng tiếp thu khi thầy wzjwz33 mô phỏng lý thuyết bằng hình ảnh .",0,2,test,phòng còn thiếu chất lượng nhất là máy chiếu máy chiếu gì mà mờ vàng không làm giảm chất lượng slide trình chiếu ảnh hưởng tới khả năng tiếp thu khi thầy wzjwz33 mô phỏng lý thuyết bằng hình ảnh,Tiêu cực,Cơ sở vật chất,40
+phòng lab khoa wzjwz143 quá nóng .,0,2,test,phòng lab khoa wzjwz143 quá nóng,Tiêu cực,Cơ sở vật chất,6
+"phòng máy không đáp ứng tốt , gây khó khăn cho việc làm bài .",0,2,test,phòng máy không đáp ứng tốt gây khó khăn cho việc làm bài,Tiêu cực,Cơ sở vật chất,13
+thiết bị để làm còn ít .,0,2,test,thiết bị để làm còn ít,Tiêu cực,Cơ sở vật chất,6
+vật chất cần cải tiến .,0,2,test,vật chất cần cải tiến,Tiêu cực,Cơ sở vật chất,5
+phòng thực hành còn chưa đảm bảo đủ số lượng học sinh của lớp học thực hành .,0,2,test,phòng thực hành còn chưa đảm bảo đủ số lượng học sinh của lớp học thực hành,Tiêu cực,Cơ sở vật chất,17
+"phòng lab thực hành đã quá cũ nát , nên cải tiến và xây dựng hệ thống phòng lab để sinh viên có thể thực hành các kỹ năng của môn học này .",0,2,test,phòng lab thực hành đã quá cũ nát nên cải tiến và xây dựng hệ thống phòng lab để sinh viên có thể thực hành các kỹ năng của môn học này,Tiêu cực,Cơ sở vật chất,32
+tránh trường hợp sử dụng phòng wzjwz136 vì phòng này rất nhỏ không đảm bảo để cho việc thực hành .,0,2,test,tránh trường hợp sử dụng phòng wzjwz136 vì phòng này rất nhỏ không đảm bảo để cho việc thực hành,Tiêu cực,Cơ sở vật chất,20
+sử dụng thời gian ở lớp hiệu quả .,1,2,test,sử dụng thời gian ở lớp hiệu quả,Tích cực,Cơ sở vật chất,8
+"cần cải tiến trang thiết bị phòng học , wifi .",0,2,test,cần cải tiến trang thiết bị phòng học wifi,Tiêu cực,Cơ sở vật chất,9
+phòng lab trang bị máy cấu hình không đủ để chạy máy ảo .,0,2,test,phòng lab trang bị máy cấu hình không đủ để chạy máy ảo,Tiêu cực,Cơ sở vật chất,13
+thiếu điều kiện thực hành trên các thiết bị thật .,0,2,test,thiếu điều kiện thực hành trên các thiết bị thật,Tiêu cực,Cơ sở vật chất,10
+trang thiết bị thực hành nên được đầu tư hơn .,0,2,test,trang thiết bị thực hành nên được đầu tư hơn,Tiêu cực,Cơ sở vật chất,10
+hay bị trục trặc khi sử dụng .,0,2,test,hay bị trục trặc khi sử dụng,Tiêu cực,Cơ sở vật chất,7
+"trang bị máy tốt hơn , máy chạy chậm ảnh hưởng việc học .",0,2,test,trang bị máy tốt hơn máy chạy chậm ảnh hưởng việc học,Tiêu cực,Cơ sở vật chất,12
+hệ thống âm thanh hỗ trợ những bài nghe không được như yêu cầu môn học .,0,2,test,hệ thống âm thanh hỗ trợ những bài nghe không được như yêu cầu môn học,Tiêu cực,Cơ sở vật chất,16
+tăng thêm thiết bị để hỗ trợ tốt hơn cho việc học tập .,0,2,test,tăng thêm thiết bị để hỗ trợ tốt hơn cho việc học tập,Tiêu cực,Cơ sở vật chất,13
+"cần sắp xếp phòng học phù hợp với số lượng sinh viên , vệ sinh phòng học còn nhiều mặt chưa tốt .",0,2,test,cần sắp xếp phòng học phù hợp với số lượng sinh viên vệ sinh phòng học còn nhiều mặt chưa tốt,Tiêu cực,Cơ sở vật chất,21
+"phòng máy cần cung cấp thêm thiết bị cho sinh viên , các pc có vẻ cũng lâu cũ .",0,2,test,phòng máy cần cung cấp thêm thiết bị cho sinh viên các pc có vẻ cũng lâu cũ,Tiêu cực,Cơ sở vật chất,18
+"các phần mềm sử dụng phiên bản quá cũ , nên update để phù hợp với chương trình đào tạo và thực hành của sinh viên ở nhà .",0,2,test,các phần mềm sử dụng phiên bản quá cũ nên update để phù hợp với chương trình đào tạo và thực hành của sinh viên ở nhà,Tiêu cực,Cơ sở vật chất,27
+trang bị máy tính hiện đại hơn .,0,2,test,trang bị máy tính hiện đại hơn,Tiêu cực,Cơ sở vật chất,7
+"cải thiện cho em chất lượng máy chiếu phòng wzjwz113 , học gần công trình đang thi công ồn lắm .",0,2,test,cải thiện cho em chất lượng máy chiếu phòng wzjwz113 học gần công trình đang thi công ồn lắm,Tiêu cực,Cơ sở vật chất,19
+"lớp wzjwz76 tài năng của em nên được học ở phòng máy tốt , chất lượng ổn định hơn .",0,2,test,lớp wzjwz76 tài năng của em nên được học ở phòng máy tốt chất lượng ổn định hơn,Tiêu cực,Cơ sở vật chất,18
+môn học yêu cầu mang laptop đi thực hành ngay trên lớp nhưng phòng học thiếu ổ điện để duy trì pin cho laptop nên em không thực hành được nhiều .,0,2,test,môn học yêu cầu mang laptop đi thực hành ngay trên lớp nhưng phòng học thiếu ổ điện để duy trì pin cho laptop nên em không thực hành được nhiều,Tiêu cực,Cơ sở vật chất,31
+mạng khởi động lâu .,0,2,test,mạng khởi động lâu,Tiêu cực,Cơ sở vật chất,4
+máy chiếu của phòng học wzjwz141 khó nhìn quá .,0,2,test,máy chiếu của phòng học wzjwz141 khó nhìn quá,Tiêu cực,Cơ sở vật chất,9
+"sửa lại micro và loa phòng học , phòng wzjwz165 .",0,2,test,sửa lại micro và loa phòng học phòng wzjwz165,Tiêu cực,Cơ sở vật chất,9
+"thay vì đầu tư vào phòng máy , nhà trường nên nâng cấp hệ thống wifi để sinh viên có thể truy cập wifi tốt cho dù có phải ngồi trong phòng học phòng bình thường , không phải phòng máy .",0,2,test,thay vì đầu tư vào phòng máy nhà trường nên nâng cấp hệ thống wifi để sinh viên có thể truy cập wifi tốt cho dù có phải ngồi trong phòng học phòng bình thường không phải phòng máy,Tiêu cực,Cơ sở vật chất,39
+vì đặc thù môn mạng máy tính lại cần có mạng .,0,2,test,vì đặc thù môn mạng máy tính lại cần có mạng,Tiêu cực,Cơ sở vật chất,11
+"sử dụng website môn học , trang thiết bị phục vu giảng dạy còn hạn chế máy chiếu quá mờ , phòng học bị nắng .",0,2,test,sử dụng website môn học trang thiết bị phục vu giảng dạy còn hạn chế máy chiếu quá mờ phòng học bị nắng,Tiêu cực,Cơ sở vật chất,23
+"máy chiếu phòng wzjwz126 quá mờ , đề nghị được sửa sớm để phục vụ tốt hơn cho học tập .",0,2,test,máy chiếu phòng wzjwz126 quá mờ đề nghị được sửa sớm để phục vụ tốt hơn cho học tập,Tiêu cực,Cơ sở vật chất,19
+"phòng máy không đảm bảo , nhiều máy bị hư , các bạn sinh viên phải mang laptop theo , rất cực .",0,2,test,phòng máy không đảm bảo nhiều máy bị hư các bạn sinh viên phải mang laptop theo rất cực,Tiêu cực,Cơ sở vật chất,19
+"phòng thực hành wzjwz34 có máy lạnh hư , dẫn tới trong phòng đôi khi rất nóng , phòng có trang bị bảng sử dụng bút lông nhưng bút lông luôn hết mực khi giảng viên cần sử dụng gây khó khăn trong việc hướng dẫn của giảng viên .",0,2,test,phòng thực hành wzjwz34 có máy lạnh hư dẫn tới trong phòng đôi khi rất nóng phòng có trang bị bảng sử dụng bút lông nhưng bút lông luôn hết mực khi giảng viên cần sử dụng gây khó khăn trong việc hướng dẫn của giảng viên,Tiêu cực,Cơ sở vật chất,47
+"cải thiện màn hình slide , khó nhìn .",0,2,test,cải thiện màn hình slide khó nhìn,Tiêu cực,Cơ sở vật chất,7
+bộ kit thực hành hầu như tất cả đã hỏng .,0,2,test,bộ kit thực hành hầu như tất cả đã hỏng,Tiêu cực,Cơ sở vật chất,10
+"nhiều bạn trong lớp đã phải mua thêm ram , ổ cứng để đáp ứng nhu cầu .",0,2,test,nhiều bạn trong lớp đã phải mua thêm ram ổ cứng để đáp ứng nhu cầu,Tiêu cực,Cơ sở vật chất,16
+"phần thực hành môn hệ điều hành linux cần máy tính cấu hình mạnh để chạy 4 máy ảo cùng lúc , do yêu cầu của môn học thực hành .",0,2,test,phần thực hành môn hệ điều hành linux cần máy tính cấu hình mạnh để chạy 4 máy ảo cùng lúc do yêu cầu của môn học thực hành,Tiêu cực,Cơ sở vật chất,29
+"phòng thiết bị khoa wzjwz49 cần được chuyển sang phòng khác rộng hơn , thay vì là phòng nhỏ tí như cái kho , cần cho nhân viên vệ sinh thường xuyên , bụi đóng dày cả lớp , thiết bị ở phòng thực hành cần thường xuyên xem xét sửa chữa xem có đứt dây , lỏng hay hư hỏng gì không , vệ sinh bụi .",0,2,test,phòng thiết bị khoa wzjwz49 cần được chuyển sang phòng khác rộng hơn thay vì là phòng nhỏ tí như cái kho cần cho nhân viên vệ sinh thường xuyên bụi đóng dày cả lớp thiết bị ở phòng thực hành cần thường xuyên xem xét sửa chữa xem có đứt dây lỏng hay hư hỏng gì không vệ sinh bụi,Tiêu cực,Cơ sở vật chất,61
+phòng wzjwz64 lắp đèn gây khó chịu mắt quá .,0,2,test,phòng wzjwz64 lắp đèn gây khó chịu mắt quá,Tiêu cực,Cơ sở vật chất,9
+trang thiết bị phòng học cần được nâng cấp .,0,2,test,trang thiết bị phòng học cần được nâng cấp,Tiêu cực,Cơ sở vật chất,9
+"nên trang bị mới loa và micro , vệ sinh phòng học .",0,2,test,nên trang bị mới loa và micro vệ sinh phòng học,Tiêu cực,Cơ sở vật chất,11
+máy chiếu thường có vấn đề ở phòng wzjwz145 .,0,2,test,máy chiếu thường có vấn đề ở phòng wzjwz145,Tiêu cực,Cơ sở vật chất,9
+"môn học đòi hỏi máy tính sinh viên thực hành có cấu hình cao tuy nhiên , có nhiều sinh viên không thể đảm bao điều kiện .",0,2,test,môn học đòi hỏi máy tính sinh viên thực hành có cấu hình cao tuy nhiên có nhiều sinh viên không thể đảm bao điều kiện,Tiêu cực,Cơ sở vật chất,26
+"phòng học cần mát mẻ và ít bụi hơn , các bộ mạch , bộ kit thí nghiệm trong phòng lab khoa wzjwz38 cần được bảo trì , sửa chữa thường xuyên , hầu như là không còn cái nào đảm bao chất lượng cả , có cái thì hỏng một ít có cái thì hỏng hết để đấy .",0,2,test,phòng học cần mát mẻ và ít bụi hơn các bộ mạch bộ kit thí nghiệm trong phòng lab khoa wzjwz38 cần được bảo trì sửa chữa thường xuyên hầu như là không còn cái nào đảm bao chất lượng cả có cái thì hỏng một ít có cái thì hỏng hết để đấy,Tiêu cực,Cơ sở vật chất,54
+phòng máy nên được nâng cấp .,0,2,test,phòng máy nên được nâng cấp,Tiêu cực,Cơ sở vật chất,6
+trang thiết bị tốt .,1,2,test,trang thiết bị tốt,Tích cực,Cơ sở vật chất,4
+máy chiếu hơi mờ .,0,2,test,máy chiếu hơi mờ,Tiêu cực,Cơ sở vật chất,4
+cần phải có các thiết bị phục vụ cho môn học tốt hơn .,0,2,test,cần phải có các thiết bị phục vụ cho môn học tốt hơn,Tiêu cực,Cơ sở vật chất,13
+cần cập nhật trang thiết bị mô phỏng lại những quá trình được dạy .,0,2,test,cần cập nhật trang thiết bị mô phỏng lại những quá trình được dạy,Tiêu cực,Cơ sở vật chất,14
+giảng đường nên gắn thêm quạt hoặc máy lạnh .,0,2,test,giảng đường nên gắn thêm quạt hoặc máy lạnh,Tiêu cực,Cơ sở vật chất,9
+màn hình chiếu của phòng còn mờ .,0,2,test,màn hình chiếu của phòng còn mờ,Tiêu cực,Cơ sở vật chất,7
+cơ sở vật chất còn ảnh hưởng đến chất lượng môn học .,0,2,test,cơ sở vật chất còn ảnh hưởng đến chất lượng môn học,Tiêu cực,Cơ sở vật chất,12
+nhà trường hỗ trợ nhiều hơn về các thiết bị dạy và học .,0,2,test,nhà trường hỗ trợ nhiều hơn về các thiết bị dạy và học,Tiêu cực,Cơ sở vật chất,13
+"loa và micro còn gặp nhiều sự cố trong quá trình giảng dạy , đặc biệt là kỹ năng nghe .",0,2,test,loa và micro còn gặp nhiều sự cố trong quá trình giảng dạy đặc biệt là kỹ năng nghe,Tiêu cực,Cơ sở vật chất,19
+"đầu tư , nâng cấp hệ thống phòng máy , có biện pháp quản lý để giám sát việc cài đặt các chương trình không phục vụ mục đích học tập , các phần mềm độc hại vào các máy tính .",0,2,test,đầu tư nâng cấp hệ thống phòng máy có biện pháp quản lý để giám sát việc cài đặt các chương trình không phục vụ mục đích học tập các phần mềm độc hại vào các máy tính,Tiêu cực,Cơ sở vật chất,38
+"cần hỗ trợ các cộng cụ dạy học như micro , máy chiếu .",0,2,test,cần hỗ trợ các cộng cụ dạy học như micro máy chiếu,Tiêu cực,Cơ sở vật chất,12
+"nhà trường nên trang bị rèm cửa sổ để tránh ánh sáng làm mờ máy chiếu , gây khó khăn trong việc báo cáo đồ án cũng như dạy học cần nâng cấp hệ thống wifi vì khi vào phòng thực hành , wifi không sử dụng được , sinh viên buộc phải ra bên ngoài để làm bài .",0,2,test,nhà trường nên trang bị rèm cửa sổ để tránh ánh sáng làm mờ máy chiếu gây khó khăn trong việc báo cáo đồ án cũng như dạy học cần nâng cấp hệ thống wifi vì khi vào phòng thực hành wifi không sử dụng được sinh viên buộc phải ra bên ngoài để làm bài,Tiêu cực,Cơ sở vật chất,56
+cơ sở vật chất ảnh hưởng đến chất lượng môn học .,0,2,test,cơ sở vật chất ảnh hưởng đến chất lượng môn học,Tiêu cực,Cơ sở vật chất,11
+"phòng thực hành không đủ ổ cắm , wifi yếu nên việc dạy , demo , thuyết trình , học tập gặp hạn chế .",0,2,test,phòng thực hành không đủ ổ cắm wifi yếu nên việc dạy demo thuyết trình học tập gặp hạn chế,Tiêu cực,Cơ sở vật chất,20
+"các máy tính ở các phòng thực hành hầu hết đề cũ , cấu hình thấp không thể đáp ứng được nhu cầu sử dụng cho việc học tập của sinh viên .",0,2,test,các máy tính ở các phòng thực hành hầu hết đề cũ cấu hình thấp không thể đáp ứng được nhu cầu sử dụng cho việc học tập của sinh viên,Tiêu cực,Cơ sở vật chất,31
+cải thiện vật chất như máy chiếu cho phòng học .,0,2,test,cải thiện vật chất như máy chiếu cho phòng học,Tiêu cực,Cơ sở vật chất,10
+nâng cao chất lượng phòng học .,0,2,test,nâng cao chất lượng phòng học,Tiêu cực,Cơ sở vật chất,6
+phòng thực hành ghế cao quá khiến học sinh ngồi dễ mỏi lưng .,0,2,test,phòng thực hành ghế cao quá khiến học sinh ngồi dễ mỏi lưng,Tiêu cực,Cơ sở vật chất,13
+"cần thay đổi hệ thống máy tính ở một số phòng thực hành vì đã quá cũ , không đủ cấu hình để thực hành .",0,2,test,cần thay đổi hệ thống máy tính ở một số phòng thực hành vì đã quá cũ không đủ cấu hình để thực hành,Tiêu cực,Cơ sở vật chất,24
+"theo em , giảng đường hơi nóng .",0,2,test,theo em giảng đường hơi nóng,Tiêu cực,Cơ sở vật chất,6
+"cơ sở vật chất cần tăng cường hơn , vệ sinh phòng học , hành lang nên tiến hành buổi chiều sau khi sinh viên tan học hoặc sáng sớm , không nên để khi mở cửa cho sinh viên vào 7h20 mới quét rất bụi và ảnh hưởng đến sinh viên , sáng sớm đi học ở hành lang 7h15 - 7h20 cũng quét rất bụi và quét hắt thẳng vào sinh viên đang đi trên hành lang rất khó ứng xử mong ban quản lý cơ sở có ý kiến thêm về việc này .",0,2,test,cơ sở vật chất cần tăng cường hơn vệ sinh phòng học hành lang nên tiến hành buổi chiều sau khi sinh viên tan học hoặc sáng sớm không nên để khi mở cửa cho sinh viên vào 7h20 mới quét rất bụi và ảnh hưởng đến sinh viên sáng sớm đi học ở hành lang 7h15 7h20 cũng quét rất bụi và quét hắt thẳng vào sinh viên đang đi trên hành lang rất khó ứng xử mong ban quản lý cơ sở có ý kiến thêm về việc này,Tiêu cực,Cơ sở vật chất,91
+cần nâng cấp phần mềm lập trình và dàn máy tính thực hành .,0,2,test,cần nâng cấp phần mềm lập trình và dàn máy tính thực hành,Tiêu cực,Cơ sở vật chất,13
+cơ sở vật chất .,2,2,test,cơ sở vật chất,Trung lập,Cơ sở vật chất,4
+"cần nâng cấp phòng máy và phần mềm của phòng máy , vì tụi em dùng phần mềm 2013 nhưng phòng máy có máy chỉ có phần mêm 2008 , vì thế rất khó thích ứng và nhất là trong giờ kiểm tra .",0,2,test,cần nâng cấp phòng máy và phần mềm của phòng máy vì tụi em dùng phần mềm 2013 nhưng phòng máy có máy chỉ có phần mêm 2008 vì thế rất khó thích ứng và nhất là trong giờ kiểm tra,Tiêu cực,Cơ sở vật chất,41
+đề nghị nhà trường có thêm phòng lab để sinh viên học phần nghe được dễ dàng và có hiệu quả hơn !,0,2,test,đề nghị nhà trường có thêm phòng lab để sinh viên học phần nghe được dễ dàng và có hiệu quả hơn,Tiêu cực,Cơ sở vật chất,22
+"trang thiết bị của phòng thực hành quá cũ kỹ , bụi bặm , không được bảo trì , cập nhật , nâng cấp .",0,2,test,trang thiết bị của phòng thực hành quá cũ kỹ bụi bặm không được bảo trì cập nhật nâng cấp,Tiêu cực,Cơ sở vật chất,20
+"phòng thực hành nóng , khó chịu , hệ thống máy lạnh hay gặp sự cố , cửa phòng cũng hay có vấn đề .",0,2,test,phòng thực hành nóng khó chịu hệ thống máy lạnh hay gặp sự cố cửa phòng cũng hay có vấn đề,Tiêu cực,Cơ sở vật chất,21
+"chất lượng phòng học cần được cải thiện , cần cải thiện hệ thống điện , máy chiếu cần được cải thiện .",0,2,test,chất lượng phòng học cần được cải thiện cần cải thiện hệ thống điện máy chiếu cần được cải thiện,Tiêu cực,Cơ sở vật chất,20
+nâng cấp thiết bị phòng lab .,0,2,test,nâng cấp thiết bị phòng lab,Tiêu cực,Cơ sở vật chất,6
+phòng học và thiết bị cần được cải thiện .,0,2,test,phòng học và thiết bị cần được cải thiện,Tiêu cực,Cơ sở vật chất,9
+"cần xem lại những chiếc máy chiếu ở phòng wzjwz40 rất mờ so với phòng wzjwz41 , khi chiếu demo không thấy gì hết !",0,2,test,cần xem lại những chiếc máy chiếu ở phòng wzjwz40 rất mờ so với phòng wzjwz41 khi chiếu demo không thấy gì hết,Tiêu cực,Cơ sở vật chất,23
+"phòng học chất lượng còn kém phòng lab thực hành có đầu tư , máy tính tốt , còn các thiết bị thực hành đầy đủ nhưng còn hỏng hóc nhiều .",0,2,test,phòng học chất lượng còn kém phòng lab thực hành có đầu tư máy tính tốt còn các thiết bị thực hành đầy đủ nhưng còn hỏng hóc nhiều,Tiêu cực,Cơ sở vật chất,29
+do phòng thực hành quá nhỏ nên phòng đào tạo cần chia ca thực hành chứ không nên đề các bạn kéo đến và không có chỗ ngồi .,0,2,test,do phòng thực hành quá nhỏ nên phòng đào tạo cần chia ca thực hành chứ không nên đề các bạn kéo đến và không có chỗ ngồi,Tiêu cực,Cơ sở vật chất,28
+nâng cấp phòng máy thực hành .,0,2,test,nâng cấp phòng máy thực hành,Tiêu cực,Cơ sở vật chất,6
+cải thiện chất lượng máy chiếu .,0,2,test,cải thiện chất lượng máy chiếu,Tiêu cực,Cơ sở vật chất,6
+"phòng học còn nhiều bụi , máy chiếu thường xuyên bị trục trặc , âm thanh của loa chưa tốt .",0,2,test,phòng học còn nhiều bụi máy chiếu thường xuyên bị trục trặc âm thanh của loa chưa tốt,Tiêu cực,Cơ sở vật chất,18
+cần bảo trì máy tính nhất là bàn phím và chuột .,0,2,test,cần bảo trì máy tính nhất là bàn phím và chuột,Tiêu cực,Cơ sở vật chất,11
+phòng máy có vấn đề .,0,2,test,phòng máy có vấn đề,Tiêu cực,Cơ sở vật chất,5
+phòng thực hành cần có một số nâng cấp nhỏ về phần mềm lập trình để sinh viên cảm thấy hứng thú hơn để đến học .,0,2,test,phòng thực hành cần có một số nâng cấp nhỏ về phần mềm lập trình để sinh viên cảm thấy hứng thú hơn để đến học,Tiêu cực,Cơ sở vật chất,26
+máy chiếu trong phòng quá mờ .,0,2,test,máy chiếu trong phòng quá mờ,Tiêu cực,Cơ sở vật chất,6
+"theo em , trường cần trang bị lại máy chiếu , phòng học còn nóng .",0,2,test,theo em trường cần trang bị lại máy chiếu phòng học còn nóng,Tiêu cực,Cơ sở vật chất,13
+phòng lab khoa mạng có chất lượng khá thấp .,0,2,test,phòng lab khoa mạng có chất lượng khá thấp,Tiêu cực,Cơ sở vật chất,9
+cơ sở vật chất máy tính trường cần được nâng cấp .,0,2,test,cơ sở vật chất máy tính trường cần được nâng cấp,Tiêu cực,Cơ sở vật chất,11
+sửa lại các máy chiếu điển hình là phòng wzjwz150 .,0,2,test,sửa lại các máy chiếu điển hình là phòng wzjwz150,Tiêu cực,Cơ sở vật chất,10
+nên nâng cấp hệ thống phòng thí nghiệm .,0,2,test,nên nâng cấp hệ thống phòng thí nghiệm,Tiêu cực,Cơ sở vật chất,8
+cần thêm nhiều thiết bị hỗi trợ học tập .,0,2,test,cần thêm nhiều thiết bị hỗi trợ học tập,Tiêu cực,Cơ sở vật chất,9
+"phòng học còn nóng và bụi bặm , máy chiếu tuy vẫn nhìn được nhưng như thế là mờ , ngồi xa hay hôm nào trời sáng quá sẽ khó thấy , việc chia hay phân công đề tài giảng viên cần tự làm thay vì giao cho lớp trưởng lúc đó sẽ không khách quan nữa vì có sự thiên vị giành giật .",0,2,test,phòng học còn nóng và bụi bặm máy chiếu tuy vẫn nhìn được nhưng như thế là mờ ngồi xa hay hôm nào trời sáng quá sẽ khó thấy việc chia hay phân công đề tài giảng viên cần tự làm thay vì giao cho lớp trưởng lúc đó sẽ không khách quan nữa vì có sự thiên vị giành giật,Tiêu cực,Cơ sở vật chất,61
+"nên đầu tư kỹ về trang thiết bị , nên thực hành nhiều hơn .",0,2,test,nên đầu tư kỹ về trang thiết bị nên thực hành nhiều hơn,Tiêu cực,Cơ sở vật chất,13
+máy chiếu phòng học quá mờ .,0,2,test,máy chiếu phòng học quá mờ,Tiêu cực,Cơ sở vật chất,6
+trang bị máy tính tốt hơn .,0,2,test,trang bị máy tính tốt hơn,Tiêu cực,Cơ sở vật chất,6
+"phòng lab wzjwz65 còn rất nóng và nhiều bụi bẩn , mong sớm khắc phục .",0,2,test,phòng lab wzjwz65 còn rất nóng và nhiều bụi bẩn mong sớm khắc phục,Tiêu cực,Cơ sở vật chất,14
+cần nâng cao cơ sở vật chất và phòng học vì thiếu phòng để thực hành .,0,2,test,cần nâng cao cơ sở vật chất và phòng học vì thiếu phòng để thực hành,Tiêu cực,Cơ sở vật chất,16
+nâng cấp các thiết bị phục vụ thực hành .,0,2,test,nâng cấp các thiết bị phục vụ thực hành,Tiêu cực,Cơ sở vật chất,9
+nên lắp thêm máy điều hòa .,0,2,test,nên lắp thêm máy điều hòa,Tiêu cực,Cơ sở vật chất,6
+"cài phầm mềm của khoa wzjwz189 cực kỳ khó chịu , không biết mình sai chỗ nào .",0,2,test,cài phầm mềm của khoa wzjwz189 cực kỳ khó chịu không biết mình sai chỗ nào,Tiêu cực,Cơ sở vật chất,16
+"trang bị thêm thiết bị quạt , đèn .",0,2,test,trang bị thêm thiết bị quạt đèn,Tiêu cực,Cơ sở vật chất,7
+phòng học hơi ồn .,0,2,test,phòng học hơi ồn,Tiêu cực,Cơ sở vật chất,4
